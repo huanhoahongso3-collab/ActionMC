@@ -153,3 +153,34 @@
 [2025-08-24 13:32:59][INFO] /127.231.142.97 "GET /maps/world/tiles/0/x-3/z-2.prbm?932451 HTTP/1.1" 200 OK
 [2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x1/z1.png?758775 HTTP/1.1" 204 No Content
 [2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x1/z1.png?758775 HTTP/1.1" 200 OK
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x0/z1.png?758775 HTTP/1.1" 200 OK
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/2/x0/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.231.142.97 "GET /maps/world/tiles/0/x-3/z-3.prbm?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x0/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/2/x-1/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x-1/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x-1/z1.png?758775 HTTP/1.1" 200 OK
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/2/x-2/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x-2/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/2/x-3/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x-2/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/live/players.json?936012 HTTP/1.1" 200 OK
+[2025-08-24 13:33:00][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x-3/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:00][INFO] /127.231.142.97 "GET /maps/world/live/players.json?910684 HTTP/1.1" 200 OK
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/2/x-3/z0.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x-3/z1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x-3/z0.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/2/x-3/z-1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x-3/z-1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x-3/z0.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/2/x-3/z-2.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/1/x-3/z-2.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x-3/z-1.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.206.19.149 "GET /maps/world/tiles/3/x-3/z-2.png?758775 HTTP/1.1" 204 No Content
+[2025-08-24 13:33:01][INFO] /127.231.142.97 "GET /maps/world/live/markers.json?296242 HTTP/1.1" 200 OK
+[2025-08-24 13:33:02][INFO] /127.206.19.149 "GET /maps/world/live/players.json?616825 HTTP/1.1" 200 OK
+[2025-08-24 13:33:02][INFO] /127.231.142.97 "GET /maps/world/live/players.json?899191 HTTP/1.1" 200 OK
+[2025-08-24 13:33:03][INFO] /127.206.19.149 "GET /maps/world/live/players.json?694100 HTTP/1.1" 200 OK
+[2025-08-24 13:33:03][INFO] /127.231.142.97 "GET /maps/world/live/players.json?369777 HTTP/1.1" 200 OK
+[2025-08-24 13:33:05][INFO] /127.231.142.97 "GET /maps/world/live/players.json?848043 HTTP/1.1" 200 OK
+[2025-08-24 13:33:05][INFO] /127.206.19.149 "GET /maps/world/live/players.json?987552 HTTP/1.1" 200 OK
