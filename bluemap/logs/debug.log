@@ -887,3 +887,4 @@
 [2025-08-24 13:40:26][FINE] No renderer found for entity type: minecraft:falling_block
 [2025-08-24 13:41:09][FINE] No renderer found for entity type: minecraft:panda
 [2025-08-24 13:41:46][FINE] Unexpected exception trying to load preload region ('world/dimensions/heaven/sky/entities' -> x:0, z:-1): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:42:05][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:10, z:-19): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
