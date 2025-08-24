@@ -256,3 +256,4 @@
 [2025-08-24 14:26:08][INFO] /127.240.175.144 "GET /maps/world/live/players.json?691967 HTTP/1.1" 200 OK
 [2025-08-24 14:26:10][INFO] /127.240.175.144 "GET /maps/world/live/players.json?888336 HTTP/1.1" 200 OK
 [2025-08-24 14:26:11][INFO] /127.240.175.144 "GET /maps/world/live/markers.json?881042 HTTP/1.1" 200 OK
+[2025-08-24 14:33:35][INFO] /127.231.142.97 "GET / HTTP/1.1" 200 OK
