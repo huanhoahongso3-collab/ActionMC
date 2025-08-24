@@ -863,3 +863,5 @@
 [2025-08-24 13:39:22][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:46, z:22): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 13:39:25][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:50, z:22): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 13:39:27][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:51, z:22): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:39:31][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:37, z:23): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:39:33][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:38, z:23): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
