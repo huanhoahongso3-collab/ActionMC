@@ -808,3 +808,11 @@
 [2025-08-24 13:34:34][FINE] No renderer found for entity type: minecraft:chest_minecart
 [2025-08-24 13:34:35][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=none,bottom=false,east=none,south=low,north=low]
 [2025-08-24 13:34:35][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=low,bottom=true,east=none,south=tall,north=tall]
+[2025-08-24 13:34:37][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=low,bottom=true,east=tall,south=none,north=none]
+[2025-08-24 13:34:37][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=low,bottom=false,east=low,south=low,north=none]
+[2025-08-24 13:34:37][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=tall,bottom=true,east=tall,south=tall,north=low]
+[2025-08-24 13:34:38][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=none,bottom=true,east=tall,south=low,north=tall]
+[2025-08-24 13:34:38][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=low,bottom=true,east=low,south=tall,north=tall]
+[2025-08-24 13:34:42][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=none,bottom=true,east=tall,south=tall,north=low]
+[2025-08-24 13:34:42][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=low,bottom=false,east=none,south=low,north=low]
+[2025-08-24 13:34:42][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=tall,bottom=true,east=none,south=tall,north=tall]
