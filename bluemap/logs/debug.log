@@ -857,3 +857,5 @@
 [2025-08-24 14:04:07][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:45, z:-23): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 14:04:22][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:40, z:-13): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 14:06:35][FINE] No renderer found for entity type: minecraft:phantom
+[2025-08-24 14:13:32][FINE] Unexpected exception trying to load preload region ('world/dimensions/heaven/sky/entities' -> x:6, z:1): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 14:13:38][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:219, z:34): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
