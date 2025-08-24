@@ -816,3 +816,18 @@
 [2025-08-24 13:34:42][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=none,bottom=true,east=tall,south=tall,north=low]
 [2025-08-24 13:34:42][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=low,bottom=false,east=none,south=low,north=low]
 [2025-08-24 13:34:42][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=tall,bottom=true,east=none,south=tall,north=tall]
+[2025-08-24 13:34:50][FINE] Unexpected exception trying to load preload region ('world/entities' -> x:9, z:10): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:34:54][FINE] Unexpected exception trying to load chunk ('world/entities' -> x:289, z:322): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:34:56][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=tall,bottom=true,east=low,south=none,north=tall]
+[2025-08-24 13:34:57][FINE] No renderer found for block state: minecraft:pale_moss_carpet[west=none,bottom=true,east=none,south=tall,north=tall]
+[2025-08-24 13:35:00][FINE] No renderer found for entity type: minecraft:drowned
+[2025-08-24 13:35:01][FINE] No renderer found for entity type: minecraft:vindicator
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=south,flower_amount=2]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=west,flower_amount=2]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=east,flower_amount=2]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=east,flower_amount=4]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=north,flower_amount=3]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=south,flower_amount=1]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=east,flower_amount=3]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=south,flower_amount=3]
+[2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=west,flower_amount=4]
