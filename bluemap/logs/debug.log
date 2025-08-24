@@ -875,3 +875,7 @@
 [2025-08-24 14:18:50][FINE] Unexpected exception trying to load preload region ('world/dimensions/heaven/sky/entities' -> x:9, z:9): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 14:19:08][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:318, z:306): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 14:20:06][FINE] No renderer found for entity type: minecraft:falling_block
+[2025-08-24 14:20:19][FINE] No renderer found for entity type: minecraft:vindicator
+[2025-08-24 14:20:19][FINE] No renderer found for entity type: minecraft:mule
+[2025-08-24 14:20:19][FINE] No renderer found for entity type: minecraft:painting
+[2025-08-24 14:20:24][FINE] No renderer found for entity type: minecraft:donkey
