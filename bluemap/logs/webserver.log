@@ -1,0 +1,13 @@
+[2025-08-24 14:03:12][INFO] /127.24.16.250 "GET / HTTP/1.1" 200 OK
+[2025-08-24 14:03:13][INFO] /127.24.16.250 "GET /assets/index-b72fc5a8.js HTTP/1.1" 200 OK
+[2025-08-24 14:03:14][INFO] /127.24.16.250 "GET /assets/index-ffb10548.css HTTP/1.1" 200 OK
+[2025-08-24 14:03:19][INFO] /127.24.16.250 "GET /lang/settings.conf HTTP/1.1" 200 OK
+[2025-08-24 14:03:19][INFO] /127.24.16.250 "GET /assets/favicon-8768b872.png HTTP/1.1" 200 OK
+[2025-08-24 14:03:20][INFO] /127.24.16.250 "GET /lang/en.conf HTTP/1.1" 200 OK
+[2025-08-24 14:03:21][INFO] /127.24.16.250 "GET /settings.json?420799 HTTP/1.1" 200 OK
+[2025-08-24 14:03:21][INFO] /127.24.16.250 "GET /assets/Quicksand-06927fae.ttf HTTP/1.1" 200 OK
+[2025-08-24 14:03:21][INFO] /127.24.16.250 "GET /maps/world_heaven_sky/settings.json?746648 HTTP/1.1" 200 OK
+[2025-08-24 14:03:22][INFO] /127.24.16.250 "GET /maps/world/settings.json?746648 HTTP/1.1" 200 OK
+[2025-08-24 14:03:22][INFO] /127.24.16.250 "GET /maps/world_the_end/settings.json?746648 HTTP/1.1" 200 OK
+[2025-08-24 14:03:22][INFO] /127.24.16.250 "GET /maps/world_the_nether/settings.json?746648 HTTP/1.1" 200 OK
+[2025-08-24 14:03:23][INFO] /127.24.16.250 "GET /maps/world/textures.json?746648 HTTP/1.1" 200 OK
