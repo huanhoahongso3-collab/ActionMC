@@ -881,3 +881,7 @@
 [2025-08-24 13:40:10][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:57, z:29): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 13:40:12][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:58, z:29): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 13:40:14][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:58, z:30): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:40:17][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:59, z:30): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:40:20][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:48, z:31): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:40:25][FINE] No renderer found for entity type: minecraft:illusioner
+[2025-08-24 13:40:26][FINE] No renderer found for entity type: minecraft:falling_block
