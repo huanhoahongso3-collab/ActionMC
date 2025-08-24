@@ -1,0 +1,36 @@
+video:
+  name: thl
+  description: '&a/video thl set description <message>'
+  file-video-path: plugins/MediaPlayer/videos/thl.mp4
+  stream: false
+  stream-url: none
+  enable-audio: true
+  file-audio-path: plugins/MediaPlayer/videos/thl/audio
+  audio-volume: 1.0
+  audio-channels: 1
+  audio-offset: 0.0
+  frames-folder: plugins/MediaPlayer/videos/thl/frames
+  frame-rate: 30.0
+  original-frame-rate: 30.23715415019763
+  frames: 154
+  format: mp4
+  width: 3840
+  height: 2160
+  duration: 0h
+  speed: 1.0
+  size: 6.69 Mo
+  age-limit: false
+  looping: false
+  creation: 4/7/2025 7:6:54
+  data-folder: plugins/MediaPlayer/videos/thl/data
+  instances-folder: plugins/MediaPlayer/videos/thl/instances
+  compress-cache: true
+  real-time-rendering: false
+  skip-duplicated-frames: false
+  show-informations: true
+  show-fps: true
+  run-on-startup: false
+  minecraft-width: 30
+  minecraft-height: 17
+  loaded: true
+  views: 0

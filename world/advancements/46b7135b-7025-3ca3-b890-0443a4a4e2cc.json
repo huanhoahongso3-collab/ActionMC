@@ -1,0 +1,357 @@
+{
+  "vanillatweaks:glass_always_drops": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:durability_ping": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:classic_fishing_loot": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:cauldron_mud": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_raw_stats": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:villager_death": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trader_announcements": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:spawn": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:villager_workstation_highlights": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:storm_channeling": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:husks_drop_sand": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:painting_picker": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:spawning_spheres": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:ender_chest_always_drops": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_ghast_grief": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:chunk_loaders": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:silk_touch_budding_amethyst": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_effective_tools": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:track_stats": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:kill_empty_boats": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:custom_villager_shops": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:xp_management": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:elevators": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:name_colors": {
+    "criteria": {
+      "tick": "2025-08-21 22:45:55 -0400"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-21 22:45:56 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}

@@ -1,0 +1,27 @@
+#   Configuration file for DeathCords plugin by xDev120.
+#   hasToBeOperator: If true only server operators can use the plugin's commands. Else, everyone with the usebackcommand and/or the usebackcommandforothers permission can use the /back and the /back [player_name] respectively.
+#   allowToTeleportOtherPlayers: If true everyone with the appropriate permissions can use /back [player_name].
+#   allowDeathChest: If true players can use the /deathchest command to get a chest with their items.
+#   allowAutoDeathChest: If true a death chest is spawned at the location of death.
+#   doSendCordsToPlayer: If true the death coordinates are sent to the player after death.
+#   doSendCordsToAllPlayers: If true the death coordinates along with the player's display name are broadcasted to the whole server after a player's death.
+#   doAutoTeleportToDeathLocation: If true players are automatically teleported to their last death location. Can also be changed by /autotp.
+#   autoTeleportToDeathLocationDelay: The amount of time before the player auto-teleports to their last death location in seconds. Can also be changed by the command /autotp [delay].
+#   disableUseBackCommandPermission: If true, permission usebackcommand is not required to run the /back command.
+#   disableUseBackCommandForOthersPermission: If true, permission usebackcommandforothers is not required to run the /back [player_name] command.
+#   disableUseDeathChestPermission: If true, permission usedeathchest is not required to run the /deathchest command.
+#   disableAutoDeathChestPermission: If true, permission useautodeathcheast is not required to run the /autochest command.
+#   disableAllPermissions: If true, no permissions are required to run the plugin's commands.
+hasToBeOperator: false
+allowToTeleportOtherPlayers: false
+allowDeathChest: false
+allowAutoDeathChest: false
+doSendCordsToPlayer: true
+doSendCordsToAllPlayers: false
+doAutoTeleportToDeathLocation: false
+autoTeleportToDeathLocationDelay: 10
+disableUseBackCommandPermission: false
+disableUseBackCommandForOthersPermission: false
+disableUseDeathChestPermission: false
+disableAutoDeathChestPermission: false
+disableAllPermissions: false

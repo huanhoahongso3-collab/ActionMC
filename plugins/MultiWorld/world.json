@@ -1,0 +1,206 @@
+{
+  "world": {
+    "creator-name": "CONSOLE",
+    "creation-timestamp": 1.755149889956E12,
+    "flag": {
+      "auto-load-enabled": false,
+      "auto-unload-enabled": false,
+      "difficulty": "HARD",
+      "end-portal-accessible": true,
+      "game-mode": "SURVIVAL",
+      "force-game-mode": "false-with-permission",
+      "hunger-enabled": true,
+      "keep-spawn-in-memory": false,
+      "nether-portal-accessible": true,
+      "pvp-enabled": true,
+      "receive-achievements": true,
+      "redstone-enabled": true,
+      "spawn-animals": true,
+      "spawn-monsters": true,
+      "spawn-entities": true,
+      "weather-enabled": true
+    },
+    "generation": {
+      "environment": "NORMAL",
+      "generator": "NONE",
+      "type": "NORMAL"
+    },
+    "end-world": "world_the_end",
+    "nether-world": "world_nether",
+    "overworld": "world",
+    "whitelist": {
+      "entries": [],
+      "enabled": false
+    }
+  },
+  "world_nether": {
+    "creator-name": "CONSOLE",
+    "creation-timestamp": 1.755149889963E12,
+    "flag": {
+      "auto-load-enabled": false,
+      "auto-unload-enabled": false,
+      "difficulty": "HARD",
+      "end-portal-accessible": true,
+      "game-mode": "SURVIVAL",
+      "force-game-mode": "false-with-permission",
+      "hunger-enabled": true,
+      "keep-spawn-in-memory": false,
+      "nether-portal-accessible": true,
+      "pvp-enabled": true,
+      "receive-achievements": true,
+      "redstone-enabled": true,
+      "spawn-animals": true,
+      "spawn-monsters": true,
+      "spawn-entities": true,
+      "weather-enabled": true
+    },
+    "generation": {
+      "environment": "NETHER",
+      "generator": "NONE",
+      "type": "NETHER"
+    },
+    "end-world": "world_the_end",
+    "nether-world": "world_nether",
+    "overworld": "world",
+    "whitelist": {
+      "entries": [],
+      "enabled": false
+    }
+  },
+  "world_the_end": {
+    "creator-name": "CONSOLE",
+    "creation-timestamp": 1.755149889966E12,
+    "flag": {
+      "auto-load-enabled": false,
+      "auto-unload-enabled": false,
+      "difficulty": "HARD",
+      "end-portal-accessible": true,
+      "game-mode": "SURVIVAL",
+      "force-game-mode": "false-with-permission",
+      "hunger-enabled": true,
+      "keep-spawn-in-memory": false,
+      "nether-portal-accessible": true,
+      "pvp-enabled": true,
+      "receive-achievements": true,
+      "redstone-enabled": true,
+      "spawn-animals": true,
+      "spawn-monsters": true,
+      "spawn-entities": true,
+      "weather-enabled": true
+    },
+    "generation": {
+      "environment": "THE_END",
+      "generator": "NONE",
+      "type": "THE_END"
+    },
+    "end-world": "world_the_end",
+    "nether-world": "world_nether",
+    "overworld": "world",
+    "whitelist": {
+      "entries": [],
+      "enabled": false
+    }
+  },
+  "world_heaven_sky": {
+    "creator-name": "CONSOLE",
+    "creation-timestamp": 1.755149889969E12,
+    "flag": {
+      "auto-load-enabled": false,
+      "auto-unload-enabled": false,
+      "difficulty": "PEACEFUL",
+      "end-portal-accessible": true,
+      "game-mode": "SURVIVAL",
+      "force-game-mode": "false-with-permission",
+      "hunger-enabled": true,
+      "keep-spawn-in-memory": false,
+      "nether-portal-accessible": true,
+      "pvp-enabled": true,
+      "receive-achievements": true,
+      "redstone-enabled": true,
+      "spawn-animals": true,
+      "spawn-monsters": false,
+      "spawn-entities": true,
+      "weather-enabled": true
+    },
+    "generation": {
+      "environment": "NORMAL",
+      "generator": "NONE",
+      "type": "NORMAL"
+    },
+    "end-world": "world_the_end",
+    "nether-world": "world_nether",
+    "overworld": "world",
+    "whitelist": {
+      "entries": [],
+      "enabled": false
+    }
+  },
+  "flat": {
+    "creator-name": "FewerSteak1914",
+    "creation-timestamp": 1.755160732845E12,
+    "flag": {
+      "auto-load-enabled": true,
+      "auto-unload-enabled": false,
+      "difficulty": "PEACEFUL",
+      "end-portal-accessible": false,
+      "game-mode": "CREATIVE",
+      "force-game-mode": "false-with-permission",
+      "hunger-enabled": true,
+      "keep-spawn-in-memory": false,
+      "nether-portal-accessible": false,
+      "pvp-enabled": false,
+      "receive-achievements": false,
+      "redstone-enabled": true,
+      "spawn-animals": false,
+      "spawn-monsters": false,
+      "spawn-entities": false,
+      "weather-enabled": false
+    },
+    "generation": {
+      "environment": "CUSTOM",
+      "generator": "FlatWorldGenerator",
+      "type": "CUSTOM"
+    },
+    "end-world": "world_the_end",
+    "nether-world": "world_nether",
+    "overworld": "world",
+    "whitelist": {
+      "entries": [],
+      "enabled": false
+    }
+  },
+  "pvp": {
+    "creator-name": "FewerSteak1914",
+    "creation-timestamp": 1755226510763,
+    "flag": {
+      "auto-load-enabled": true,
+      "auto-unload-enabled": false,
+      "difficulty": "HARD",
+      "end-portal-accessible": false,
+      "game-mode": "ADVENTURE",
+      "force-game-mode": "false-with-permission",
+      "hunger-enabled": true,
+      "keep-spawn-in-memory": false,
+      "nether-portal-accessible": false,
+      "pvp-enabled": true,
+      "receive-achievements": false,
+      "redstone-enabled": true,
+      "spawn-animals": false,
+      "spawn-monsters": false,
+      "spawn-entities": false,
+      "weather-enabled": false
+    },
+    "generation": {
+      "environment": "CUSTOM",
+      "generator": "NONE",
+      "type": "CUSTOM"
+    },
+    "end-world": "world_the_end",
+    "nether-world": "world_nether",
+    "overworld": "world",
+    "whitelist": {
+      "entries": [],
+      "enabled": false
+    }
+  }
+}

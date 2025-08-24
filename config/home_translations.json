@@ -1,0 +1,33 @@
+{
+  "en": {
+    "sethome_success": "Your home has been set!",
+    "sethome_limit": "Error : You can only have %d homes.",
+    "psethome_success": "Your public home has been set!",
+    "psethome_limit": "Error : You can only have %d public homes.",
+    "delhome_success": "Your home has been deleted!",
+    "delhome_failure": "Error : The home don\u0027t exist.",
+    "pdelhome_success": "Your public home has been deleted!",
+    "pdelhome_failure": "Error : The public home don\u0027t exist or you\u0027re not the owner.",
+    "home_success": "You have been teleported to your home!",
+    "home_failure": "Error : The home don\u0027t exist.",
+    "phome_success": "You have been teleported to the public home!",
+    "phome_failure": "Error : The public home don\u0027t exist.",
+    "homes_success": "Your homes (You can click on them to teleport):",
+    "homes_failure": "Error : You don\u0027t have any home.",
+    "phomes_success": "Public homes (You can click on them to teleport):",
+    "phomes_failure": "Error : The server don\u0027t have any public home.",
+    "sharehome_success": "%s wants to share a home with you! To accept it click on this message.",
+    "sharehome_failure": "Error : The home don\u0027t exist.",
+    "sharehome_yourself": "Error : You can\u0027t share with yourself.",
+    "accepthome_success": "The home has been transferred! Run /homes to find it.",
+    "accepthome_failure": "Error : The home don\u0027t exist.",
+    "accepthome_empty": "Error : There is no home to accept.",
+    "homelanguage_success": "HOME language changed!",
+    "homelanguage_failure": "Error : The language provided is invalid.",
+    "homeslimit_success": "The new limit of homes has been set!",
+    "homeslimit_failure": "Error : Please provide a number that is not negative.",
+    "phomeslimit_success": "The new limit of public homes has been set!",
+    "phomeslimit_failure": "Error : Please provide a number that is not negative.",
+    "version": "1.3"
+  }
+}

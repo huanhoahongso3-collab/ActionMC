@@ -1,0 +1,21 @@
+grave-id: e20dc015-c7d2-4611-9781-2d1c7956b50f
+owner-uuid: b177afec-901a-306b-8dc4-b93612323eb2
+location:
+  ==: org.bukkit.Location
+  world: world
+  x: 1849.0
+  y: 67.0
+  z: -624.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:redstone
+  count: 10
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:wheat_seeds
+  count: 5
+  schema_version: 1

@@ -1,0 +1,53 @@
+# ---------------------------------------
+# SetHomePlugin Configuration
+# ---------------------------------------
+
+database:
+  # Database type: "sqlite" (default) or "mysql"
+  type: sqlite
+
+  # MySQL parameters (only if type: mysql)
+  mysql:
+    host: localhost
+    port: 3306
+    database: minecraft
+    username: root
+    password: password
+
+settings:
+  # Default home limit when the player has no specific permissions
+  default-limit: 17
+
+  # Cooldown time between commands (in seconds)
+  command-cooldown: 3
+
+  # Delay before teleportation (in seconds)
+  teleport-delay: 3
+
+# Dynamic permissions system:
+# - sethome.limit.* = Unlimited limit
+# - sethome.limit.X = Where X is any positive integer
+# The plugin will automatically use the highest-numbered permission the player has
+
+# Plugin messages (you can customize the colors and text)
+
+messages:
+  no-player:           "§4Only players can use this command."
+  no-permission:       "§4You do not have permission to use this command."
+  cooldown:            "§7Wait %seconds% seconds before using this command again."
+  usage-sethome:       "§7Usage: /sethome <name>"
+  usage-home:          "§7Usage: /home <name>"
+  home-saved:          "§aHome '%home%' saved successfully."
+  limit-reached:       "§cYou have reached your limit of %limit% homes. Remove one first."
+  error-saving:        "§cError saving home. Please try again."
+  home-not-found:      "§cYou do not have any home named '%home%'."
+  teleport-wait:       "§7Teleporting in %seconds% seconds... Don't move."
+  teleported:          "§aWelcome to your home '%home%'!"
+  error-teleport:      "§cError teleporting. Check if the world exists."
+  usage-shp:           "§7Usage: /shp reload"
+  reload-success:      "§aConfiguration reloaded successfully."
+  usage-delhome:       "§7Usage: /delhome <name>"
+  delete-success:      "§aHome '%home%' permanently deleted."
+  delete-notfound:     "§cNo home found with the name '%home%'."
+  error-delete:        "§cError deleting home. Please report this to an administrator."
+

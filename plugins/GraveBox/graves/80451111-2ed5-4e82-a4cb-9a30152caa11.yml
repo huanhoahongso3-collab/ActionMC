@@ -1,0 +1,21 @@
+grave-id: 80451111-2ed5-4e82-a4cb-9a30152caa11
+owner-uuid: f61957b6-2e1e-3bad-b734-ecac33b33529
+location:
+  ==: org.bukkit.Location
+  world: world_the_end
+  x: 14.0
+  y: 64.0
+  z: 2.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:end_stone
+  count: 16
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:anvil
+  count: 2
+  schema_version: 1

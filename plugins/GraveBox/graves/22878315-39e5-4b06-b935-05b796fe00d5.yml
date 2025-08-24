@@ -1,0 +1,33 @@
+grave-id: 22878315-39e5-4b06-b935-05b796fe00d5
+owner-uuid: f61957b6-2e1e-3bad-b734-ecac33b33529
+location:
+  ==: org.bukkit.Location
+  world: world_the_end
+  x: -6.0
+  y: 62.0
+  z: -1.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:chainmail_helmet
+  count: 1
+  components:
+    minecraft:enchantments: '{"minecraft:protection":2,"minecraft:unbreaking":3}'
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:dirt
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:end_stone
+  count: 3
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:spruce_planks
+  count: 1
+  schema_version: 1

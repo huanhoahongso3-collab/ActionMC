@@ -1,0 +1,21 @@
+allow_flight: true
+flying: false
+fly_speed: 0.1
+exp: 0.0
+exp-level: 0
+hunger: 20
+off_hand_item:
+  ==: org.bukkit.inventory.ItemStack
+  schema_version: 1
+  id: minecraft:air
+  DataVersion: 4438
+health: 20.0
+max-health: 20.0
+inventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    DataVersion: 4438
+    id: minecraft:stone
+    count: 1
+    schema_version: 1
+gamemode: CREATIVE

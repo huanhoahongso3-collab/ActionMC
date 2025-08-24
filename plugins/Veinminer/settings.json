@@ -1,0 +1,17 @@
+{
+    "cooldown": 56,
+    "mustSneak": false,
+    "delay": 0,
+    "maxChain": 100,
+    "needCorrectTool": true,
+    "searchRadius": 1,
+    "permissionRestricted": false,
+    "mergeItemDrops": false,
+    "autoUpdate": true,
+    "decreaseDurability": true,
+    "client": {
+        "allow": true,
+        "translucentBlockHighlight": true,
+        "allBlocks": false
+    }
+}

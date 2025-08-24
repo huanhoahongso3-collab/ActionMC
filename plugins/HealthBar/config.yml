@@ -1,0 +1,43 @@
+#HealthBar by GoodVibesAiden
+#Main Config
+
+#     Author's Note: Make sure your default class has the permission hp.allowuse - this permission allows
+#     you to set an individual or a group of players to have the HP Bar on screen.
+
+#Options
+
+#Scaling may not take effect upon reload - have them reconnect if this is an issue
+healthScaling: true
+
+#Enables or disables custom HealthBar.
+customHealthBar: false
+
+#Current HP Colors
+healthColorHigh: "&a"
+healthColorMid: "&e"
+healthColorLow: "&c"
+healthColorError: "&f"
+
+#Max HP Colors
+maxHealthColorHigh: "&a"
+maxHealthColorMid: "&e"
+maxHealthColorLow: "&c"
+maxHealthColorError: "&f"
+
+#Text Prefix and Suffix
+textPrefix: ""
+textSuffix: "HP"
+
+#Text Colors
+textColorHigh: "&a"
+textColorMid: "&e"
+textColorLow: "&c"
+textColorError: "&f"
+
+
+
+#Options for Scoreboard HealthBars
+show-otherHealthBar: true
+#DO NOT ENABLE MOB HEALTH IF YOU WANT TO BUTCHER MOBS USING WORLDEDIT - currently under development for a solution
+show-mobHealth: true
+suffix-otherHealthBar: "&c\u2764"

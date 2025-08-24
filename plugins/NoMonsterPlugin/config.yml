@@ -1,0 +1,18 @@
+world_the_end:
+  stopMonsterSpawning: false
+world:
+  stopMonsterSpawning: false
+world_heaven_sky:
+  stopMonsterSpawning: true
+flat:
+  stopMonsterSpawning: true
+world_nether:
+  stopMonsterSpawning: false
+pvp:
+  stopMonsterSpawning: true
+world/DIM1:
+  stopMonsterSpawning: false
+world/heaven/sky:
+  stopMonsterSpawning: true
+world/DIM-1:
+  stopMonsterSpawning: false

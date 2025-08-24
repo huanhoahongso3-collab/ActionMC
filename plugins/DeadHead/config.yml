@@ -1,0 +1,54 @@
+grave-duration: 15
+graves:
+  edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8:
+    1754302517433-5161:
+      location:
+        world: world
+        x: 166.0
+        y: 64.0
+        z: -112.0
+      expiration: 1754303417956
+    1754302928418-6330:
+      location:
+        world: world
+        x: 167.0
+        y: 64.0
+        z: -110.0
+      expiration: 1754303830764
+    1754303448018-9538:
+      location:
+        world: world/DIM-1
+        x: 165.0
+        y: 32.0
+        z: -152.0
+      expiration: 1754304348492
+  f61957b6-2e1e-3bad-b734-ecac33b33529:
+    1754037788161-8109:
+      location:
+        world: world
+        x: 1302.0
+        y: 98.0
+        z: -919.0
+      expiration: 1754038688641
+    1754037865895-3974:
+      location:
+        world: world
+        x: 1132.0
+        y: 64.0
+        z: -951.0
+      expiration: 1754038766380
+    1754038251337-4822:
+      location:
+        world: world
+        x: 1212.0
+        y: 72.0
+        z: -936.0
+      expiration: 1754039151829
+    1754038414438-2581:
+      location:
+        world: world
+        x: 1195.0
+        y: 70.0
+        z: -990.0
+      expiration: 1754039314929
+  15fe2ea3-7a1f-3239-b52b-ebbef69aaeb2: {}

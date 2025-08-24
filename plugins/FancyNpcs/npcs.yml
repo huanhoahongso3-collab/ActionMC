@@ -1,0 +1,25 @@
+npcs:
+  d275d88c-0765-45f6-b9aa-42adcf6f2793:
+    name: thl
+    creator: edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8
+    displayName: thl
+    type: PLAYER
+    location:
+      world: world
+      x: 77.30000001192093
+      y: 152.5
+      z: -407.76044177720183
+      yaw: -179.74446
+      pitch: 30.600002
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    turnToPlayerDistance: -1
+    interactionCooldown: 0.0
+    scale: 1.0
+    visibility_distance: -1
+    skin:
+      mirrorSkin: false

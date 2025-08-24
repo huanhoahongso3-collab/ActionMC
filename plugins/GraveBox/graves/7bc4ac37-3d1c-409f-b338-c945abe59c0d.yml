@@ -1,0 +1,21 @@
+grave-id: 7bc4ac37-3d1c-409f-b338-c945abe59c0d
+owner-uuid: edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8
+location:
+  ==: org.bukkit.Location
+  world: world_the_end
+  x: 33.0
+  y: 92.0
+  z: 24.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:sand
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:ender_chest
+  count: 1
+  schema_version: 1

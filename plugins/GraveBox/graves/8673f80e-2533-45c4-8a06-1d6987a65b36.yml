@@ -1,0 +1,16 @@
+grave-id: 8673f80e-2533-45c4-8a06-1d6987a65b36
+owner-uuid: 15fe2ea3-7a1f-3239-b52b-ebbef69aaeb2
+location:
+  ==: org.bukkit.Location
+  world: world
+  x: 5264.0
+  y: 69.0
+  z: 5039.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4435
+  id: minecraft:stick
+  count: 1
+  schema_version: 1

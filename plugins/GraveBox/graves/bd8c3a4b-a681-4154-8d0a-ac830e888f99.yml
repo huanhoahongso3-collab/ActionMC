@@ -1,0 +1,26 @@
+grave-id: bd8c3a4b-a681-4154-8d0a-ac830e888f99
+owner-uuid: bc291f94-1865-3ccd-838f-f7a20ed8706a
+location:
+  ==: org.bukkit.Location
+  world: world
+  x: 1043.0
+  y: 9.0
+  z: -1102.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4325
+  id: minecraft:leather
+  count: 2
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4325
+  id: minecraft:beef
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4325
+  id: minecraft:porkchop
+  count: 2
+  schema_version: 1

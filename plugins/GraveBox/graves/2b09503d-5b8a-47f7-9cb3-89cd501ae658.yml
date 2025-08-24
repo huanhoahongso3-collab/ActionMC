@@ -1,0 +1,41 @@
+grave-id: 2b09503d-5b8a-47f7-9cb3-89cd501ae658
+owner-uuid: f61957b6-2e1e-3bad-b734-ecac33b33529
+location:
+  ==: org.bukkit.Location
+  world: world_the_end
+  x: -12.0
+  y: 61.0
+  z: -5.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:spider_eye
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:iron_bars
+  count: 19
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:string
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:cracked_stone_bricks
+  count: 1
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:rotten_flesh
+  count: 2
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:torch
+  count: 2
+  schema_version: 1

@@ -1,0 +1,110 @@
+{
+  "version": 2.0,
+  "name": "DanVN31",
+  "hud": {
+    "module": {
+      "coordinates": true,
+      "destination": true,
+      "distance": true,
+      "tracking": false,
+      "direction": true,
+      "weather": true,
+      "time": true,
+      "angle": false,
+      "speed": false
+    },
+    "setting": {
+      "bossbar": {
+        "color": "white",
+        "distance": true,
+        "distance_max": 0
+      },
+      "module": {
+        "time_24hr": false,
+        "tracking_type": "simple",
+        "tracking_target": "player",
+        "tracking_hybrid": true,
+        "speed_3d": true,
+        "speed_pattern": "0.00",
+        "angle_display": "both"
+      },
+      "state": true,
+      "type": "actionbar"
+    },
+    "order": [
+      "coordinates",
+      "distance",
+      "tracking",
+      "destination",
+      "direction",
+      "time",
+      "weather",
+      "speed",
+      "angle"
+    ],
+    "primary": {
+      "color": "#ff8e16",
+      "bold": false,
+      "italics": false,
+      "rainbow": false
+    },
+    "secondary": {
+      "color": "#ffffff",
+      "bold": false,
+      "italics": false,
+      "rainbow": false
+    }
+  },
+  "destination": {
+    "saved": [],
+    "dest": {},
+    "lastdeath": [
+      {
+        "x": 281,
+        "y": -1,
+        "z": 93,
+        "dimension": "world"
+      },
+      {
+        "x": -24,
+        "y": 34,
+        "z": 24,
+        "dimension": "world"
+      },
+      {
+        "x": -25,
+        "y": 22,
+        "z": 22,
+        "dimension": "world"
+      },
+      {
+        "x": -24,
+        "y": 34,
+        "z": 24,
+        "dimension": "world"
+      }
+    ],
+    "setting": {
+      "ylevel": false,
+      "autoclear": true,
+      "autoclear_rad": 2,
+      "autoconvert": false,
+      "features": {
+        "track": true,
+        "track_request_mode": "request",
+        "send": true,
+        "lastdeath": true
+      },
+      "particles": {
+        "dest": true,
+        "dest_color": "#ff8e16",
+        "line": true,
+        "line_color": "#42a0ff",
+        "tracking": true,
+        "tracking_color": "#ff6426"
+      }
+    }
+  },
+  "color_presets": [],
+  "inbox": []
+}

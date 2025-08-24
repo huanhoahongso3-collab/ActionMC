@@ -1,0 +1,192 @@
+{
+  "name": "cykablyat",
+  "inbox": [],
+  "version": 2.3,
+  "hud": {
+    "modules": [
+      {
+        "module": "COORDINATES",
+        "order": 1,
+        "state": true,
+        "settings": [
+          {
+            "id": "coordinates_xyz-display",
+            "value": true
+          }
+        ]
+      },
+      {
+        "module": "DISTANCE",
+        "order": 2,
+        "state": true,
+        "settings": []
+      },
+      {
+        "module": "DESTINATION",
+        "order": 3,
+        "state": true,
+        "settings": [
+          {
+            "id": "destination_show-name",
+            "value": true
+          }
+        ]
+      },
+      {
+        "module": "DIRECTION",
+        "order": 4,
+        "state": true,
+        "settings": []
+      },
+      {
+        "module": "TIME",
+        "order": 5,
+        "state": true,
+        "settings": [
+          {
+            "id": "time_24hr",
+            "value": false
+          }
+        ]
+      },
+      {
+        "module": "WEATHER",
+        "order": 6,
+        "state": true,
+        "settings": []
+      },
+      {
+        "module": "TRACKING",
+        "state": false,
+        "settings": [
+          {
+            "id": "tracking_target",
+            "value": "player"
+          },
+          {
+            "id": "tracking_show-elevation",
+            "value": false
+          },
+          {
+            "id": "tracking_display",
+            "value": "simple"
+          },
+          {
+            "id": "tracking_hybrid",
+            "value": true
+          }
+        ]
+      },
+      {
+        "module": "SPEED",
+        "state": false,
+        "settings": [
+          {
+            "id": "speed_display-pattern",
+            "value": "0.00"
+          },
+          {
+            "id": "speed_2d-calculation",
+            "value": false
+          }
+        ]
+      },
+      {
+        "module": "ANGLE",
+        "state": false,
+        "settings": [
+          {
+            "id": "angle_display",
+            "value": "both"
+          }
+        ]
+      },
+      {
+        "module": "LIGHT",
+        "state": false,
+        "settings": [
+          {
+            "id": "light_target",
+            "value": "eye"
+          },
+          {
+            "id": "light_display",
+            "value": "block"
+          }
+        ]
+      }
+    ],
+    "setting": {
+      "bossbar": {
+        "color": "white",
+        "distance": true,
+        "distance_max": 0
+      },
+      "state": true,
+      "type": "actionbar"
+    },
+    "primary": {
+      "color": "#ff8e16",
+      "bold": false,
+      "italics": false,
+      "rainbow": false
+    },
+    "secondary": {
+      "color": "#ffffff",
+      "bold": false,
+      "italics": false,
+      "rainbow": false
+    }
+  },
+  "destination": {
+    "saved": [],
+    "dest": {},
+    "lastdeath": [
+      {
+        "x": 58,
+        "y": 41,
+        "z": -24,
+        "dimension": "world"
+      },
+      {
+        "x": -170,
+        "y": 70,
+        "z": -57,
+        "dimension": "world"
+      },
+      {
+        "x": 112,
+        "y": 64,
+        "z": 9,
+        "dimension": "world"
+      },
+      {
+        "x": -22,
+        "y": 49,
+        "z": 38,
+        "dimension": "world"
+      }
+    ],
+    "setting": {
+      "ylevel": false,
+      "autoclear": true,
+      "autoclear_rad": 2,
+      "autoconvert": false,
+      "features": {
+        "track": true,
+        "track_request_mode": "request",
+        "send": true,
+        "lastdeath": true
+      },
+      "particles": {
+        "dest": true,
+        "dest_color": "#ff8e16",
+        "line": true,
+        "line_color": "#42a0ff",
+        "tracking": true,
+        "tracking_color": "#ff6426"
+      }
+    }
+  },
+  "color_presets": []
+}

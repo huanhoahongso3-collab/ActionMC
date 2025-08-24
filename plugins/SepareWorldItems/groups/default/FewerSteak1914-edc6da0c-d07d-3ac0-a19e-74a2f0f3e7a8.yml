@@ -1,0 +1,565 @@
+allow_flight: false
+flying: false
+fly_speed: 0.1
+exp: 0.8236752
+exp-level: 37
+ender-chest:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: PINK_SHULKER_BOX
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"op"'
+      internal: H4sIAAAAAAAA/+2W3W7bMAyF2Tr9mW/aosuyFgP2BH2BvYwhS3SsWRY1iVnbt58MA5UdtQl6kQADcifriJR4PkZRCVDCqjYkuye0rPn1SVLvyMaP8AXue21RetHwL0mWRfzyJQBcF7AIhjgOY/xCM/bXcK4V/EgBSouerKpki4GdEYwFXEja2CHqrIQybVTCtxSHVrbCcj8Klwb/ogkF3KUVUVLarmOaqwJWaV782YhKNI22sY5R/ZlU5+k3StYGqzjkYUh2XPWYVtVGBM4WfJ2lmUnLJHkMTnuRtIekNdrn+07OrtBxWwX2WqHPNt3Y2qPo3oq+TRK35G0YpgcYkMCczcB8z8G0aHrkE5RjQjmfQVnlUGoiDicmx2RSzJg85kwMrtcx4wnLUbEsZlgecixOy068HOZfZXJ2jECkjvGve8uaZGvI88biO3Vd7LuXQ0vxcP9bWZf7brbwTF4dpKrlVpuK4GKXjtrkQVILixU1lfDcenKkQtbF4RnRxbwVqjWO6s1E7WOB4+zkYRRa4Z3FEDKzTLzL37N+299Jss7Gl1gtZDcYtOXw1czhZe7woX4MB/V3hy87uvWzVD6yeGdzA/wDSKX1LR8LAAA=
+      blockMaterial: PINK_SHULKER_BOX
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: PINK_SHULKER_BOX
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"op"'
+      internal: H4sIAAAAAAAA/+2W3W7bMAyF2Tr9mW/aosuyFgP2BH2BvYwhS3SsWRY1iVnbt58MA5UdtQl6kQADcifriJR4PkZRCVDCqjYkuye0rPn1SVLvyMaP8AXue21RetHwL0mWRfzyJQBcF7AIhjgOY/xCM/bXcK4V/EgBSouerKpki4GdEYwFXEja2CHqrIQybVTCtxSHVrbCcj8Klwb/ogkF3KUVUVLarmOaqwJWaV782YhKNI22sY5R/ZlU5+k3StYGqzjkYUh2XPWYVtVGBM4WfJ2lmUnLJHkMTnuRtIekNdrn+07OrtBxWwX2WqHPNt3Y2qPo3oq+TRK35G0YpgcYkMCczcB8z8G0aHrkE5RjQjmfQVnlUGoiDicmx2RSzJg85kwMrtcx4wnLUbEsZlgecixOy068HOZfZXJ2jECkjvGve8uaZGvI88biO3Vd7LuXQ0vxcP9bWZf7brbwTF4dpKrlVpuK4GKXjtrkQVILixU1lfDcenKkQtbF4RnRxbwVqjWO6s1E7WOB4+zkYRRa4Z3FEDKzTLzL37N+299Jss7Gl1gtZDcYtOXw1czhZe7woX4MB/V3hy87uvWzVD6yeGdzA/wDSKX1LR8LAAA=
+      blockMaterial: PINK_SHULKER_BOX
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:mending: 255
+        minecraft:unbreaking: 255
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:mending: 255
+        minecraft:unbreaking: 255
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      enchants:
+        minecraft:flame: 7
+        minecraft:infinity: 7
+        minecraft:mending: 7
+        minecraft:multishot: 7
+        minecraft:piercing: 7
+        minecraft:power: 7
+        minecraft:punch: 4
+        minecraft:quick_charge: 5
+        minecraft:unbreaking: 7
+      Damage: 9
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      enchants:
+        minecraft:flame: 7
+        minecraft:infinity: 7
+        minecraft:mending: 7
+        minecraft:multishot: 7
+        minecraft:piercing: 7
+        minecraft:power: 7
+        minecraft:punch: 4
+        minecraft:quick_charge: 5
+        minecraft:unbreaking: 7
+      Damage: 9
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      enchants:
+        minecraft:flame: 7
+        minecraft:infinity: 7
+        minecraft:mending: 7
+        minecraft:multishot: 7
+        minecraft:piercing: 7
+        minecraft:power: 7
+        minecraft:punch: 4
+        minecraft:quick_charge: 5
+        minecraft:unbreaking: 7
+      Damage: 9
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      enchants:
+        minecraft:flame: 7
+        minecraft:infinity: 7
+        minecraft:mending: 7
+        minecraft:multishot: 7
+        minecraft:piercing: 7
+        minecraft:power: 7
+        minecraft:punch: 4
+        minecraft:quick_charge: 5
+        minecraft:unbreaking: 7
+      Damage: 9
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: LIGHT_BLUE_SHULKER_BOX
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"ess"'
+      internal: H4sIAAAAAAAA/61RW1LDMAxU65RS//AoA6foBbgM4zhK64ktBz/o9PSgJMzYZeCPP0u7a61WEkDCS2u9Hg5IyaTLQXs3euIi7mDvDKEOqk+v2lNSXAUJAGsBTbQ+8ZP1jUnobmFtOrgvArSXFJSAjfaZJuZKgiyfS3iuuKRPipJbgBuLH2ijgIfCYKgzdORvPgU8lX6mNqAavqHJDxRvqytvj9UywcfY+vP/u9uKes5oMOjfAEO9IU57AapZ79no4Y3nhSMyuBFwV8DeKoeLpLqMyzaZeJo33l7xR3/GsHT/iuyHIPOq3G2mFKtbdsqp2c9uTvgLG6uh2TYCAAA=
+      blockMaterial: LIGHT_BLUE_SHULKER_BOX
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: LIGHT_BLUE_SHULKER_BOX
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"ess"'
+      internal: H4sIAAAAAAAA/61RW1LDMAxU65RS//AoA6foBbgM4zhK64ktBz/o9PSgJMzYZeCPP0u7a61WEkDCS2u9Hg5IyaTLQXs3euIi7mDvDKEOqk+v2lNSXAUJAGsBTbQ+8ZP1jUnobmFtOrgvArSXFJSAjfaZJuZKgiyfS3iuuKRPipJbgBuLH2ijgIfCYKgzdORvPgU8lX6mNqAavqHJDxRvqytvj9UywcfY+vP/u9uKes5oMOjfAEO9IU57AapZ79no4Y3nhSMyuBFwV8DeKoeLpLqMyzaZeJo33l7xR3/GsHT/iuyHIPOq3G2mFKtbdsqp2c9uTvgLG6uh2TYCAAA=
+      blockMaterial: LIGHT_BLUE_SHULKER_BOX
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: RED_SHULKER_BOX
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"Netherite armor base"'
+      internal: H4sIAAAAAAAA/82S3U7EIBBGZ5dqlDvjz2aN8Q32BXyZhtJpIQsDwtTEt5emJtjYSzXeMRw+Zk4yEkDCoXNBn09IbPn9pIOPgUqRr+HWW0Kd1MAvOhCrUiUJAI2AJrvA5VjyjWX0V7C3PTzWACEbTAW1Bp1HFnChw0RzZidB1jYSHmoKSRtF7Bdw6fANXRZwU18U1Fsa528EHOq9ep1Uq4bBUrFY6H2lCXO0SbENVJgQcFdZTIFRf6JmhSbqEqrz0k/MulDVdyv15y11bTBzdIrxV/R/QGK/knjaknA4jiWc/6uCWCkctxS6EPjP5/+ynD1GNm3mZHtM3xZwww7gA//XOdWbAwAA
+      blockMaterial: RED_SHULKER_BOX
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: RED_SHULKER_BOX
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      display-name: '"Netherite armor base"'
+      internal: H4sIAAAAAAAA/82S3U7EIBBGZ5dqlDvjz2aN8Q32BXyZhtJpIQsDwtTEt5emJtjYSzXeMRw+Zk4yEkDCoXNBn09IbPn9pIOPgUqRr+HWW0Kd1MAvOhCrUiUJAI2AJrvA5VjyjWX0V7C3PTzWACEbTAW1Bp1HFnChw0RzZidB1jYSHmoKSRtF7Bdw6fANXRZwU18U1Fsa528EHOq9ep1Uq4bBUrFY6H2lCXO0SbENVJgQcFdZTIFRf6JmhSbqEqrz0k/MulDVdyv15y11bTBzdIrxV/R/QGK/knjaknA4jiWc/6uCWCkctxS6EPjP5/+ynD1GNm3mZHtM3xZwww7gA//XOdWbAwAA
+      blockMaterial: RED_SHULKER_BOX
+inventory:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:efficiency: 7
+        minecraft:fortune: 7
+        minecraft:mending: 7
+        minecraft:unbreaking: 7
+      Damage: 2
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_SHOVEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:efficiency: 7
+        minecraft:fortune: 7
+        minecraft:mending: 7
+        minecraft:unbreaking: 7
+      Damage: 2
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:bane_of_arthropods: 7
+        minecraft:fire_aspect: 7
+        minecraft:knockback: 1
+        minecraft:looting: 7
+        minecraft:mending: 7
+        minecraft:sharpness: 7
+        minecraft:smite: 7
+        minecraft:sweeping_edge: 7
+        minecraft:unbreaking: 7
+      Damage: 2
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:bane_of_arthropods: 7
+        minecraft:efficiency: 7
+        minecraft:fire_aspect: 7
+        minecraft:fortune: 7
+        minecraft:knockback: 1
+        minecraft:mending: 7
+        minecraft:sharpness: 7
+        minecraft:smite: 7
+        minecraft:sweeping_edge: 7
+        minecraft:unbreaking: 7
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        minecraft:lure: 2
+        minecraft:unbreaking: 3
+      Damage: 7
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: COOKED_PORKCHOP
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GUNPOWDER
+    amount: 45
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: EMERALD
+    amount: 4
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: ARROW
+    amount: 64
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GUNPOWDER
+    amount: 64
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+    amount: 2
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: TADPOLE_BUCKET
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: ITEM_FRAME
+    amount: 5
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:ponder_goat_horn
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CARROT
+    amount: 2
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: IRON_INGOT
+    amount: 5
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: RAW_COPPER
+    amount: 61
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:seek_goat_horn
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+    amount: 2
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: FIREWORK_ROCKET
+    amount: 5
+    meta:
+      ==: ItemMeta
+      meta-type: FIREWORK
+      firework-effects: []
+      power: 3
+  '24':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: COOKED_CHICKEN
+    amount: 26
+  '26':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: COOKED_BEEF
+    amount: 39
+  '27':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GOLD_NUGGET
+    amount: 27
+  '29':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      enchants:
+        minecraft:flame: 7
+        minecraft:infinity: 7
+        minecraft:mending: 7
+        minecraft:multishot: 7
+        minecraft:piercing: 7
+        minecraft:power: 7
+        minecraft:punch: 4
+        minecraft:quick_charge: 5
+        minecraft:unbreaking: 7
+      Damage: 5
+      charged-projectiles:
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+      - ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ARROW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          unhandled: H4sIAAAAAAAA/+NiYOBikM/NzEtNLkpMK7HKzCtJzEvPTMpJjS8oys9KTS7JzEllYAAAzByQqycAAAA=
+  '30':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: PUFFERFISH
+    amount: 2
+  '32':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GOAT_HORN
+    meta:
+      ==: ItemMeta
+      meta-type: MUSIC_INSTRUMENT
+      instrument: minecraft:sing_goat_horn
+  '34':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERITE_BLOCK
+    amount: 48
+  '35':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: BLAZE_ROD
+    amount: 64
+  '36':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:aqua_affinity: 7
+        minecraft:blast_protection: 7
+        minecraft:depth_strider: 7
+        minecraft:fire_protection: 7
+        minecraft:mending: 7
+        minecraft:projectile_protection: 7
+        minecraft:protection: 7
+        minecraft:respiration: 7
+        minecraft:thorns: 7
+        minecraft:unbreaking: 7
+  '37':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:aqua_affinity: 7
+        minecraft:blast_protection: 7
+        minecraft:depth_strider: 7
+        minecraft:fire_protection: 7
+        minecraft:mending: 7
+        minecraft:projectile_protection: 7
+        minecraft:protection: 7
+        minecraft:respiration: 7
+        minecraft:swift_sneak: 3
+        minecraft:thorns: 7
+        minecraft:unbreaking: 7
+  '38':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:aqua_affinity: 7
+        minecraft:blast_protection: 7
+        minecraft:depth_strider: 7
+        minecraft:fire_protection: 7
+        minecraft:mending: 7
+        minecraft:projectile_protection: 7
+        minecraft:protection: 7
+        minecraft:respiration: 7
+        minecraft:thorns: 7
+        minecraft:unbreaking: 7
+  '39':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        minecraft:aqua_affinity: 7
+        minecraft:blast_protection: 7
+        minecraft:depth_strider: 7
+        minecraft:fire_protection: 7
+        minecraft:mending: 7
+        minecraft:projectile_protection: 7
+        minecraft:protection: 7
+        minecraft:respiration: 7
+        minecraft:thorns: 7
+        minecraft:unbreaking: 7
+hunger: 20
+health: 20.0
+max-health: 20.0
+potion_effect:
+  '0':
+    type: SPEED
+    duration: 212
+    amplifier: 0
+gamemode: SURVIVAL
+off_hand_item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: AIR
+  amount: 0

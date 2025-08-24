@@ -1,0 +1,66 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "FewerSteak1914",
+      "uniqueId": "edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8"
+    },
+    "time": 1755496944273,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/p7twOR9ala"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "FewerSteak1914",
+      "uniqueId": "edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8"
+    },
+    "time": 1755496551209,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GCtgm6yOs2"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "FewerSteak1914",
+      "uniqueId": "edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8"
+    },
+    "time": 1755496473986,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wYbfZXARqA"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "FewerSteak1914",
+      "uniqueId": "edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8"
+    },
+    "time": 1755496363761,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Qkl6v2LPMi"
+    }
+  },
+  {
+    "user": {
+      "type": "other",
+      "name": "CONSOLE"
+    },
+    "time": 1755496206605,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/8eCqiN47rE"
+    }
+  }
+]

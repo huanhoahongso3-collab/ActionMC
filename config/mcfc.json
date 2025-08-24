@@ -1,0 +1,6 @@
+{
+  "_note": "To use new config options, first run the new version (for a proper config update), and then edit the config.",
+  "version": 2,
+  "enable_reporting": true,
+  "profiler_collect_memory_usage": true
+}

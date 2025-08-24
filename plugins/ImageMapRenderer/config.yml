@@ -1,0 +1,17 @@
+#Do not change version number
+configVersion: 5
+
+#Changes the prefix of messages from the plugin (supports Minecraft color codes)
+#Default: "&3Custom Image Maps&r&7&k | "
+prefix: "&3Custom Image Maps&r&7&k | "
+
+#Maximum number to maps which an image can be split into horizontally
+#Default 12
+maxX: 74
+#Maximum number to maps which an image can be split into vertically
+#Default 12
+maxY: 74
+
+#A toggle to allow the option to receive (glow) item frames upon map creation
+giveItemFrames: false
+giveGlowItemFrames: true

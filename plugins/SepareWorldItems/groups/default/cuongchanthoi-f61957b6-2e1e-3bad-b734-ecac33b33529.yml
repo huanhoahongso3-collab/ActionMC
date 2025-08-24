@@ -1,0 +1,128 @@
+allow_flight: false
+flying: false
+fly_speed: 0.1
+exp: 0.0
+exp-level: 0
+ender-chest:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERRACK
+    amount: 64
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERRACK
+    amount: 64
+  '2':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERRACK
+    amount: 64
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: SOUL_SAND
+    amount: 4
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: GRAVEL
+    amount: 11
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERRACK
+    amount: 64
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: FLINT
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: BLACKSTONE
+    amount: 18
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: NETHERRACK
+    amount: 5
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: WHEAT_SEEDS
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: SUGAR_CANE
+    amount: 2
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: ROTTEN_FLESH
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '16':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '17':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '18':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '19':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '20':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '21':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '22':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 64
+  '23':
+    ==: org.bukkit.inventory.ItemStack
+    v: 4189
+    type: QUARTZ
+    amount: 27
+potion_effect:
+  '0':
+    type: GLOWING
+    duration: 2147479043
+    amplifier: 1
+hunger: 20
+health: 20.0
+max-health: 20.0
+inventory: {}
+gamemode: SURVIVAL
+off_hand_item:
+  ==: org.bukkit.inventory.ItemStack
+  v: 4189
+  type: AIR
+  amount: 0

@@ -1,0 +1,72 @@
+FewerSteak1914:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world/DIM1
+    x: -25.660738940276786
+    y: 58.0
+    z: 3.4741233311148276
+    pitch: 39.449997
+    yaw: 38.550064
+banngaoda:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world
+    x: -211.01113752606145
+    y: 72.7531999805212
+    z: -570.4166762548399
+    pitch: 49.310555
+    yaw: -118.38785
+ngducanh2212:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world
+    x: 1820.19565798493
+    y: 67.0
+    z: -1197.8697190832795
+    pitch: 24.236753
+    yaw: 58.424904
+billythanh:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world
+    x: 1251.5596275010744
+    y: 93.0
+    z: -948.4757363743413
+    pitch: 16.650023
+    yaw: -26.850098
+FumihitoAshahi:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world/DIM-1
+    x: -251.30287014268555
+    y: 128.0
+    z: 64.32132408594381
+    pitch: 2.6999369
+    yaw: 16.089935
+putindaide:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world/DIM-1
+    x: 609.6543321567013
+    y: 96.0
+    z: 738.9870410487483
+    pitch: 32.144302
+    yaw: 139.47891
+cuongchanthoi:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world
+    x: -1779.5247039545209
+    y: 63.0
+    z: 877.4338984259932
+    pitch: 61.649868
+    yaw: 1.649231
+cykablyat:
+  lastdeathlocation:
+    ==: org.bukkit.Location
+    world: world
+    x: 58.1996921905993
+    y: 41.39999997615814
+    z: -23.45942493171831
+    pitch: -66.00008
+    yaw: -119.700195

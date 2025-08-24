@@ -1,0 +1,13 @@
+{
+  "cpuName": "Intel(R) Xeon(R) Platinum 8160 CPU @ 2.10GHz",
+  "cpuMicroarchitecture": "Skylake (Server)",
+  "cpuVendorFreq": 2100000000,
+  "logicalCores": 48,
+  "physicalCores": 48,
+  "totalMemory": 105465671680,
+  "pageSize": 4096,
+  "memoryType": "Unknown",
+  "diskCount": 2,
+  "partitionCount": 3,
+  "networkInterfaceCount": 1
+}

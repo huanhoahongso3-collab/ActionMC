@@ -1,0 +1,202 @@
+# This determines if a player in LC can damage entities or not
+player-damage-entities: false
+
+# Should the player have the glowing effect when in LC?
+glowing: true
+
+# Should the player be wearing armor when in LC?
+# Note: Inventories in creative are funky, and they MAY be able to remove the armor.
+#       Most of the time it's client-side, but there are some instances where they fully remove the armor.
+armor: false
+# What color should the armor be (Hex Code)? Red by default
+armor-color: '#fc0703'
+
+# Specify which blocks cannot be placed
+blacklisted-blocks:
+- air
+- tnt
+- white_bed
+- orange_bed
+- magenta_bed
+- light_blue_bed
+- yellow_bed
+- lime_bed
+- pink_bed
+- gray_bed
+- light_gray_bed
+- cyan_bed
+- purple_bed
+- blue_bed
+- brown_bed
+- green_bed
+- red_bed
+- black_bed
+- beacon
+
+# This message is sent when a player tries to place a block which they cannot
+blacklisted-block-message: '&cYou cannot place <type> while in LC!'
+
+# Specify what blocks cannot be interacted with | Ensure you're on the correct version for those blocks.
+# I.e. doors, lecterns
+blacklisted-interactables:
+- air
+- lectern
+- beacon
+- tnt
+
+# This message is sent when a player tries to interact with a block which they cannot
+blacklisted-interactable-message: '&cYou cannot interact with <type> while in LC!'
+
+# Specify what items cannot be interacted with while in LC
+blacklisted-items:
+- air
+- bow
+- potion
+- tnt
+- bundle
+- allay_spawn_egg
+- axolotl_spawn_egg
+- bat_spawn_egg
+- bee_spawn_egg
+- blaze_spawn_egg
+- breeze_spawn_egg
+- camel_spawn_egg
+- cat_spawn_egg
+- cave_spider_spawn_egg
+- chicken_spawn_egg
+- cod_spawn_egg
+- cow_spawn_egg
+- creeper_spawn_egg
+- dolphin_spawn_egg
+- donkey_spawn_egg
+- drowned_spawn_egg
+- elder_guardian_spawn_egg
+- enderman_spawn_egg
+- endermite_spawn_egg
+- evoker_spawn_egg
+- fox_spawn_egg
+- frog_spawn_egg
+- ghast_spawn_egg
+- glow_squid_spawn_egg
+- goat_spawn_egg
+- guardian_spawn_egg
+- hoglin_spawn_egg
+- horse_spawn_egg
+- husk_spawn_egg
+- illusioner_spawn_egg
+- iron_golem_spawn_egg
+- llama_spawn_egg
+- magma_cube_spawn_egg
+- mooshroom_spawn_egg
+- mule_spawn_egg
+- ocelot_spawn_egg
+- panda_spawn_egg
+- parrot_spawn_egg
+- phantom_spawn_egg
+- pig_spawn_egg
+- piglin_spawn_egg
+- piglin_brute_spawn_egg
+- pillager_spawn_egg
+- polar_bear_spawn_egg
+- pufferfish_spawn_egg
+- rabbit_spawn_egg
+- ravager_spawn_egg
+- salmon_spawn_egg
+- sheep_spawn_egg
+- shulker_spawn_egg
+- silverfish_spawn_egg
+- skeleton_spawn_egg
+- skeleton_horse_spawn_egg
+- slime_spawn_egg
+- sniffer_spawn_egg
+- snow_golem_spawn_egg
+- spider_spawn_egg
+- squid_spawn_egg
+- stray_spawn_egg
+- strider_spawn_egg
+- tadpole_spawn_egg
+- trader_llama_spawn_egg
+- tropical_fish_spawn_egg
+- turtle_spawn_egg
+- vex_spawn_egg
+- villager_spawn_egg
+- vindicator_spawn_egg
+- wandering_trader_spawn_egg
+- warden_spawn_egg
+- witch_spawn_egg
+- wither_skeleton_spawn_egg
+- wolf_spawn_egg
+- zoglin_spawn_egg
+- zombie_spawn_egg
+- zombie_horse_spawn_egg
+- zombie_villager_spawn_egg
+- zombified_piglin_spawn_egg
+- giant_spawn_egg
+- tnt
+- white_bed
+- orange_bed
+- magenta_bed
+- light_blue_bed
+- yellow_bed
+- lime_bed
+- pink_bed
+- gray_bed
+- light_gray_bed
+- cyan_bed
+- purple_bed
+- blue_bed
+- brown_bed
+- green_bed
+- red_bed
+- black_bed
+- bedrock
+- sniffer_egg
+- beacon
+
+# This message is sent when a player tries to interact while holding an item which they cannot use
+blacklisted-item-message: '&cYou cannot use <type> while in LC!'
+
+#Specify what blocks cannot be broken while in LC
+blacklisted-breakables:
+- air
+- bedrock
+- beacon
+
+# This message is sent when a player tries to break a block which they cannot
+blacklisted-breakable-message: '&cYou cannot break <type> while in LC!'
+
+# Specify commands to disable while in LC
+blacklisted-commands:
+- pl
+
+# This message is sent when a player tries to use a blacklisted command while in LC
+blacklisted-command-message: '&cThis command is disabled while in LC!'
+
+# This message is sent when a player exits LC
+player-exit-lc-message: '&aYou have been returned to survival mode. Inventory restored.'
+
+# This message is sent when a player enters LC
+player-enter-lc-message: '&aLimitedCreative activated. Survival inventory saved.'
+
+player-toggle-lc-other-message: '&aLimitedCreative toggled for <player>.'
+
+# This message is sent when a player tries to drop an item
+player-drop-item-message: '&cYou cannot drop items while in LC.'
+
+# This message is sent when a player tries to interact with an entity
+player-interact-entities-message: '&cYou cannot interact with entities while in LC!'
+
+# This message is sent when a player tries to manipulate an armor stand
+player-manipulate-armorstand-message: '&cYou cannot use Armor Stands while in LC!'
+
+# This message is sent when a player tries to run a command they have no permission for
+player-no-permission-message: '&cYou do not have permission to do use that command!'
+
+# This message is sent when a player toggles their own nightvision
+player-nightvision-toggle: '&aNightvision effect toggled.'
+
+# This message is sent when a player toggles someone else's nightvision
+player-nightvision-toggle-other: '&aNightvision effect toggled for <player>.'
+
+# This message is sent when a player reloads the config
+config-reloaded-message: '&aLimitedCreative: Config Reloaded.'

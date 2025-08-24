@@ -1,0 +1,15 @@
+rainbow_wool:
+  material: "WHITE_WOOL"
+  display_name: "&eRainbow Wool"
+  glowing: true
+  lore: []
+
+settings:
+  # Set to 0 to prevent rainbow sheep from spawning.
+  # Set to 1 to allow only rainbow sheep to spawn.
+  spawn_chance: 0.5
+  drops:
+    min: 1
+    max: 3
+
+debug: "false"

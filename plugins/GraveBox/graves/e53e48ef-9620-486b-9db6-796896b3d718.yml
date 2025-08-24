@@ -1,0 +1,28 @@
+grave-id: e53e48ef-9620-486b-9db6-796896b3d718
+owner-uuid: 15fe2ea3-7a1f-3239-b52b-ebbef69aaeb2
+location:
+  ==: org.bukkit.Location
+  world: world_the_end
+  x: 7.0
+  y: 63.0
+  z: -2.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:snow_block
+  count: 45
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:gunpowder
+  count: 2
+  schema_version: 1
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4438
+  id: minecraft:golden_chestplate
+  count: 1
+  components:
+    minecraft:damage: '62'
+  schema_version: 1

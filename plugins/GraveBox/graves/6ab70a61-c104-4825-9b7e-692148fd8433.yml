@@ -1,0 +1,16 @@
+grave-id: 6ab70a61-c104-4825-9b7e-692148fd8433
+owner-uuid: 48acf415-9d1d-33cb-af3a-10ca4d470fbf
+location:
+  ==: org.bukkit.Location
+  world: world
+  x: 1277.0
+  y: 89.0
+  z: -971.0
+  pitch: 0.0
+  yaw: 0.0
+items:
+- ==: org.bukkit.inventory.ItemStack
+  DataVersion: 4325
+  id: minecraft:glass_pane
+  count: 1
+  schema_version: 1
