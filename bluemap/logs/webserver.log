@@ -840,3 +840,17 @@
 [2025-08-24 13:35:13][INFO] /127.206.19.149 "GET /maps/world/live/players.json?589527 HTTP/1.1" 200 OK
 [2025-08-24 13:35:14][INFO] /127.206.19.149 "GET /maps/world/live/markers.json?600461 HTTP/1.1" 200 OK
 [2025-08-24 13:35:14][INFO] /127.24.16.250 "GET /maps/world/live/players.json?530902 HTTP/1.1" 200 OK
+[2025-08-24 13:35:15][INFO] /127.206.19.149 "GET /maps/world/live/players.json?197493 HTTP/1.1" 200 OK
+[2025-08-24 13:35:15][INFO] /127.24.16.250 "GET /maps/world/live/players.json?353157 HTTP/1.1" 200 OK
+[2025-08-24 13:35:16][INFO] /127.24.16.250 "GET /maps/world/live/markers.json?382862 HTTP/1.1" 200 OK
+[2025-08-24 13:35:16][INFO] /127.206.19.149 "GET /maps/world/live/players.json?40652 HTTP/1.1" 200 OK
+[2025-08-24 13:35:17][INFO] /127.24.16.250 "GET /maps/world/live/players.json?900531 HTTP/1.1" 200 OK
+[2025-08-24 13:35:18][INFO] /127.206.19.149 "GET /maps/world/live/players.json?569209 HTTP/1.1" 200 OK
+[2025-08-24 13:35:18][INFO] /127.24.16.250 "GET /maps/world/live/players.json?820727 HTTP/1.1" 200 OK
+[2025-08-24 13:35:19][INFO] /127.231.142.97 "GET /settings.json?745709 HTTP/1.1" 200 OK
+[2025-08-24 13:35:20][INFO] /127.206.19.149 "GET /maps/world/live/players.json?513080 HTTP/1.1" 200 OK
+[2025-08-24 13:35:20][INFO] /127.37.196.81 "GET /game HTTP/1.1" 404 Not Found
+[2025-08-24 13:35:20][INFO] /127.231.142.97 "GET /maps/world/live/players.json?216613 HTTP/1.1" 200 OK
+[2025-08-24 13:35:20][INFO] /127.24.16.250 "GET /maps/world/live/players.json?830097 HTTP/1.1" 200 OK
+[2025-08-24 13:35:21][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x-1/z-2.png?86620 HTTP/1.1" 204 No Content
+[2025-08-24 13:35:21][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x-1/z-2.png?86620 HTTP/1.1" 204 No Content
