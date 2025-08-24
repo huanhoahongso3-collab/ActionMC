@@ -706,3 +706,15 @@
 [2025-08-24 13:32:37][FINE] Started watching map 'world_the_end' for updates...
 [2025-08-24 13:32:37][FINE] Started watching map 'world_the_nether' for updates...
 [2025-08-24 13:32:37][INFO] BlueMap loaded!
+[2025-08-24 13:33:50][FINE] No renderer found for entity type: minecraft:cow
+[2025-08-24 13:33:50][FINE] No renderer found for entity type: minecraft:pig
+[2025-08-24 13:33:51][FINE] No renderer found for entity type: minecraft:item
+[2025-08-24 13:33:51][FINE] No renderer found for entity type: minecraft:rabbit
+[2025-08-24 13:33:52][FINE] No renderer found for entity type: minecraft:armadillo
+[2025-08-24 13:33:52][FINE] No renderer found for entity type: minecraft:wolf
+[2025-08-24 13:33:52][FINE] No renderer found for entity type: minecraft:parrot
+[2025-08-24 13:33:52][FINE] No renderer found for entity type: minecraft:zombie
+[2025-08-24 13:33:52][FINE] No renderer found for entity type: minecraft:chicken
+[2025-08-24 13:33:55][FINE] No renderer found for entity type: minecraft:small_fireball
+[2025-08-24 13:33:55][FINE] No renderer found for entity type: minecraft:arrow
+[2025-08-24 13:33:55][FINE] No renderer found for entity type: minecraft:sheep
