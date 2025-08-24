@@ -747,3 +747,10 @@
 [2025-08-24 13:19:46][FINE] No renderer found for entity type: minecraft:cod
 [2025-08-24 13:19:51][FINE] No renderer found for entity type: minecraft:dolphin
 [2025-08-24 13:19:51][FINE] No renderer found for entity type: minecraft:bee
+[2025-08-24 13:19:57][FINE] Failed to load skin from mojang for player: 'edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8' - java.io.IOException: java.lang.IllegalStateException: Not a JSON Object: null
+[2025-08-24 13:19:57][FINE] No player-skin provided for UUID: edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8
+[2025-08-24 13:19:59][FINE] No renderer found for entity type: minecraft:blaze
+[2025-08-24 13:20:04][FINE] No renderer found for entity type: minecraft:small_fireball
+[2025-08-24 13:20:11][FINE] No renderer found for entity type: minecraft:phantom
+[2025-08-24 13:20:12][FINE] No renderer found for entity type: minecraft:falling_block
+[2025-08-24 13:20:17][FINE] No renderer found for entity type: minecraft:wandering_trader
