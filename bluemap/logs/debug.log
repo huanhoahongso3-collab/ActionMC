@@ -854,3 +854,6 @@
 [2025-08-24 13:39:02][FINE] No player-skin provided for UUID: edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8
 [2025-08-24 13:39:05][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:39, z:21): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 13:39:07][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:40, z:21): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:39:09][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:40, z:22): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:39:11][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:41, z:21): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:39:13][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:41, z:22): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
