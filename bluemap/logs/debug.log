@@ -873,3 +873,4 @@
 [2025-08-24 14:17:27][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:316, z:199): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 14:18:47][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:321, z:242): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 14:18:50][FINE] Unexpected exception trying to load preload region ('world/dimensions/heaven/sky/entities' -> x:9, z:9): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 14:19:08][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:318, z:306): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
