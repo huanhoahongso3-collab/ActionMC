@@ -831,3 +831,10 @@
 [2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=east,flower_amount=3]
 [2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=south,flower_amount=3]
 [2025-08-24 13:35:01][FINE] No renderer found for block state: minecraft:wildflowers[facing=west,flower_amount=4]
+[2025-08-24 13:35:27][FINE] No renderer found for entity type: minecraft:wither_skeleton
+[2025-08-24 13:35:27][FINE] No renderer found for entity type: minecraft:slime
+[2025-08-24 13:35:27][FINE] No renderer found for entity type: minecraft:magma_cube
+[2025-08-24 13:35:27][FINE] No renderer found for entity type: minecraft:vex
+[2025-08-24 13:35:27][FINE] No renderer found for entity type: minecraft:marker
+[2025-08-24 13:35:27][FINE] No renderer found for entity type: minecraft:ghast
+[2025-08-24 13:35:28][FINE] No renderer found for entity type: minecraft:strider
