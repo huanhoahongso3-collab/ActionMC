@@ -845,3 +845,5 @@
 [2025-08-24 13:36:05][FINE] No renderer found for entity type: minecraft:phantom
 [2025-08-24 13:36:39][FINE] No renderer found for entity type: minecraft:enderman
 [2025-08-24 13:38:40][FINE] Unexpected exception trying to load preload region ('world/DIM-1/entities' -> x:1, z:0): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:38:50][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:47, z:18): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 13:38:52][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:48, z:18): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
