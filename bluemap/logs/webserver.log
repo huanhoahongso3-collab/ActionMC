@@ -1,3 +1,61 @@
 [2025-08-24 13:32:45][INFO] /127.231.142.97 "GET / HTTP/1.1" 200 OK
 [2025-08-24 13:32:45][INFO] /127.231.142.97 "GET /assets/index-b72fc5a8.js HTTP/1.1" 200 OK
 [2025-08-24 13:32:46][INFO] /127.206.19.149 "GET / HTTP/1.1" 200 OK
+[2025-08-24 13:32:47][INFO] /127.231.142.97 "GET /assets/index-ffb10548.css HTTP/1.1" 200 OK
+[2025-08-24 13:32:47][INFO] /127.206.19.149 "GET /assets/index-b72fc5a8.js HTTP/1.1" 200 OK
+[2025-08-24 13:32:47][INFO] /127.231.142.97 "GET /lang/settings.conf HTTP/1.1" 200 OK
+[2025-08-24 13:32:47][INFO] /127.231.142.97 "GET /assets/favicon-8768b872.png HTTP/1.1" 200 OK
+[2025-08-24 13:32:47][INFO] /127.231.142.97 "GET /lang/en.conf HTTP/1.1" 200 OK
+[2025-08-24 13:32:48][INFO] /127.206.19.149 "GET /assets/index-ffb10548.css HTTP/1.1" 200 OK
+[2025-08-24 13:32:48][INFO] /127.231.142.97 "GET /settings.json?650708 HTTP/1.1" 200 OK
+[2025-08-24 13:32:48][INFO] /127.231.142.97 "GET /assets/Quicksand-06927fae.ttf HTTP/1.1" 200 OK
+[2025-08-24 13:32:48][INFO] /127.231.142.97 "GET /maps/world_heaven_sky/settings.json?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:48][INFO] /127.231.142.97 "GET /maps/world/settings.json?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:49][INFO] /127.231.142.97 "GET /maps/world_the_end/settings.json?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:49][INFO] /127.231.142.97 "GET /maps/world_the_nether/settings.json?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:50][INFO] /127.231.142.97 "GET /maps/world/textures.json?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x0/z0.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x0/z0.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x0/z0.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/live/players.json?484798 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/live/markers.json?82377 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.206.19.149 "GET /lang/settings.conf HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.206.19.149 "GET /assets/favicon-8768b872.png HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x-1/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x-1/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x0/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.206.19.149 "GET /lang/en.conf HTTP/1.1" 200 OK
+[2025-08-24 13:32:51][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x0/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.206.19.149 "GET /assets/Quicksand-06927fae.ttf HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x0/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x-1/z0.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x-1/z0.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x-1/z0.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.206.19.149 "GET /settings.json?483508 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x-1/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x-2/z0.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x-2/z0.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x-2/z0.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.206.19.149 "GET /maps/world_heaven_sky/settings.json?758775 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.206.19.149 "GET /maps/world/settings.json?758775 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x-2/z-1.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x-2/z-1.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/live/players.json?834489 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x-2/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x-2/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x-2/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:52][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x-2/z-2.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x-1/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x-1/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x-1/z-2.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x0/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.206.19.149 "GET /maps/world_the_nether/settings.json?758775 HTTP/1.1" 200 OK
+[2025-08-24 13:32:53][INFO] /127.206.19.149 "GET /maps/world_the_end/settings.json?758775 HTTP/1.1" 200 OK
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x0/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x1/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x0/z-2.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x1/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/2/x1/z-1.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x1/z-2.png?932451 HTTP/1.1" 204 No Content
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/1/x1/z-1.png?932451 HTTP/1.1" 200 OK
+[2025-08-24 13:32:53][INFO] /127.231.142.97 "GET /maps/world/tiles/3/x1/z-1.png?932451 HTTP/1.1" 204 No Content
