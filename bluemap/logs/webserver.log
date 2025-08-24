@@ -226,3 +226,8 @@
 [2025-08-24 14:25:55][INFO] /127.240.175.144 "GET /maps/world/tiles/2/x-3/z-2.png?860592 HTTP/1.1" 204 No Content
 [2025-08-24 14:25:55][INFO] /127.240.175.144 "GET /maps/world/live/players.json?691896 HTTP/1.1" 200 OK
 [2025-08-24 14:25:57][INFO] /127.240.175.144 "GET /maps/world/live/players.json?591631 HTTP/1.1" 200 OK
+[2025-08-24 14:25:58][INFO] /127.240.175.144 "GET /maps/world/live/players.json?538067 HTTP/1.1" 200 OK
+[2025-08-24 14:25:59][INFO] /127.240.175.144 "GET /maps/world/live/players.json?504194 HTTP/1.1" 200 OK
+[2025-08-24 14:26:01][INFO] /127.240.175.144 "GET /maps/world/live/markers.json?525255 HTTP/1.1" 200 OK
+[2025-08-24 14:26:01][INFO] /127.240.175.144 "GET /maps/world/live/players.json?426397 HTTP/1.1" 200 OK
+[2025-08-24 14:26:03][INFO] /127.240.175.144 "GET /maps/world/live/players.json?695984 HTTP/1.1" 200 OK
