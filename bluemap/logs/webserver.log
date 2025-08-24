@@ -146,3 +146,4 @@
 [2025-08-24 14:03:47][INFO] /127.24.16.250 "GET /maps/world/live/players.json?16616 HTTP/1.1" 200 OK
 [2025-08-24 14:03:47][INFO] /127.24.16.250 "GET /maps/world/live/markers.json?356338 HTTP/1.1" 200 OK
 [2025-08-24 14:25:23][INFO] /127.240.175.144 "GET /join HTTP/1.1" 404 Not Found
+[2025-08-24 14:25:32][INFO] /127.240.175.144 "GET /join HTTP/1.1" 404 Not Found
