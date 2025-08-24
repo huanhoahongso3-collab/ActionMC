@@ -885,3 +885,4 @@
 [2025-08-24 13:40:20][FINE] Unexpected exception trying to load chunk ('world/DIM-1/entities' -> x:48, z:31): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 13:40:25][FINE] No renderer found for entity type: minecraft:illusioner
 [2025-08-24 13:40:26][FINE] No renderer found for entity type: minecraft:falling_block
+[2025-08-24 13:41:09][FINE] No renderer found for entity type: minecraft:panda
