@@ -108,3 +108,22 @@
 [2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/2/x-3/z-1.png?197942 HTTP/1.1" 204 No Content
 [2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/3/x-3/z0.png?197942 HTTP/1.1" 204 No Content
 [2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/1/x-2/z1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/3/x-3/z-1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/1/x2/z-2.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/3/x2/z-2.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/2/x2/z-2.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/1/x-3/z1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/1/x2/z-1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/3/x2/z-1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/2/x2/z0.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/3/x2/z0.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/1/x2/z0.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/live/players.json?316502 HTTP/1.1" 200 OK
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/2/x2/z-1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:05][INFO] /127.24.16.250 "GET /maps/world/tiles/1/x2/z1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:06][INFO] /127.24.16.250 "GET /maps/world/tiles/2/x2/z1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:06][INFO] /127.24.16.250 "GET /maps/world/tiles/3/x2/z1.png?197942 HTTP/1.1" 204 No Content
+[2025-08-24 13:28:06][INFO] /127.24.16.250 "GET /maps/world/live/markers.json?408269 HTTP/1.1" 200 OK
+[2025-08-24 13:28:07][INFO] /127.24.16.250 "GET /maps/world/live/players.json?284855 HTTP/1.1" 200 OK
+[2025-08-24 13:28:09][INFO] /127.24.16.250 "GET /maps/world/live/players.json?399509 HTTP/1.1" 200 OK
+[2025-08-24 13:28:11][INFO] /127.24.16.250 "GET /maps/world/live/players.json?254094 HTTP/1.1" 200 OK
