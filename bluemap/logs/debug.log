@@ -760,3 +760,9 @@
 [2025-08-24 13:20:38][FINE] No renderer found for entity type: minecraft:marker
 [2025-08-24 13:20:43][FINE] No renderer found for entity type: minecraft:illusioner
 [2025-08-24 13:20:58][FINE] No renderer found for entity type: minecraft:armor_stand
+[2025-08-24 13:21:19][FINE] Stopped watching map 'world_heaven_sky' for updates.
+[2025-08-24 13:21:19][FINE] Stopped watching map 'world' for updates.
+[2025-08-24 13:21:19][FINE] Stopped watching map 'world_the_end' for updates.
+[2025-08-24 13:21:19][FINE] Stopped watching map 'world_the_nether' for updates.
+[2025-08-24 13:21:19][INFO] Waiting for task 'updating map 'world'' to stop.. (33.53%)
+[2025-08-24 13:21:19][INFO] Waiting for task 'updating map 'world'' to stop.. (36.36%)

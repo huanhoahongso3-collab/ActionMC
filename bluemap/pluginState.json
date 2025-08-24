@@ -1,0 +1,18 @@
+{
+  "render-threads-enabled": true,
+  "maps": {
+    "world_heaven_sky": {
+      "update-enabled": true
+    },
+    "world_the_end": {
+      "update-enabled": true
+    },
+    "world": {
+      "update-enabled": true
+    },
+    "world_the_nether": {
+      "update-enabled": true
+    }
+  },
+  "hidden-players": []
+}
