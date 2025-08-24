@@ -730,3 +730,9 @@
 [2025-08-24 13:57:07][FINE] No renderer found for entity type: minecraft:experience_orb
 [2025-08-24 13:57:07][FINE] No renderer found for entity type: minecraft:rabbit
 [2025-08-24 13:57:08][FINE] No renderer found for entity type: minecraft:stray
+[2025-08-24 13:57:11][FINE] No renderer found for entity type: minecraft:armadillo
+[2025-08-24 13:57:11][FINE] No renderer found for entity type: minecraft:bat
+[2025-08-24 13:57:12][FINE] No renderer found for entity type: minecraft:chest_minecart
+[2025-08-24 13:57:13][FINE] Failed to load skin from mojang for player: 'edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8' - java.io.IOException: java.lang.IllegalStateException: Not a JSON Object: null
+[2025-08-24 13:57:13][FINE] No player-skin provided for UUID: edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8
+[2025-08-24 13:57:16][FINE] No renderer found for entity type: minecraft:parrot
