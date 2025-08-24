@@ -855,3 +855,4 @@
 [2025-08-24 14:03:18][FINE] Scheduled update for region-file: (0, -1) (Map: world)
 [2025-08-24 14:03:49][FINE] Unexpected exception trying to load preload region ('world/dimensions/heaven/sky/entities' -> x:1, z:-1): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
 [2025-08-24 14:04:07][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:45, z:-23): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
+[2025-08-24 14:04:22][FINE] Unexpected exception trying to load chunk ('world/dimensions/heaven/sky/entities' -> x:40, z:-13): java.io.IOException: java.lang.IllegalStateException: STRING tag expected but got COMPOUND. At: CustomName
