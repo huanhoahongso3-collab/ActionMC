@@ -184,3 +184,14 @@
 [2025-08-24 13:33:03][INFO] /127.231.142.97 "GET /maps/world/live/players.json?369777 HTTP/1.1" 200 OK
 [2025-08-24 13:33:05][INFO] /127.231.142.97 "GET /maps/world/live/players.json?848043 HTTP/1.1" 200 OK
 [2025-08-24 13:33:05][INFO] /127.206.19.149 "GET /maps/world/live/players.json?987552 HTTP/1.1" 200 OK
+[2025-08-24 13:33:06][INFO] /127.231.142.97 "GET /maps/world/live/players.json?132380 HTTP/1.1" 200 OK
+[2025-08-24 13:33:06][INFO] /127.206.19.149 "GET /maps/world/live/markers.json?31257 HTTP/1.1" 200 OK
+[2025-08-24 13:33:06][INFO] /127.206.19.149 "GET /maps/world/live/players.json?773379 HTTP/1.1" 200 OK
+[2025-08-24 13:33:08][INFO] /127.231.142.97 "GET /maps/world/live/players.json?730035 HTTP/1.1" 200 OK
+[2025-08-24 13:33:08][INFO] /127.206.19.149 "GET /maps/world/live/players.json?930516 HTTP/1.1" 200 OK
+[2025-08-24 13:33:09][INFO] /127.231.142.97 "GET /maps/world/live/players.json?368481 HTTP/1.1" 200 OK
+[2025-08-24 13:33:10][INFO] /127.206.19.149 "GET /maps/world/live/players.json?984957 HTTP/1.1" 200 OK
+[2025-08-24 13:33:10][INFO] /127.231.142.97 "GET /maps/world/live/players.json?405293 HTTP/1.1" 200 OK
+[2025-08-24 13:33:11][INFO] /127.206.19.149 "GET /maps/world/live/players.json?75747 HTTP/1.1" 200 OK
+[2025-08-24 13:33:12][INFO] /127.231.142.97 "GET /maps/world/live/markers.json?616618 HTTP/1.1" 200 OK
+[2025-08-24 13:33:12][INFO] /127.231.142.97 "GET /maps/world/live/players.json?304325 HTTP/1.1" 200 OK
