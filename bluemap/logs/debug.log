@@ -734,3 +734,10 @@
 [2025-08-24 13:48:17][FINE] No renderer found for entity type: minecraft:squid
 [2025-08-24 13:48:23][FINE] No renderer found for entity type: minecraft:panda
 [2025-08-24 13:48:26][FINE] No renderer found for entity type: minecraft:pig
+[2025-08-24 13:48:29][FINE] No renderer found for entity type: minecraft:sheep
+[2025-08-24 13:48:32][FINE] No renderer found for entity type: minecraft:chicken
+[2025-08-24 13:48:36][FINE] No renderer found for entity type: minecraft:parrot
+[2025-08-24 13:48:37][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-08-24 13:48:39][FINE] Scheduled update for region-file: (-1, 0) (Map: world)
+[2025-08-24 13:48:41][FINE] Scheduled update for region-file: (0, 0) (Map: world)
+[2025-08-24 13:48:41][FINE] Scheduled update for region-file: (0, -1) (Map: world)
