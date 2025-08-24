@@ -740,3 +740,5 @@
 [2025-08-24 13:34:10][FINE] No renderer found for entity type: minecraft:glow_item_frame
 [2025-08-24 13:34:12][FINE] No renderer found for entity type: minecraft:blaze
 [2025-08-24 13:34:14][FINE] No renderer found for entity type: minecraft:zombified_piglin
+[2025-08-24 13:34:16][FINE] No renderer found for entity type: minecraft:villager
+[2025-08-24 13:34:16][FINE] No renderer found for entity type: minecraft:iron_golem
