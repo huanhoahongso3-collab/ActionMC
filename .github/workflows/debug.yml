@@ -1,0 +1,84 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  workflow_dispatch:
+
+jobs:
+  server:
+    runs-on: windows-latest
+    steps:
+      # --- 1. Checkout + Java ---
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.FINE_GRAINED_PAT }}
+
+      - name: Setup GraalVM Java
+        uses: graalvm/setup-graalvm@v1
+        with:
+          java-version: '23'
+          distribution: 'graalvm'
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --- 2. Start Playit + Spigot ---
+      - name: Run Spigot + Playit
+        shell: bash
+        env:
+          FINE_GRAINED_PAT: ${{ secrets.FINE_GRAINED_PAT }}
+          PLAYIT_SECRET: ${{ secrets.PLAYIT_SECRET }}
+          REPO: ${{ github.repository }}
+        run: |
+          cd $GITHUB_WORKSPACE
+
+          # setup playit
+          echo "$PLAYIT_SECRET" > playit.toml
+
+          echo "Starting Playit..."
+          ./playit-windows-x86_64-signed.exe >/dev/null 2>&1 &
+          PLAYIT_PID=$!
+          echo "Playit started with PID $PLAYIT_PID"
+
+          echo "Starting Spigot (launcher.jar)..."
+          java -Xms16G -Xmx16G -jar launcher.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
+          SPIGOT_PID=$!
+          echo "Spigot started with PID $SPIGOT_PID"
+
+          # --- 3. Timer to SIGTERM Spigot after 5h55m ---
+          (
+            sleep 60
+            echo "⏰ Timer reached 5h55m → sending SIGTERM to Spigot..."
+            kill -TERM $SPIGOT_PID || true
+          ) &
+
+          # --- 4. Wait until Spigot exits ---
+          wait $SPIGOT_PID
+          echo "Spigot stopped (naturally or by timer)."
+
+          # --- Force kill Playit ---
+          echo "Force killing Playit..."
+          kill -9 $PLAYIT_PID || true
+
+          # --- 5. Commit + push world save ---
+          echo "Saving world data to GitHub..."
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git commit -m "Auto world save after Spigot shutdown [no ci]"; then
+            for i in {1..3}; do
+              if git push https://x-access-token:${FINE_GRAINED_PAT}@github.com/${REPO}.git HEAD:main --force; then
+                echo "World save pushed successfully"
+                break
+              else
+                echo "Push failed (attempt $i), retrying..."
+                git pull --rebase || true
+              fi
+            done
+          else
+            echo "No changes to commit"
+          fi
+
+          echo "✅ Workflow finished after Spigot shutdown."
