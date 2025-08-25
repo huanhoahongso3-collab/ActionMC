@@ -9765,4 +9765,17 @@ BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:12:57.147] [Server thre
 Server threadEx[25Aug2025 01:12:57.315] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -3) (Map: world)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:12:57.315] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -3) (Map: world)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:12:57.906] [c2me-worker-0/DEBUG] [FabricLoader/Mixin/]: Mixing util.DelegatedGeneratorAccessMixin from mixins.arclight.bukkit.json into org.bukkit.craftbukkit.v1_21_R1.util.DelegatedGeneratorAccess
-c2me-worker-0Ex
+c2me-worker-0Ex[25Aug2025 01:12:59.989] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2310$1
+c2me-worker-0Ex[25Aug2025 01:12:59.990] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2443$1
+c2me-worker-0Ex[25Aug2025 01:13:00.625] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:zombie
+RenderManager-0-0Ex[25Aug2025 01:13:00.993] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2510$1
+c2me-worker-0Ex[25Aug2025 01:13:00.996] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2544$1
+c2me-worker-0Ex[25Aug2025 01:13:01.534] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -2) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:02.297] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2465$1
+c2me-worker-0Ex[25Aug2025 01:13:03.131] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:04.034] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:bat
+RenderManager-0-0Ex[25Aug2025 01:13:04.277] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:creeper
+RenderManager-0-0Ex[25Aug2025 01:13:04.278] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:spider
+RenderManager-0-0Ex[25Aug2025 01:13:04.778] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:blaze
+RenderManager-0-0Ex[25Aug2025 01:13:05.286] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:spectral_arrow
+RenderManager-0-0Ex
