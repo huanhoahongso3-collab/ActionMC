@@ -47,15 +47,22 @@ jobs:
           SPIGOT_PID=$!
           echo "Spigot started with PID $SPIGOT_PID"
 
-          # --- 3. Wait until Spigot stops naturally ---
+          # --- 3. Timer to SIGTERM Spigot after 5h55m ---
+          (
+            sleep 21300
+            echo "⏰ Timer reached 5h55m → sending SIGTERM to Spigot..."
+            kill -TERM $SPIGOT_PID || true
+          ) &
+
+          # --- 4. Wait until Spigot exits ---
           wait $SPIGOT_PID
-          echo "Spigot stopped normally."
+          echo "Spigot stopped (naturally or by timer)."
 
           # --- Force kill Playit ---
           echo "Force killing Playit..."
           kill -9 $PLAYIT_PID || true
 
-          # --- 4. Commit + push world save ---
+          # --- 5. Commit + push world save ---
           echo "Saving world data to GitHub..."
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
