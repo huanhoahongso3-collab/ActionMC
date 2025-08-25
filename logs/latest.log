@@ -1125,4 +1125,58 @@ Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]:
 Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: [KeepChunks] KeepChunks v1.7.3 has been enabled
 Server threadEx[25Aug2025 01:11:33.382] [Server thread/INFO] [Rainbow/]: Enabling Rainbow v1.1
 Server threadEx[25Aug2025 01:11:33.419] [Server thread/INFO] [LimitedCreative/]: Enabling LimitedCreative v2.0.1
-Server threadEx
+Server threadEx[25Aug2025 01:11:33.702] [Server thread/INFO] [TabListPing/]: Enabling TabListPing v2.02
+Server threadEx[25Aug2025 01:11:33.708] [Server thread/INFO] [TabListPing/]: Detected 1.21.1, using net.minecraft.network.protocol.common.ClientboundKeepAlivePacket & net.minecraft.network.protocol.common.ServerboundKeepAlivePacket
+Server threadEx[25Aug2025 01:11:33.750] [Server thread/INFO] [TabListPing/]: Metrics enabled if allowed by plugins/bStats/config.yml
+Server threadEx[25Aug2025 01:11:33.751] [Server thread/INFO] [SetHomePlugin/]: Enabling SetHomePlugin v1.0.0
+Server threadEx[25Aug2025 01:11:33.855] [Server thread/INFO] [SetHomePlugin/]: SetHomePlugin enabled con sistema de permisos dinámicos
+Server threadEx[25Aug2025 01:11:33.857] [Server thread/INFO] [AuthMe/]: Enabling AuthMe v5.7.0-FORK-b53
+Server threadEx[25Aug2025 01:11:33.876] [Server thread/INFO] [AuthMe/]: You are running an unofficial fork version of AuthMe!
+Server threadEx[25Aug2025 01:11:34.318] [Server thread/INFO] [AuthMe/]: SQLite Setup finished
+Server threadEx[25Aug2025 01:11:34.399] [Server thread/INFO] [AuthMe/]: Hooked into LuckPerms!
+Server threadEx[25Aug2025 01:11:34.757] [Server thread/INFO] [AuthMe/]: 
+    ___         __  __    __  ___   
+   /   | __  __/ /_/ /_  /  |/  /__ 
+  / /| |/ / / / __/ __ \/ /|_/ / _ \
+ / ___ / /_/ / /_/ / / / /  / /  __/
+/_/  |_\__,_/\__/_/ /_/_/  /_/\___/ 
+                                    
+Server threadEx[25Aug2025 01:11:34.764] [Server thread/INFO] [AuthMe/]: AuthMeReReloaded is running on Spigot
+Server threadEx[25Aug2025 01:11:34.765] [Server thread/INFO] [AuthMe/]: AuthMeReReloaded is enabled successfully!
+Server threadEx[25Aug2025 01:11:34.765] [Server thread/INFO] [AuthMe/]: GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/
+Server threadEx[25Aug2025 01:11:34.765] [Server thread/INFO] [AuthMe/]: Checking for updates...
+Server threadEx[25Aug2025 01:11:34.768] [Server thread/INFO] [CustomJoinMessages/]: Enabling CustomJoinMessages v17.9.1
+Server threadEx[25Aug2025 01:11:35.123] [Server thread/INFO] [HoloMobHealth/]: Enabling HoloMobHealth v2.3.10.0
+Server threadEx[25Aug2025 01:11:35.934] [Server thread/INFO] [Console/]: [HoloMobHealth] Loading languages...
+Server threadEx[25Aug2025 01:11:35.938] [Server thread/INFO] [Console/]: [HoloMobHealth] Opened Sqlite database successfully
+Server threadEx[25Aug2025 01:11:35.943] [Server thread/INFO] [Console/]: [HoloMobHealth] HoloMobHealth has been Enabled!
+Server threadEx[25Aug2025 01:11:35.965] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+Server threadEx[25Aug2025 01:11:35.999] [Server thread/INFO] [FreezeHibernate/]: Server is frozen until a player joins.
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:0 potentially creating overlapping structures detected. Structure sets: [minecraft:mineshafts, nova_structures:end_castle, minecraft:strongholds, minecraft:buried_treasures]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:21731007 potentially creating overlapping structures detected. Structure sets: [wabi_sabi_structures:ender_claw, wabi_sabi_structures:warped_ender_claw]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:2358902 potentially creating overlapping structures detected. Structure sets: [terralith:mage, terralith:regular]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:784827271 potentially creating overlapping structures detected. Structure sets: [betterfortresses:fortress, betteroceanmonuments:ocean_monument]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:420699602 potentially creating overlapping structures detected. Structure sets: [structory_towers:ultra_rare_towers, structory_towers:towers, structory_towers:end_towers]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387319 potentially creating overlapping structures detected. Structure sets: [minecraft:illager_manor, minecraft:woodland_mansions]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:69846574 potentially creating overlapping structures detected. Structure sets: [minecraft:ocean_monuments, nova_structures:trident_trial_monument]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:783 potentially creating overlapping structures detected. Structure sets: [nova_structures:taverns, nova_structures:badlands_miner_outpost_mineshafts, nova_structures:badlands_miner_outpost]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:78409300 potentially creating overlapping structures detected. Structure sets: [nova_structures:shrines, nova_structures:shrine_tower]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:6942069 potentially creating overlapping structures detected. Structure sets: [structory:ruin_quiet, joshie:blossom_blade]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:10387312 potentially creating overlapping structures detected. Structure sets: [nova_structures:villages_jungle, nova_structures:villages_swamp, joshie:village_ocean, nova_structures:villages_birch, heaven:villages]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:4533232 potentially creating overlapping structures detected. Structure sets: [nova_structures:illager_camp, nova_structures:nether_camps]
+Server threadEx[25Aug2025 01:11:36.001] [Server thread/WARN] [com.structureessentials.StructureEssentials/]: Non-unique structure_set salt:239021 potentially creating overlapping structures detected. Structure sets: [minecraft:desert_pyramids, minecraft:jungle_temples, nova_structures:desert_ruins, nova_structures:jungle_ruins]
+Server threadEx[25Aug2025 01:11:36.002] [Server thread/INFO] [Ksyxis/MinecraftServerMixin/MOD_KSYXIS]: Ksyxis: Hey. This is Ksyxis. We will now load the world and will try to do it quickly. If the game is not responding after this, it's probably us to blame or delete for good. This message appears always, even if the mod works flawlessly. (injector: modern, ci: CallbackInfo[TYPE=CallbackInfo,NAME=method_3774,CANCELLABLE=false], server: net.minecraft.class_3176@6907fe12)
+Server threadEx[25Aug2025 01:11:36.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+Server threadEx[25Aug2025 01:11:36.008] [c2me-worker-0/INFO] [net.minecraft.class_3951/]: Preparing spawn area: 2%
+c2me-worker-0Ex[25Aug2025 01:11:36.132] [Server thread/INFO] [net.minecraft.class_3951/]: Time elapsed: 130 ms
+Server threadEx[25Aug2025 01:11:36.132] [Server thread/INFO] [net.minecraft.class_3176/]: Done (68.278s)! For help, type "help"
+Server threadEx[25Aug2025 01:11:36.134] [Server thread/WARN] [ModernFix/]: Dedicated server took 112.078 seconds to load
+Server threadEx[25Aug2025 01:11:36.159] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading BlueMap...
+BlueMap-Plugin-LoadingEx[25Aug2025 01:11:36.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] No tasks to continue.
+Server threadEx[25Aug2025 01:11:36.344] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
+Server threadEx[25Aug2025 01:11:36.734] [Craft Scheduler Thread - 4/INFO] [AuthMe/]: You are running the latest version.
+Craft Scheduler Thread - 4Ex[25Aug2025 01:11:36.964] [Craft Scheduler Thread - 3/WARN] [JustTPA/]: Failed to check for updates
+Craft Scheduler Thread - 3Ex[25Aug2025 01:11:37.031] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: Loading resources...
+BlueMap-Plugin-LoadingEx[25Aug2025 01:11:37.259] [Server thread/WARN] [FabricLoader/Mixin/]: @Redirect conflict. Skipping lithium.mixins.json:alloc.entity_tracker.ChunkMap$TrackedEntityMixin from mod lithium->@Redirect::useFasterCollection()Ljava/util/Set; with priority 1000, already redirected by mixins.arclight.impl.optimization.json:network.ChunkMapMixin_Optimize$TrackedEntityMixin from mod arclight->@Redirect::arclight$useFastUtilSet()Ljava/util/Set; with priority 1000
+Server threadEx[25Aug2025 01:11:38.160] [Craft Scheduler Thread - 2/INFO] [Console/]: [ImageFrame] Data loading completed! Loaded 7 ImageMaps!
+Craft Scheduler Thread - 2Ex
