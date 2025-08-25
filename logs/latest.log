@@ -262,4 +262,50 @@ mainEx[25Aug2025 01:10:00.474] [main/INFO] [ThreadTweak/]: ThreadTweak config in
 mainEx[25Aug2025 01:10:02.324] [main/WARN] [FabricLoader/Mixin/]: Method overwrite conflict for method_5736 in lithium.mixins.json:alloc.deep_passengers.EntityMixin from mod lithium, previously written by io.izzel.arclight.common.mixin.optimization.general.EntityMixin_Optimize. Skipping method.
 mainEx[25Aug2025 01:10:03.773] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
 mainEx[25Aug2025 01:10:03.773] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+mainEx[25Aug2025 01:10:05.111] [main/WARN] [FabricLoader/Mixin/]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+mainEx[25Aug2025 01:10:05.113] [main/WARN] [FabricLoader/Mixin/]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+mainEx[25Aug2025 01:10:09.938] [main/INFO] [net.minecraft.class_2966/]: Vanilla bootstrap took 8220 milliseconds
+mainEx[25Aug2025 01:10:10.097] [main/INFO] [FabricLoader/Mixin/]: Instancing error handler class dev.isxander.debugify.mixinplugin.DebugifyErrorHandler
+mainEx[25Aug2025 01:10:10.098] [main/WARN] [FabricLoader/Mixin/]: Mixin apply for mod betterchunkloading failed betterchunkloading.mixins.json:PlayerMovementNoUnloaded from mod betterchunkloading -> net.minecraft.class_3244: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException InjectionPoint(Shift)[@At("INVOKE")] on net/minecraft/class_3244::onMove with priority 200 cannot inject into net/minecraft/class_3244::method_12063(Lnet/minecraft/class_2828;)V merged by io.izzel.arclight.common.mixin.core.network.ServerGamePacketListenerImplMixin with priority 500 [handler$bpj000$betterchunkloading$onMove(Lnet/minecraft/class_2828;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Prepare ->  -> { target: method_12063(Lnet/minecraft/class_2828;)V }]
+mainEx org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: InjectionPoint(Shift)[@At("INVOKE")] on net/minecraft/class_3244::onMove with priority 200 cannot inject into net/minecraft/class_3244::method_12063(Lnet/minecraft/class_2828;)V merged by io.izzel.arclight.common.mixin.core.network.ServerGamePacketListenerImplMixin with priority 500 [handler$bpj000$betterchunkloading$onMove(Lnet/minecraft/class_2828;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V -> Prepare ->  -> { target: method_12063(Lnet/minecraft/class_2828;)V }]
+	at org.spongepowered.asm.mixin.injection.code.Injector.findTargetNodes(Injector.java:312) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.code.Injector.find(Injector.java:248) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.prepare(InjectionInfo.java:475) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1407) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:731) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:315) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:352) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:237) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:435) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.17.2.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528) ~[?:?]
+	at knot/io.izzel.arclight.fabric.ArclightModEntrypoint.onInitialize(ArclightModEntrypoint.java:14) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at net.fabricmc.loader.impl.FabricLoaderImpl.invokeEntrypoints(FabricLoaderImpl.java:405) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.Hooks.startServer(Hooks.java:63) [fabric-loader-0.17.2.jar:?]
+	at knot/net.minecraft.server.Main.main(Main.java:111) [server-intermediary.jar:?]
+	at net.fabricmc.loader.impl.game.minecraft.MinecraftGameProvider.launch(MinecraftGameProvider.java:506) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.Knot.launch(Knot.java:72) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.17.2.jar:?]
+	at io.izzel.arclight.boot.fabric.application.Main_Fabric.main(Main_Fabric.java:33) [server.jar:arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a]
+	at io.izzel.arclight.server.Launcher.main(Launcher.java:39) [server.jar:arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a]
+[25Aug2025 01:10:10.227] [main/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+mainEx[25Aug2025 01:10:10.302] [main/INFO] [org.reflections.Reflections/]: Reflections took 53 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[25Aug2025 01:10:10.342] [main/INFO] [org.reflections.Reflections/]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[25Aug2025 01:10:10.432] [main/INFO] [org.reflections.Reflections/]: Reflections took 7 ms to scan 1 urls, producing 1 keys and 3 values
+mainEx[25Aug2025 01:10:10.453] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+mainEx[25Aug2025 01:10:10.473] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[25Aug2025 01:10:10.479] [main/INFO] [org.reflections.Reflections/]: Reflections took 1 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[25Aug2025 01:10:10.489] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+mainEx[25Aug2025 01:10:10.508] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 1 values
+mainEx[25Aug2025 01:10:10.518] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+mainEx[25Aug2025 01:10:10.524] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 3 values
+mainEx[25Aug2025 01:10:10.536] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
+mainEx[25Aug2025 01:10:10.558] [main/INFO] [org.reflections.Reflections/]: Reflections took 2 ms to scan 1 urls, producing 1 keys and 2 values
 mainEx
