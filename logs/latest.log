@@ -1242,4 +1242,12 @@ Server threadEx[25Aug2025 01:12:50.243] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:12:54.628] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-9, -35] player chunk:[-12, -35]
 Server threadEx[25Aug2025 01:12:54.630] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -35] viewdist:16
 Server threadEx[25Aug2025 01:13:11.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+Server threadEx[25Aug2025 01:13:24.809] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-10, -32] player chunk:[-12, -34]
+Server threadEx[25Aug2025 01:13:24.812] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -34] viewdist:16
+Server threadEx[25Aug2025 01:13:25.757] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-11, -32] player chunk:[-12, -35]
+Server threadEx[25Aug2025 01:13:25.760] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -35] viewdist:16
+Server threadEx[25Aug2025 01:13:27.860] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-12, -33] player chunk:[-12, -36]
+Server threadEx[25Aug2025 01:13:27.863] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -36] viewdist:16
+Server threadEx[25Aug2025 01:13:28.847] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-13, -33] player chunk:[-13, -36]
+Server threadEx[25Aug2025 01:13:28.850] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-13, -36] viewdist:16
 Server threadEx

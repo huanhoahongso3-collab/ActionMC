@@ -767,3 +767,6 @@
 [2025-08-25 01:13:17][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
 [2025-08-25 01:13:17][FINE] Scheduled update for region-file: (-2, -2) (Map: world)
 [2025-08-25 01:13:17][FINE] Scheduled update for region-file: (0, -3) (Map: world)
+[2025-08-25 01:13:23][FINE] Scheduled update for region-file: (0, -1) (Map: world)
+[2025-08-25 01:13:23][FINE] Scheduled update for region-file: (0, -2) (Map: world)
+[2025-08-25 01:13:29][FINE] No renderer found for entity type: minecraft:donkey

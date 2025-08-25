@@ -9787,4 +9787,16 @@ RenderManager-0-0Ex[25Aug2025 01:13:14.738] [RenderManager-0-0/DEBUG] [BlueMap/]
 RenderManager-0-0Ex[25Aug2025 01:13:17.650] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -1) (Map: world)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:17.674] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -2) (Map: world)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:17.971] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -3) (Map: world)
-BlueMap-RegionFileWatchService-DelayTimerEx
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:23.401] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -1) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:23.436] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:24.809] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-10, -32] player chunk:[-12, -34]
+Server threadEx[25Aug2025 01:13:24.812] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -34] viewdist:16
+Server threadEx[25Aug2025 01:13:25.757] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-11, -32] player chunk:[-12, -35]
+Server threadEx[25Aug2025 01:13:25.760] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -35] viewdist:16
+Server threadEx[25Aug2025 01:13:27.860] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-12, -33] player chunk:[-12, -36]
+Server threadEx[25Aug2025 01:13:27.863] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -36] viewdist:16
+Server threadEx[25Aug2025 01:13:28.847] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-13, -33] player chunk:[-13, -36]
+Server threadEx[25Aug2025 01:13:28.850] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-13, -36] viewdist:16
+Server threadEx[25Aug2025 01:13:28.921] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/world/level/block/PressurePlateBlockMixin$1
+Server threadEx[25Aug2025 01:13:29.819] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:donkey
+RenderManager-0-0Ex
