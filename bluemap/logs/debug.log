@@ -735,3 +735,11 @@
 [2025-08-25 01:12:05][FINE] No renderer found for entity type: minecraft:parrot
 [2025-08-25 01:12:06][FINE] No renderer found for entity type: minecraft:chicken
 [2025-08-25 01:12:07][FINE] No renderer found for entity type: minecraft:wolf
+[2025-08-25 01:12:39][FINE] Scheduled update for region-file: (0, -2) (Map: world)
+[2025-08-25 01:12:39][FINE] Scheduled update for region-file: (0, -1) (Map: world)
+[2025-08-25 01:12:41][FINE] No renderer found for entity type: minecraft:skeleton
+[2025-08-25 01:12:42][FINE] No renderer found for entity type: minecraft:painting
+[2025-08-25 01:12:42][FINE] No renderer found for entity type: minecraft:drowned
+[2025-08-25 01:12:44][FINE] Scheduled update for region-file: (-1, -2) (Map: world)
+[2025-08-25 01:12:44][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
+[2025-08-25 01:12:44][FINE] No renderer found for entity type: minecraft:chest_minecart

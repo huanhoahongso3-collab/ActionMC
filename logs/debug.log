@@ -9730,4 +9730,21 @@ c2me-worker-0Ex[25Aug2025 01:12:31.265] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:12:31.267] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-14, -37] viewdist:16
 Server threadEx[25Aug2025 01:12:31.725] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-17, -37] player chunk:[-14, -36]
 Server threadEx[25Aug2025 01:12:31.726] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-14, -36] viewdist:16
-Server threadEx
+Server threadEx[25Aug2025 01:12:32.899] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-16, -39] player chunk:[-14, -37]
+Server threadEx[25Aug2025 01:12:32.902] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-14, -37] viewdist:16
+Server threadEx[25Aug2025 01:12:36.708] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class com/ishland/c2me/opts/worldgen/vanilla/mixin/structure_weight_sampler/MixinStructureWeightSampler$1
+c2me-worker-0Ex[25Aug2025 01:12:39.459] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:12:39.459] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -1) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:12:40.119] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-10, -37] player chunk:[-13, -37]
+Server threadEx[25Aug2025 01:12:40.121] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-13, -37] viewdist:16
+Server threadEx[25Aug2025 01:12:41.016] [RenderManager-0-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class de/bluecolored/bluenbt/adapter/ObjectDeserializer$1
+RenderManager-0-0Ex[25Aug2025 01:12:41.906] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:skeleton
+RenderManager-0-0Ex[25Aug2025 01:12:42.536] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:painting
+RenderManager-0-0Ex[25Aug2025 01:12:42.876] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:drowned
+RenderManager-0-0Ex[25Aug2025 01:12:43.110] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1282$1
+Server threadEx[25Aug2025 01:12:43.130] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing world.damagesource.CombatEntryMixin from mixins.arclight.core.json into net.minecraft.class_1281
+Server threadEx[25Aug2025 01:12:43.139] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1887$1
+Server threadEx[25Aug2025 01:12:44.100] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:12:44.467] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -1) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:12:44.825] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:chest_minecart
+RenderManager-0-0Ex
