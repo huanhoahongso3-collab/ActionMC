@@ -9863,4 +9863,19 @@ Server threadEx[25Aug2025 01:14:45.259] [RenderManager-0-0/DEBUG] [BlueMap/]: No
 RenderManager-0-0Ex[25Aug2025 01:14:45.625] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.FabricEventHandler@6ac8c556 for service interface com.blamejared.clumps.platform.IEventHelper
 Server threadEx[25Aug2025 01:14:45.625] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.FabricPlatformHelper@68cca869 for service interface com.blamejared.clumps.platform.IPlatformHelper
 Server threadEx[25Aug2025 01:14:46.038] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:stray
-RenderManager-0-0Ex
+RenderManager-0-0Ex[25Aug2025 01:14:57.314] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-17, -36] player chunk:[-14, -37]
+Server threadEx[25Aug2025 01:14:57.316] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-14, -37] viewdist:16
+Server threadEx[25Aug2025 01:14:57.708] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2338$6
+c2me-worker-0Ex[25Aug2025 01:14:57.715] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_2341$1
+c2me-worker-0Ex[25Aug2025 01:14:58.968] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-17, -37] player chunk:[-15, -37]
+Server threadEx[25Aug2025 01:14:58.970] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-15, -37] viewdist:16
+Server threadEx[25Aug2025 01:15:00.252] [c2me-worker-0/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_1297$1
+c2me-worker-0Ex[25Aug2025 01:15:00.272] [c2me-worker-0/DEBUG] [FabricLoader/Mixin/]: Mixing TradeOffersTypeAwareBuyForOneEmeraldFactoryMixin from fabric-object-builder-v1.mixins.json into net.minecraft.class_3853$class_4162
+c2me-worker-0Ex[25Aug2025 01:15:00.272] [c2me-worker-0/DEBUG] [FabricLoader/Mixin/]: fabric-object-builder-v1.mixins.json:TradeOffersTypeAwareBuyForOneEmeraldFactoryMixin from mod fabric-object-builder-api-v1: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_17 supports class version 61)
+c2me-worker-0Ex[25Aug2025 01:15:00.277] [c2me-worker-0/DEBUG] [FabricLoader/Mixin/]: fabric-object-builder-v1.mixins.json:TradeOffersTypeAwareBuyForOneEmeraldFactoryMixin from mod fabric-object-builder-api-v1->@Inject::failOnNullItem(Lnet/minecraft/class_1297;Lnet/minecraft/class_5819;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+c2me-worker-0Ex[25Aug2025 01:15:02.263] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-18, -37] player chunk:[-15, -36]
+Server threadEx[25Aug2025 01:15:02.265] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-15, -36] viewdist:16
+Server threadEx[25Aug2025 01:15:02.551] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -2) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:15:03.931] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -1) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:15:05.654] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -1) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx
