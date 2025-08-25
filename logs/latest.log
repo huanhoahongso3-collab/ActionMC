@@ -1938,4 +1938,8 @@ Server threadEx[25Aug2025 01:33:31.620] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:33:43.768] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/15405, l='ServerLevel[world/DIM-1]', x=327.07, y=-20.00, z=-223.93] died: Toxic Slime was killed
 Server threadEx[25Aug2025 01:34:00.717] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [20, -9] player chunk:[21, -12]
 Server threadEx[25Aug2025 01:34:00.718] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -12] viewdist:16
+Server threadEx[25Aug2025 01:34:12.265] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [18, -13] player chunk:[21, -13]
+Server threadEx[25Aug2025 01:34:12.265] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -13] viewdist:16
+Server threadEx[25Aug2025 01:34:14.364] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [20, -15] player chunk:[20, -13]
+Server threadEx[25Aug2025 01:34:14.365] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -13] viewdist:16
 Server threadEx
