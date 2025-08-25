@@ -10539,4 +10539,25 @@ Server threadEx[25Aug2025 01:28:20.395] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:28:23.675] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -1) (Map: world_the_nether)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:23.677] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:23.677] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
-BlueMap-RegionFileWatchService-DelayTimerEx
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:27.173] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:30.110] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -11] player chunk:[13, -11]
+Server threadEx[25Aug2025 01:28:30.111] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -11] viewdist:16
+Server threadEx[25Aug2025 01:28:30.760] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/10284, l='ServerLevel[world/DIM-1]', x=255.74, y=-20.00, z=-153.09] died: Toxic Slime was killed
+Server threadEx[25Aug2025 01:28:31.766] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [16, -11] player chunk:[13, -12]
+Server threadEx[25Aug2025 01:28:31.767] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:35.394] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -12] player chunk:[12, -12]
+Server threadEx[25Aug2025 01:28:35.394] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:37.285] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:39.114] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -13] player chunk:[13, -12]
+Server threadEx[25Aug2025 01:28:39.115] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:41.981] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:41.984] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -1) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:41.989] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:41.989] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:44.659] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [14, -14] player chunk:[12, -12]
+Server threadEx[25Aug2025 01:28:44.659] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:45.412] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [11, -14] player chunk:[13, -12]
+Server threadEx[25Aug2025 01:28:45.412] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:46.459] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -8] player chunk:[13, -11]
+Server threadEx[25Aug2025 01:28:46.460] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -11] viewdist:16
+Server threadEx
