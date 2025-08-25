@@ -1563,4 +1563,22 @@ Server threadEx[25Aug2025 01:23:11.365] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:23:11.366] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [9, -13] viewdist:16
 Server threadEx[25Aug2025 01:23:16.165] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [5, -13] player chunk:[8, -13]
 Server threadEx[25Aug2025 01:23:16.166] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -13] viewdist:16
+Server threadEx[25Aug2025 01:23:23.066] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [5, -14] player chunk:[8, -14]
+Server threadEx[25Aug2025 01:23:23.067] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -14] viewdist:16
+Server threadEx[25Aug2025 01:23:24.264] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [5, -14] player chunk:[8, -13]
+Server threadEx[25Aug2025 01:23:24.265] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -13] viewdist:16
+Server threadEx[25Aug2025 01:23:24.862] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [5, -14] player chunk:[8, -14]
+Server threadEx[25Aug2025 01:23:24.863] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -14] viewdist:16
+Server threadEx[25Aug2025 01:23:25.766] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [5, -14] player chunk:[8, -13]
+Server threadEx[25Aug2025 01:23:25.767] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -13] viewdist:16
+Server threadEx[25Aug2025 01:23:28.462] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [5, -15] player chunk:[8, -14]
+Server threadEx[25Aug2025 01:23:28.462] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -14] viewdist:16
+Server threadEx[25Aug2025 01:23:29.216] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [5, -13] player chunk:[8, -13]
+Server threadEx[25Aug2025 01:23:29.217] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -13] viewdist:16
+Server threadEx[25Aug2025 01:23:30.413] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [11, -13] player chunk:[8, -14]
+Server threadEx[25Aug2025 01:23:30.414] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -14] viewdist:16
+Server threadEx[25Aug2025 01:23:31.164] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [8, -13] player chunk:[8, -13]
+Server threadEx[25Aug2025 01:23:31.165] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -13] viewdist:16
+Server threadEx[25Aug2025 01:23:33.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FewerSteak1914 has reached the goal [Apparitions]
+Server threadEx[25Aug2025 01:23:33.318] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1634['Restless Spirit'/7153, l='ServerLevel[world/DIM-1]', x=130.62, y=64.41, z=-205.69] died: Restless Spirit was killed while trying to hurt FewerSteak1914
 Server threadEx
