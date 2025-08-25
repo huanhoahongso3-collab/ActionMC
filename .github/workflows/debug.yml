@@ -1,15 +1,15 @@
 name: CI
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "playit-only" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "playit-only" ]
   workflow_dispatch:
   schedule:
     - cron: '0 */5 * * *'  # Run every 5 hours
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
         with:
@@ -31,7 +31,6 @@ jobs:
           cd $GITHUB_WORKSPACE
           chmod +x playit-linux-amd64
           echo "$PLAYIT_SECRET" > playit.toml
-          echo "Downloading Spigot.."
           echo "Starting Spigot..."
           java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Xms16G -Xmx16G -jar launcher.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
           SPIGOT_PID=$!
@@ -71,7 +70,7 @@ jobs:
           }
           start_spigot() {
             echo "Starting Spigot..."
-            java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Xms16G -Xmx16G -jar launcher.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
+            java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Xms16G -Xmx16G -jar spigot.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
             SPIGOT_PID=$!
             echo "Spigot started with PID $SPIGOT_PID"
           }
@@ -85,17 +84,19 @@ jobs:
                 "https://api.github.com/repos/${REPO}/actions/runs/$id"
             done
           }
+
           create_new_workflow_run() {
             curl -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
               -H "Accept: application/vnd.github.v3+json" \
               "https://api.github.com/repos/${REPO}/actions/workflows/blank.yml/dispatches" \
-              -d '{"ref":"main"}'
+              -d '{"ref":"playit-only"}'
             echo "New workflow run created"
           } 
+
           cancel_old_workflow_runs() {
             current_run_id=$GITHUB_RUN_ID
             workflow_runs=$(curl -s -H "Authorization: token $FINE_GRAINED_PAT" \
-              "https://api.github.com/repos/${REPO}/actions/runs?branch=main&status=in_progress")
+              "https://api.github.com/repos/${REPO}/actions/runs?branch=playit-only&status=in_progress")
             
             echo "$workflow_runs" | jq -r ".workflow_runs[] | select(.id != $current_run_id) | .id" | while read -r run_id; do
               echo "Cancelling workflow run $run_id"
@@ -103,12 +104,14 @@ jobs:
                 "https://api.github.com/repos/${REPO}/actions/runs/$run_id/cancel"
             done
           }
+
           
           START_TIME=$(date +%s)
           
           # Schedule the cancellation of old workflow runs after 30 seconds
           (sleep 30 && cancel_old_workflow_runs) &
           (sleep 20 && rm credentials.json) &
+
           while true; do
             if ! commit_and_push; then
                 echo "Commit and push failed, continuing without stopping the workflow"
@@ -121,6 +124,7 @@ jobs:
               echo "Spigot process has stopped. Restarting Spigot..."
               start_spigot
             fi
+
             if ! kill -0 $PLAYIT_PID 2>/dev/null || [ $ELAPSED_TIME -ge 18000 ]; then
               if ! kill -0 $PLAYIT_PID 2>/dev/null; then
                 echo "PlayIt Tunnel process has stopped."
@@ -134,6 +138,7 @@ jobs:
             
             sleep 30
           done
+
       - name: Rerun workflow if previous step failed
         if: failure()
         env:
@@ -142,5 +147,5 @@ jobs:
           curl -X POST -H "Authorization: token $GITHUB_TOKEN" \
             -H "Accept: application/vnd.github.v3+json" \
             "https://api.github.com/repos/${{ github.repository }}/actions/workflows/blank.yml/dispatches" \
-            -d '{"ref":"main"}'
+            -d '{"ref":"playit-only"}'
           echo "Workflow rerun triggered due to previous step failure"
