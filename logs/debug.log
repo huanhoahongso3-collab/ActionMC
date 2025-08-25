@@ -9778,4 +9778,10 @@ RenderManager-0-0Ex[25Aug2025 01:13:04.277] [RenderManager-0-0/DEBUG] [BlueMap/]
 RenderManager-0-0Ex[25Aug2025 01:13:04.278] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:spider
 RenderManager-0-0Ex[25Aug2025 01:13:04.778] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:blaze
 RenderManager-0-0Ex[25Aug2025 01:13:05.286] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:spectral_arrow
+RenderManager-0-0Ex[25Aug2025 01:13:09.279] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:trader_llama
+RenderManager-0-0Ex[25Aug2025 01:13:10.943] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:glow_squid
+RenderManager-0-0Ex[25Aug2025 01:13:11.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+Server threadEx[25Aug2025 01:13:11.887] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:iron_golem
+RenderManager-0-0Ex[25Aug2025 01:13:14.737] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:vindicator
+RenderManager-0-0Ex[25Aug2025 01:13:14.738] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:mule
 RenderManager-0-0Ex
