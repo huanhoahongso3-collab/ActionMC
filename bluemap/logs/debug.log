@@ -743,3 +743,11 @@
 [2025-08-25 01:12:44][FINE] Scheduled update for region-file: (-1, -2) (Map: world)
 [2025-08-25 01:12:44][FINE] Scheduled update for region-file: (-1, -1) (Map: world)
 [2025-08-25 01:12:44][FINE] No renderer found for entity type: minecraft:chest_minecart
+[2025-08-25 01:12:47][FINE] Scheduled update for region-file: (-1, -3) (Map: world)
+[2025-08-25 01:12:47][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-08-25 01:12:47][FINE] Scheduled update for region-file: (-2, -2) (Map: world)
+[2025-08-25 01:12:50][FINE] No renderer found for entity type: minecraft:enderman
+[2025-08-25 01:12:55][FINE] No renderer found for entity type: minecraft:allay
+[2025-08-25 01:12:55][FINE] Scheduled update for region-file: (-2, -1) (Map: world)
+[2025-08-25 01:12:57][FINE] Scheduled update for region-file: (-1, -3) (Map: world)
+[2025-08-25 01:12:57][FINE] Scheduled update for region-file: (0, -3) (Map: world)
