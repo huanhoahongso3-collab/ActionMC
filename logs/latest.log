@@ -1767,4 +1767,100 @@ Server threadEx[25Aug2025 01:29:27.113] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:29:27.114] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [14, -10] viewdist:16
 Server threadEx[25Aug2025 01:29:28.163] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -9] player chunk:[14, -11]
 Server threadEx[25Aug2025 01:29:28.163] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [14, -11] viewdist:16
+Server threadEx[25Aug2025 01:29:38.512] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1634['Restless Spirit'/12569, l='ServerLevel[world/DIM-1]', x=238.75, y=71.34, z=-165.33] died: Restless Spirit was killed while trying to hurt FewerSteak1914
+Server threadEx[25Aug2025 01:29:41.061] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -10] player chunk:[14, -10]
+Server threadEx[25Aug2025 01:29:41.061] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [14, -10] viewdist:16
+Server threadEx[25Aug2025 01:29:42.562] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -10] player chunk:[14, -11]
+Server threadEx[25Aug2025 01:29:42.562] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [14, -11] viewdist:16
+Server threadEx[25Aug2025 01:29:44.810] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -10] player chunk:[14, -10]
+Server threadEx[25Aug2025 01:29:44.811] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [14, -10] viewdist:16
+Server threadEx[25Aug2025 01:29:47.012] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/12973, l='ServerLevel[world/DIM-1]', x=235.49, y=72.00, z=-151.67] died: Toxic Slime was slain by FewerSteak1914
+Server threadEx[25Aug2025 01:29:54.714] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -8] player chunk:[14, -9]
+Server threadEx[25Aug2025 01:29:54.715] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [14, -9] viewdist:16
+Server threadEx[25Aug2025 01:29:54.762] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/11635, l='ServerLevel[world/DIM-1]', x=119.47, y=-20.00, z=-184.62] died: Toxic Slime was killed
+Server threadEx[25Aug2025 01:29:57.411] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [16, -6] player chunk:[15, -9]
+Server threadEx[25Aug2025 01:29:57.411] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [15, -9] viewdist:16
+Server threadEx[25Aug2025 01:29:59.512] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [16, -6] player chunk:[15, -8]
+Server threadEx[25Aug2025 01:29:59.513] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [15, -8] viewdist:16
+Server threadEx[25Aug2025 01:30:02.369] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [16, -4] player chunk:[15, -7]
+Server threadEx[25Aug2025 01:30:02.370] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [15, -7] viewdist:16
+Server threadEx[25Aug2025 01:30:02.665] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -4] player chunk:[16, -7]
+Server threadEx[25Aug2025 01:30:02.666] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [16, -7] viewdist:16
+Server threadEx[25Aug2025 01:30:05.322] [Server thread/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'minecraft:follow_range'
+Server threadEx[25Aug2025 01:30:05.322] [Server thread/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'minecraft:knockback_resistance'
+Server threadEx[25Aug2025 01:30:05.322] [Server thread/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'minecraft:spawn_reinforcements'
+Server threadEx[25Aug2025 01:30:05.322] [Server thread/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'minecraft:attack_damage'
+Server threadEx[25Aug2025 01:30:05.322] [Server thread/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'minecraft:armor'
+Server threadEx[25Aug2025 01:30:05.322] [Server thread/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'minecraft:follow_range'
+Server threadEx[25Aug2025 01:30:05.322] [Server thread/WARN] [net.minecraft.class_5131/]: Ignoring unknown attribute 'minecraft:movement_speed'
+Server threadEx[25Aug2025 01:30:06.385] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1590['Zombified Piglin'/13423, l='ServerLevel[world/DIM-1]', x=528.29, y=62.00, z=-218.51]
+Server threadEx[25Aug2025 01:30:06.385] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1639['Wither Skeleton'/13424, l='ServerLevel[world/DIM-1]', x=533.46, y=63.00, z=-220.57]
+Server threadEx[25Aug2025 01:30:06.385] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1639['Wither Skeleton'/13425, l='ServerLevel[world/DIM-1]', x=537.43, y=69.00, z=-220.46]
+Server threadEx[25Aug2025 01:30:06.385] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1639['Wither Skeleton'/13426, l='ServerLevel[world/DIM-1]', x=533.46, y=73.00, z=-220.57]
+Server threadEx[25Aug2025 01:30:06.866] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [18, -4] player chunk:[16, -6]
+Server threadEx[25Aug2025 01:30:06.867] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [16, -6] viewdist:16
+Server threadEx[25Aug2025 01:30:09.565] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [18, -3] player chunk:[17, -6]
+Server threadEx[25Aug2025 01:30:09.565] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [17, -6] viewdist:16
+Server threadEx[25Aug2025 01:30:10.914] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [19, -3] player chunk:[18, -6]
+Server threadEx[25Aug2025 01:30:10.914] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [18, -6] viewdist:16
+Server threadEx[25Aug2025 01:30:11.665] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [21, -4] player chunk:[19, -6]
+Server threadEx[25Aug2025 01:30:11.665] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [19, -6] viewdist:16
+Server threadEx[25Aug2025 01:30:12.566] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -6] player chunk:[20, -6]
+Server threadEx[25Aug2025 01:30:12.567] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -6] viewdist:16
+Server threadEx[25Aug2025 01:30:12.714] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [23, -7] player chunk:[20, -7]
+Server threadEx[25Aug2025 01:30:12.715] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -7] viewdist:16
+Server threadEx[25Aug2025 01:30:13.621] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [23, -9] player chunk:[20, -8]
+Server threadEx[25Aug2025 01:30:13.621] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -8] viewdist:16
+Server threadEx[25Aug2025 01:30:13.870] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1545['Blaze'/13712, l='ServerLevel[world/DIM-1]', x=555.70, y=69.00, z=-188.67]
+Server threadEx[25Aug2025 01:30:14.067] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [23, -10] player chunk:[21, -8]
+Server threadEx[25Aug2025 01:30:14.067] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -8] viewdist:16
+Server threadEx[25Aug2025 01:30:14.366] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -11] player chunk:[21, -9]
+Server threadEx[25Aug2025 01:30:14.367] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -9] viewdist:16
+Server threadEx[25Aug2025 01:30:14.820] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1590['Zombified Piglin'/13766, l='ServerLevel[world/DIM-1]', x=549.71, y=73.00, z=-220.49]
+Server threadEx[25Aug2025 01:30:14.821] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1545['Blaze'/13767, l='ServerLevel[world/DIM-1]', x=558.30, y=68.00, z=-209.33]
+Server threadEx[25Aug2025 01:30:14.821] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1545['Blaze'/13768, l='ServerLevel[world/DIM-1]', x=545.30, y=68.00, z=-209.33]
+Server threadEx[25Aug2025 01:30:14.821] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1639['Wither Skeleton'/13769, l='ServerLevel[world/DIM-1]', x=549.57, y=74.00, z=-210.54]
+Server threadEx[25Aug2025 01:30:15.266] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -12] player chunk:[21, -10]
+Server threadEx[25Aug2025 01:30:15.267] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -10] viewdist:16
+Server threadEx[25Aug2025 01:30:15.319] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+c2me-worker-0Ex[25Aug2025 01:30:16.659] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1639['Wither Skeleton'/13830, l='ServerLevel[world/DIM-1]', x=554.57, y=73.00, z=-225.54]
+Server threadEx[25Aug2025 01:30:16.953] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -13] player chunk:[21, -11]
+Server threadEx[25Aug2025 01:30:16.953] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -11] viewdist:16
+Server threadEx[25Aug2025 01:30:17.772] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1545['Blaze'/13850, l='ServerLevel[world/DIM-1]', x=551.30, y=58.00, z=-258.33]
+Server threadEx[25Aug2025 01:30:18.610] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+c2me-worker-0Ex[25Aug2025 01:30:19.913] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -14] player chunk:[22, -11]
+Server threadEx[25Aug2025 01:30:19.914] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [22, -11] viewdist:16
+Server threadEx[25Aug2025 01:30:21.522] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_1590['Zombified Piglin'/13941, l='ServerLevel[world/DIM-1]', x=547.29, y=57.00, z=-322.51]
+Server threadEx[25Aug2025 01:30:22.218] [c2me-worker-0/WARN] [lithostitched/]: Couldn't find template pool reference: minecraft:
+c2me-worker-0Ex[25Aug2025 01:30:34.766] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [24, -13] player chunk:[23, -11]
+Server threadEx[25Aug2025 01:30:34.766] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -11] viewdist:16
+Server threadEx[25Aug2025 01:30:34.973] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1634['Restless Spirit'/13585, l='ServerLevel[world/DIM-1]', x=358.69, y=72.82, z=-165.34] died: Restless Spirit was shot by Skeleton
+Server threadEx[25Aug2025 01:30:37.330] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [25, -12] player chunk:[23, -10]
+Server threadEx[25Aug2025 01:30:37.331] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -10] viewdist:16
+Server threadEx[25Aug2025 01:30:45.415] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [26, -9] player chunk:[23, -9]
+Server threadEx[25Aug2025 01:30:45.416] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -9] viewdist:16
+Server threadEx[25Aug2025 01:30:47.818] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [25, -7] player chunk:[23, -10]
+Server threadEx[25Aug2025 01:30:47.819] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -10] viewdist:16
+Server threadEx[25Aug2025 01:30:48.413] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [23, -7] player chunk:[23, -9]
+Server threadEx[25Aug2025 01:30:48.413] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -9] viewdist:16
+Server threadEx[25Aug2025 01:30:49.463] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -6] player chunk:[23, -10]
+Server threadEx[25Aug2025 01:30:49.464] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -10] viewdist:16
+Server threadEx[25Aug2025 01:30:53.068] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [21, -13] player chunk:[23, -11]
+Server threadEx[25Aug2025 01:30:53.069] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -11] viewdist:16
+Server threadEx[25Aug2025 01:30:54.270] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [23, -14] player chunk:[23, -12]
+Server threadEx[25Aug2025 01:30:54.271] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [23, -12] viewdist:16
+Server threadEx[25Aug2025 01:30:54.416] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -15] player chunk:[22, -12]
+Server threadEx[25Aug2025 01:30:54.417] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [22, -12] viewdist:16
+Server threadEx[25Aug2025 01:30:55.634] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/14884, l='ServerLevel[world/DIM-1]', x=543.57, y=61.00, z=-425.34]
+Server threadEx[25Aug2025 01:30:55.635] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/14885, l='ServerLevel[world/DIM-1]', x=539.53, y=74.00, z=-422.47]
+Server threadEx[25Aug2025 01:30:55.635] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_5419['Piglin Brute'/14886, l='ServerLevel[world/DIM-1]', x=537.51, y=74.00, z=-425.51]
+Server threadEx[25Aug2025 01:30:55.635] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_5419['Piglin Brute'/14887, l='ServerLevel[world/DIM-1]', x=538.51, y=74.00, z=-420.49]
+Server threadEx[25Aug2025 01:30:55.635] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/14888, l='ServerLevel[world/DIM-1]', x=533.66, y=76.00, z=-426.57]
+Server threadEx[25Aug2025 01:30:55.635] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_5419['Piglin Brute'/14889, l='ServerLevel[world/DIM-1]', x=538.49, y=74.00, z=-424.51]
+Server threadEx[25Aug2025 01:30:59.818] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [21, -15] player chunk:[21, -12]
+Server threadEx[25Aug2025 01:30:59.818] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -12] viewdist:16
+Server threadEx[25Aug2025 01:31:01.619] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [20, -14] player chunk:[21, -11]
+Server threadEx[25Aug2025 01:31:01.619] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -11] viewdist:16
+Server threadEx[25Aug2025 01:31:02.368] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [19, -12] player chunk:[22, -11]
+Server threadEx[25Aug2025 01:31:02.369] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [22, -11] viewdist:16
 Server threadEx
