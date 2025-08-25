@@ -1622,4 +1622,29 @@ Server threadEx[25Aug2025 01:24:55.165] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:24:55.166] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -13] viewdist:16
 Server threadEx[25Aug2025 01:25:10.910] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -12] player chunk:[12, -12]
 Server threadEx[25Aug2025 01:25:10.910] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -12] viewdist:16
+Server threadEx[25Aug2025 01:25:15.263] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [14, -11] player chunk:[11, -12]
+Server threadEx[25Aug2025 01:25:15.263] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -12] viewdist:16
+Server threadEx[25Aug2025 01:25:21.861] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [14, -11] player chunk:[11, -13]
+Server threadEx[25Aug2025 01:25:21.862] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -13] viewdist:16
+Server threadEx[25Aug2025 01:25:23.366] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode spectator
+Server threadEx[25Aug2025 01:25:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Spectator Mode]
+Server threadEx[25Aug2025 01:25:24.856] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode survival
+Server threadEx[25Aug2025 01:25:24.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Survival Mode]
+Server threadEx[25Aug2025 01:25:27.412] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [11, -10] player chunk:[12, -13]
+Server threadEx[25Aug2025 01:25:27.413] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -13] viewdist:16
+Server threadEx[25Aug2025 01:25:31.611] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [12, -16] player chunk:[12, -14]
+Server threadEx[25Aug2025 01:25:31.611] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -14] viewdist:16
+Server threadEx[25Aug2025 01:25:37.461] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -17] player chunk:[12, -15]
+Server threadEx[25Aug2025 01:25:37.461] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -15] viewdist:16
+Server threadEx[25Aug2025 01:25:44.372] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [14, -18] player chunk:[12, -16]
+Server threadEx[25Aug2025 01:25:44.372] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -16] viewdist:16
+Server threadEx[25Aug2025 01:25:44.778] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/7854, l='ServerLevel[world/DIM-1]', x=208.26, y=-20.00, z=-204.74] died: Toxic Slime was killed
+Server threadEx[25Aug2025 01:25:52.316] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -18] player chunk:[12, -15]
+Server threadEx[25Aug2025 01:25:52.317] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -15] viewdist:16
+Server threadEx[25Aug2025 01:26:12.711] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -18] player chunk:[12, -16]
+Server threadEx[25Aug2025 01:26:12.711] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -16] viewdist:16
+Server threadEx[25Aug2025 01:26:13.911] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -19] player chunk:[13, -16]
+Server threadEx[25Aug2025 01:26:13.912] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -16] viewdist:16
+Server threadEx[25Aug2025 01:26:16.514] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode spectator
+Server threadEx[25Aug2025 01:26:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Spectator Mode]
 Server threadEx
