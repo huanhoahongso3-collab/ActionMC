@@ -20,8 +20,9 @@ com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map d
 [01:05:04.661 GeyserServer-2-1/INFO] Started Geyser on UDP port 9630
 [01:05:04.676 main/INFO] Done (4.87s)! Run /geyser help for help!
 [01:05:04.676 main/WARN] Geyser doesn't translate Bedrock movements perfectly! Using Geyser in servers that have an anticheat could get you banned.
-Management Engine' (c2me) 0.3.0+alpha.0.320+1.21.1 conflicts with any version of mod 'Better chunk loading mod' (betterchunkloading), which is present with the following versions: 1.21-5.5!
-	 - While this won't prevent you from starting the game, the developer(s) of mod 'Concurrent Chunk Management Engine' (c2me) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
+[01:05:29.845 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+[01:05:32.685 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+ 'Concurrent Chunk Management Engine' (c2me) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
  - Mod 'Debugify' (debugify) 1.21.1+1.0 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
 mainEx[25Aug2025 01:05:03.332] [main/INFO] [FabricLoader/]: Loading 169 mods:
@@ -965,4 +966,141 @@ Server threadEx[25Aug2025 01:05:26.950] [Server thread/WARN] [net.minecraft.clas
 Server threadEx[25Aug2025 01:05:26.950] [Server thread/WARN] [net.minecraft.class_3176/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
 Server threadEx[25Aug2025 01:05:26.950] [Server thread/WARN] [net.minecraft.class_3176/]: To change this, set "online-mode" to "true" in the server.properties file.
 Server threadEx[25Aug2025 01:05:27.130] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a (MC: 1.21.1) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-Server threadEx
+Server threadEx[25Aug2025 01:05:28.025] [Server thread/INFO] [Minecraft/]: *** This version of Spigot contains changes to some enums. If you notice that plugins no longer work after updating, please report this to the developers of those plugins first. ***
+Server threadEx[25Aug2025 01:05:28.025] [Server thread/INFO] [Minecraft/]: *** If you cannot update those plugins, you can try setting `settings.compatibility.enum-compatibility-mode` to `true` in `bukkit.yml`. ***
+Server threadEx[25Aug2025 01:05:28.092] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+Server threadEx[25Aug2025 01:05:28.133] [Server thread/INFO] [Arclight/]: Registered 0 new materials with 0 blocks and 0 items
+Server threadEx[25Aug2025 01:05:28.297] [Server thread/INFO] [Arclight/]: Registered 0 new entity types
+Server threadEx[25Aug2025 01:05:28.306] [Server thread/INFO] [Arclight/]: Registered 109 new biomes
+Server threadEx[25Aug2025 01:05:28.330] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+Server threadEx[25Aug2025 01:05:28.331] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: Server Ping Player Sample Count: 12
+Server threadEx[25Aug2025 01:05:28.334] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+Server threadEx[25Aug2025 01:05:28.550] [Server thread/INFO] [Arclight/]: Loading mappings ...
+Server threadEx[25Aug2025 01:05:29.123] [Server thread/INFO] [Arclight/]: Loading plugin patchers ...
+Server threadEx[25Aug2025 01:05:29.325] [Server thread/INFO] [Minecraft/]: [DirectionHUD] Loading 1 libraries... please wait
+Server threadEx[25Aug2025 01:05:29.467] [Server thread/INFO] [Minecraft/]: [DirectionHUD] Loaded library /home/runner/work/ActionMC/ActionMC/libraries/org/apache/commons/commons-configuration2/2.11.0/commons-configuration2-2.11.0.jar
+Server threadEx[25Aug2025 01:05:29.467] [Server thread/INFO] [Minecraft/]: [DirectionHUD] Loaded library /home/runner/work/ActionMC/ActionMC/libraries/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar
+Server threadEx[25Aug2025 01:05:29.467] [Server thread/INFO] [Minecraft/]: [DirectionHUD] Loaded library /home/runner/work/ActionMC/ActionMC/libraries/org/apache/commons/commons-text/1.12.0/commons-text-1.12.0.jar
+Server threadEx[25Aug2025 01:05:29.467] [Server thread/INFO] [Minecraft/]: [DirectionHUD] Loaded library /home/runner/work/ActionMC/ActionMC/libraries/commons-logging/commons-logging/1.3.2/commons-logging-1.3.2.jar
+Server threadEx[25Aug2025 01:05:30.050] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.5.0
+Server threadEx[25Aug2025 01:05:30.363] [Server thread/INFO] [ImageFrame/]: Loading ImageFrame v1.8.5.0
+Server threadEx[25Aug2025 01:05:30.363] [Server thread/INFO] [ElytraSpeed/]: Loading ElytraSpeed v1.3.0
+Server threadEx[25Aug2025 01:05:30.363] [Server thread/INFO] [JustTPA/]: Loading JustTPA v20250220c
+Server threadEx[25Aug2025 01:05:30.363] [Server thread/INFO] [BetterTridents/]: Loading BetterTridents v1.0-SNAPSHOT
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [FreezeHibernate/]: Loading FreezeHibernate v1.0
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [OpenInv/]: Loading OpenInv v5.1.2
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [DirectionHUD/]: Loading DirectionHUD v1.8.2.0+1.20-1.21.8
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [Not-Too-Expensive/]: Loading Not-Too-Expensive v1.1
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [DeathBack/]: Loading DeathBack v1.0
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [AxGraves/]: Loading AxGraves v1.22.4
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [KeepChunks/]: Loading KeepChunks v1.7.3
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [Rainbow/]: Loading Rainbow v1.1
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [LimitedCreative/]: Loading LimitedCreative v2.0.1
+Server threadEx[25Aug2025 01:05:30.364] [Server thread/INFO] [TabListPing/]: Loading TabListPing v2.02
+Server threadEx[25Aug2025 01:05:30.365] [Server thread/INFO] [SetHomePlugin/]: Loading SetHomePlugin v1.0.0
+Server threadEx[25Aug2025 01:05:30.365] [Server thread/INFO] [ProtocolLib/]: Loading ProtocolLib v5.4.0
+Server threadEx[25Aug2025 01:05:30.736] [Server thread/INFO] [AuthMe/]: Loading AuthMe v5.7.0-FORK-b53
+Server threadEx[25Aug2025 01:05:30.736] [Server thread/INFO] [CustomJoinMessages/]: Loading CustomJoinMessages v17.9.1
+Server threadEx[25Aug2025 01:05:30.736] [Server thread/INFO] [HoloMobHealth/]: Loading HoloMobHealth v2.3.10.0
+Server threadEx[25Aug2025 01:05:30.738] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.5.0
+Server threadEx[25Aug2025 01:05:31.010] [Server thread/WARN] [FabricLoader/Mixin/]: @Redirect conflict. Skipping mixins.arclight.core.json:server.level.ServerChunkCacheMixin from mod arclight->@Redirect::arclight$useOldTicketLevel(Lnet/minecraft/class_3193;)I with priority 500, already redirected by c2me-rewrites-chunk-system.mixins.json:MixinServerChunkManager from mod c2me-rewrites-chunk-system->@Redirect::replaceLevel(Lnet/minecraft/class_3193;)I with priority 1100
+Server threadEx[25Aug2025 01:05:31.012] [Server thread/INFO] [FabricLoader/Mixin/]: Instancing error handler class dev.isxander.debugify.mixinplugin.DebugifyErrorHandler
+Server threadEx[25Aug2025 01:05:31.012] [Server thread/WARN] [FabricLoader/Mixin/]: Mixin apply for mod betterchunkloading failed betterchunkloading.mixins.json:ServerChunkCacheMixin from mod betterchunkloading -> net.minecraft.class_3215: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @At("INVOKE") on net/minecraft/class_3215::prioWaiting with priority 200 cannot inject into net/minecraft/class_3215::method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; merged by net.caffeinemc.mods.lithium.mixin.world.chunk_access.ServerChunkCacheMixin with priority 1000 [redirect$bpm000$betterchunkloading$prioWaiting(Lnet/minecraft/class_3215;IILnet/minecraft/class_2806;Z)Ljava/util/concurrent/CompletableFuture; -> Prepare ->  -> { target: method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; }]
+Server threadEx org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At("INVOKE") on net/minecraft/class_3215::prioWaiting with priority 200 cannot inject into net/minecraft/class_3215::method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; merged by net.caffeinemc.mods.lithium.mixin.world.chunk_access.ServerChunkCacheMixin with priority 1000 [redirect$bpm000$betterchunkloading$prioWaiting(Lnet/minecraft/class_3215;IILnet/minecraft/class_2806;Z)Ljava/util/concurrent/CompletableFuture; -> Prepare ->  -> { target: method_12121(IILnet/minecraft/class_2806;Z)Lnet/minecraft/class_2791; }]
+	at org.spongepowered.asm.mixin.injection.code.Injector.findTargetNodes(Injector.java:312) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.code.Injector.find(Injector.java:248) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.prepare(InjectionInfo.java:475) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1407) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:731) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:315) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:352) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:237) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:435) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.17.2.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528) ~[?:?]
+	at java.base/java.lang.Class.forName0(Native Method) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:578) ~[?:?]
+	at java.base/java.lang.Class.forName(Class.java:557) ~[?:?]
+	at knot/io.izzel.arclight.common.mod.util.remapper.generated.ArclightReflectionHandler_1.redirectClassForName(ArclightReflectionHandler.java:231) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at knot/io.izzel.arclight.common.mod.util.remapper.generated.ArclightReflectionHandler_1.redirectClassForName(ArclightReflectionHandler.java:224) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.MinecraftReflection.findClass(MinecraftReflection.java:79) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.CraftBukkitAccess.<clinit>(CraftBukkitAccess.java:59) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.CraftBukkitAccess$Chat1_19_3.<clinit>(CraftBukkitAccess.java:102) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.CraftBukkitFacet$Chat1_19_3.isSupported(CraftBukkitFacet.java:309) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.facet.Facet.of(Facet.java:79) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudience.<clinit>(BukkitAudience.java:44) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudiencesImpl.createAudience(BukkitAudiencesImpl.java:124) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudiencesImpl.createAudience(BukkitAudiencesImpl.java:66) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.facet.FacetAudienceProvider.lambda$addViewer$0(FacetAudienceProvider.java:112) ~[?:?]
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1713) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.facet.FacetAudienceProvider.addViewer(FacetAudienceProvider.java:110) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudiencesImpl.<init>(BukkitAudiencesImpl.java:91) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudiencesImpl$Builder.lambda$build$1(BukkitAudiencesImpl.java:163) ~[?:?]
+	at java.base/java.util.HashMap.computeIfAbsent(HashMap.java:1229) ~[?:?]
+	at java.base/java.util.Collections$SynchronizedMap.computeIfAbsent(Collections.java:2981) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudiencesImpl$Builder.build(BukkitAudiencesImpl.java:161) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudiencesImpl.instanceFor(BukkitAudiencesImpl.java:81) ~[?:?]
+	at me.lucko.luckperms.lib.adventure.platform.bukkit.BukkitAudiences.create(BukkitAudiences.java:53) ~[?:?]
+	at me.lucko.luckperms.bukkit.BukkitSenderFactory.<init>(BukkitSenderFactory.java:45) ~[?:?]
+	at me.lucko.luckperms.bukkit.LPBukkitPlugin.setupSenderFactory(LPBukkitPlugin.java:113) ~[?:?]
+	at me.lucko.luckperms.common.plugin.AbstractLuckPermsPlugin.enable(AbstractLuckPermsPlugin.java:139) ~[?:?]
+	at me.lucko.luckperms.bukkit.LPBukkitBootstrap.onEnable(LPBukkitBootstrap.java:175) ~[?:?]
+	at LuckPerms/me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin.onEnable(BukkitLoaderPlugin.java:50) ~[?:?]
+	at knot/org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:267) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at knot/org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoaderMixin.java:342) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at knot/org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManagerAccessor.java:492) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at knot/org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugin(CraftServerMixin.java:576) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at knot/org.bukkit.craftbukkit.v1_21_R1.CraftServer.enablePlugins(CraftServerMixin.java:490) ~[arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a.jar:?]
+	at knot/net.minecraft.class_3176.handler$zdf000$arclight$loadPlugins(DedicatedServerMixin_Vanilla.java:745) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:175) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:664) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
+[25Aug2025 01:05:31.834] [Server thread/INFO] [Console/]:         __    
+Server threadEx[25Aug2025 01:05:31.835] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.5.0
+Server threadEx[25Aug2025 01:05:31.835] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+Server threadEx[25Aug2025 01:05:31.835] [Server thread/INFO] [Console/]: 
+Server threadEx[25Aug2025 01:05:31.837] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+Server threadEx[25Aug2025 01:05:32.191] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
+Server threadEx[25Aug2025 01:05:32.906] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+Server threadEx[25Aug2025 01:05:33.089] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+Server threadEx[25Aug2025 01:05:33.333] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 2594ms)
+Server threadEx[25Aug2025 01:05:33.334] [Server thread/INFO] [ProtocolLib/]: Enabling ProtocolLib v5.4.0
+Server threadEx[25Aug2025 01:05:33.372] [Server thread/INFO] [net.minecraft.class_3176/]: Preparing level "world"
+Server threadEx[25Aug2025 01:05:33.393] [Server thread/INFO] [Arclight/]: Registered 1 new dimensions
+Server threadEx[25Aug2025 01:05:33.400] [Server thread/INFO] [CheckedThreadLocalRandom/]: Enforcing safe world random access
+Server threadEx[25Aug2025 01:05:33.584] [Server thread/WARN] [FabricLoader/Mixin/]: @Redirect conflict. Skipping smoothchunk.mixins.json:ChunkMapSlowUnload from mod smoothchunk->@Redirect::getSize(Ljava/util/Queue;)I with priority 1000, already redirected by c2me-opts-scheduling.mixins.json:general_overheads.MixinThreadedAnvilChunkStorage from mod c2me-opts-scheduling->@Redirect::redirectUnloadSize(Ljava/util/Queue;)I with priority 1100
+Server threadEx[25Aug2025 01:05:33.656] [Server thread/INFO] [FabricLoader/Mixin/]: Instancing error handler class dev.isxander.debugify.mixinplugin.DebugifyErrorHandler
+Server threadEx[25Aug2025 01:05:33.657] [Server thread/WARN] [FabricLoader/Mixin/]: Mixin apply for mod betterchunkloading failed betterchunkloading.mixins.json:ChunkMapViewDistanceFixed from mod betterchunkloading -> net.minecraft.class_3204: org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException @At("INVOKE") on net/minecraft/class_3204::onSetViewDistance with priority 200 cannot inject into net/minecraft/class_3204::method_14049(I)V merged by com.ishland.c2me.notickvd.mixin.MixinChunkTicketManager with priority 1100 [modify$bpa000$betterchunkloading$onSetViewDistance(I)I -> Prepare ->  -> { target: method_14049(I)V }]
+Server threadEx org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At("INVOKE") on net/minecraft/class_3204::onSetViewDistance with priority 200 cannot inject into net/minecraft/class_3204::method_14049(I)V merged by com.ishland.c2me.notickvd.mixin.MixinChunkTicketManager with priority 1100 [modify$bpa000$betterchunkloading$onSetViewDistance(I)I -> Prepare ->  -> { target: method_14049(I)V }]
+	at org.spongepowered.asm.mixin.injection.code.Injector.findTargetNodes(Injector.java:312) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.code.Injector.find(Injector.java:248) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.injection.struct.InjectionInfo.prepare(InjectionInfo.java:475) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTargetContext.prepareInjections(MixinTargetContext.java:1407) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.prepareInjections(MixinApplicatorStandard.java:731) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.applyMixin(MixinApplicatorStandard.java:315) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:246) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:437) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:418) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:352) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:237) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202) ~[sponge-mixin-0.16.3+mixin.0.8.7.jar:0.16.3+mixin.0.8.7]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.getPostMixinClassByteArray(KnotClassDelegate.java:435) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.tryLoadClass(KnotClassDelegate.java:336) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassDelegate.loadClass(KnotClassDelegate.java:231) ~[fabric-loader-0.17.2.jar:?]
+	at net.fabricmc.loader.impl.launch.knot.KnotClassLoader.loadClass(KnotClassLoader.java:119) ~[fabric-loader-0.17.2.jar:?]
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:528) ~[?:?]
+	at knot/net.minecraft.class_3215.<init>(ServerChunkCacheMixin.java:84) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3218.<init>(ServerLevelMixin.java:242) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3786(MinecraftServerMixin.java:377) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_3735(MinecraftServerMixin.java:342) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.class_3176.method_3823(DedicatedServerMixin_Vanilla.java:185) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29741(MinecraftServerMixin.java:664) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServerMixin.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
