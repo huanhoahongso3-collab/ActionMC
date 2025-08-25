@@ -1877,4 +1877,10 @@ Server threadEx[25Aug2025 01:31:18.716] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:31:18.717] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -12] viewdist:16
 Server threadEx[25Aug2025 01:31:25.016] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [18, -11] player chunk:[21, -11]
 Server threadEx[25Aug2025 01:31:25.017] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -11] viewdist:16
+Server threadEx[25Aug2025 01:31:31.322] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [19, -10] player chunk:[22, -11]
+Server threadEx[25Aug2025 01:31:31.322] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [22, -11] viewdist:16
+Server threadEx[25Aug2025 01:31:34.019] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [20, -8] player chunk:[21, -11]
+Server threadEx[25Aug2025 01:31:34.019] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -11] viewdist:16
+Server threadEx[25Aug2025 01:31:51.274] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [20, -8] player chunk:[20, -11]
+Server threadEx[25Aug2025 01:31:51.274] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -11] viewdist:16
 Server threadEx
