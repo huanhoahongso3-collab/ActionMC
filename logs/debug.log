@@ -10435,4 +10435,44 @@ Server threadEx[25Aug2025 01:26:13.911] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:26:13.912] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -16] viewdist:16
 Server threadEx[25Aug2025 01:26:16.514] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode spectator
 Server threadEx[25Aug2025 01:26:16.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Spectator Mode]
-Server threadEx
+Server threadEx[25Aug2025 01:26:18.257] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [14, -18] player chunk:[13, -15]
+Server threadEx[25Aug2025 01:26:18.257] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -15] viewdist:16
+Server threadEx[25Aug2025 01:26:18.985] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:19.331] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:19.458] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -13] player chunk:[13, -14]
+Server threadEx[25Aug2025 01:26:19.459] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -14] viewdist:16
+Server threadEx[25Aug2025 01:26:19.632] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:21.907] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode survival
+Server threadEx[25Aug2025 01:26:21.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Survival Mode]
+Server threadEx[25Aug2025 01:26:22.608] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [14, -11] player chunk:[12, -14]
+Server threadEx[25Aug2025 01:26:22.609] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -14] viewdist:16
+Server threadEx[25Aug2025 01:26:23.363] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [12, -10] player chunk:[12, -13]
+Server threadEx[25Aug2025 01:26:23.364] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -13] viewdist:16
+Server threadEx[25Aug2025 01:26:24.909] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:26.212] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [12, -9] player chunk:[12, -12]
+Server threadEx[25Aug2025 01:26:26.213] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -12] viewdist:16
+Server threadEx[25Aug2025 01:26:27.862] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [10, -10] player chunk:[11, -12]
+Server threadEx[25Aug2025 01:26:27.863] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -12] viewdist:16
+Server threadEx[25Aug2025 01:26:28.015] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [10, -10] player chunk:[11, -13]
+Server threadEx[25Aug2025 01:26:28.016] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -13] viewdist:16
+Server threadEx[25Aug2025 01:26:29.242] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:30.414] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [8, -11] player chunk:[10, -13]
+Server threadEx[25Aug2025 01:26:30.414] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [10, -13] viewdist:16
+Server threadEx[25Aug2025 01:26:31.914] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [7, -12] player chunk:[10, -12]
+Server threadEx[25Aug2025 01:26:31.915] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [10, -12] viewdist:16
+Server threadEx[25Aug2025 01:26:32.834] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:33.130] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode spectator
+Server threadEx[25Aug2025 01:26:33.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Spectator Mode]
+Server threadEx[25Aug2025 01:26:35.058] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [6, -12] player chunk:[9, -12]
+Server threadEx[25Aug2025 01:26:35.058] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [9, -12] viewdist:16
+Server threadEx[25Aug2025 01:26:35.508] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [6, -10] player chunk:[9, -11]
+Server threadEx[25Aug2025 01:26:35.509] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [9, -11] viewdist:16
+Server threadEx[25Aug2025 01:26:37.022] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode survival
+Server threadEx[25Aug2025 01:26:37.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Survival Mode]
+Server threadEx[25Aug2025 01:26:38.518] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:41.733] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:42.239] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -1) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:42.240] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:42.241] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:26:43.121] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx
