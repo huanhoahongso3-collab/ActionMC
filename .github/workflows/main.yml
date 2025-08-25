@@ -1,4 +1,5 @@
 name: CI
+
 on:
   push:
     branches: [ "main" ]
@@ -7,139 +8,70 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
-    runs-on: ubuntu-22.04
+  server:
+    runs-on: macos-13
     steps:
-      - uses: actions/checkout@v4
+      # --- 1. Checkout + Java ---
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.FINE_GRAINED_PAT }}
 
-      - uses: graalvm/setup-graalvm@v1
+      - name: Setup GraalVM Java
+        uses: graalvm/setup-graalvm@v1
         with:
           java-version: '23'
           distribution: 'graalvm'
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Run Spigot and playit with 5-second commits and workflow cleanup
-        if: "!contains(github.event.head_commit.message, 'Auto commit every 5 seconds')"
+      # --- 2. Start Playit + Spigot ---
+      - name: Run Spigot + Playit
         env:
           FINE_GRAINED_PAT: ${{ secrets.FINE_GRAINED_PAT }}
-          REPO: ${{ github.repository }}
           PLAYIT_SECRET: ${{ secrets.PLAYIT_SECRET }}
+          REPO: ${{ github.repository }}
         run: |
           cd $GITHUB_WORKSPACE
-          chmod +x playit-linux-amd64
+
+          # setup playit
+          chmod +x playit-macos-arm64 || chmod +x playit-macos-amd64 || true
           echo "$PLAYIT_SECRET" > playit.toml
 
-          echo "Downloading Spigot.."
-          echo "Starting Spigot..."
-          java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -XX:MaxGCPauseMillis=200 -XX:+UnlockExperimentalVMOptions -XX:+DisableExplicitGC -XX:+AlwaysPreTouch -XX:G1NewSizePercent=30 -XX:G1MaxNewSizePercent=40 -XX:G1HeapRegionSize=8M -XX:G1ReservePercent=20 -XX:G1HeapWastePercent=5 -XX:G1MixedGCCountTarget=4 -XX:InitiatingHeapOccupancyPercent=15 -XX:G1MixedGCLiveThresholdPercent=90 -XX:G1RSetUpdatingPauseTimePercent=5 -XX:SurvivorRatio=32 -XX:+PerfDisableSharedMem -XX:MaxTenuringThreshold=1 -Dusing.aikars.flags=https://mcflags.emc.gs -Daikars.new.flags=true -Xms16G -Xmx16G -jar server.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
+          echo "Starting Playit..."
+          ./playit-macos-* >/dev/null 2>&1 &
+          PLAYIT_PID=$!
+          echo "Playit started with PID $PLAYIT_PID"
+
+          echo "Starting Spigot (launcher.jar)..."
+          java -Xms16G -Xmx16G -jar launcher.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
           SPIGOT_PID=$!
           echo "Spigot started with PID $SPIGOT_PID"
 
-          echo "Starting playit..."
-          ./playit-linux-amd64 >/dev/null 2>&1 &
-          PLAYIT_PID=$!
-          echo "playit started with PID $PLAYIT_PID"
+          # --- 3. Wait until Spigot stops naturally ---
+          wait $SPIGOT_PID
+          echo "Spigot stopped normally."
 
-          # -------- Ignore sensitive files --------
-          cat <<EOT >> .gitignore
-          playit.toml
-          playit.log
-          tunnel-config.yml
-          credentials.json
-          logs/
-          EOT
+          # --- Force kill Playit ---
+          echo "Force killing Playit..."
+          kill -9 $PLAYIT_PID || true
 
-          # -------- Functions --------
-          commit_and_push() {
-            git config --local user.email "github-actions[bot]@users.noreply.github.com"
-            git config --local user.name "github-actions[bot]"
-            git add -A
-            if ! git commit -m "Auto commit every 5 seconds [no ci]"; then
-              echo "No changes to commit"
-              return 1
-            fi
+          # --- 4. Commit + push world save ---
+          echo "Saving world data to GitHub..."
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git commit -m "Auto world save after Spigot shutdown [no ci]"; then
             for i in {1..3}; do
-              if git push https://x-access-token:${FINE_GRAINED_PAT}@github.com/${GITHUB_REPOSITORY}.git HEAD:main --force; then
-                echo "Push successful on attempt $i"
-                return 0
+              if git push https://x-access-token:${FINE_GRAINED_PAT}@github.com/${REPO}.git HEAD:main --force; then
+                echo "World save pushed successfully"
+                break
               else
-                echo "Push failed on attempt $i, retrying..."
-                git pull --rebase
+                echo "Push failed (attempt $i), retrying..."
+                git pull --rebase || true
               fi
             done
-            echo "Failed to push after 3 attempts"
-            return 1
-          }
+          else
+            echo "No changes to commit"
+          fi
 
-          start_spigot() {
-            echo "Restarting Spigot..."
-            java -Xms16G -Xmx16G -jar launcher.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
-            SPIGOT_PID=$!
-            echo "Spigot restarted with PID $SPIGOT_PID"
-          }
-
-          create_new_workflow_run() {
-            curl -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
-              -H "Accept: application/vnd.github.v3+json" \
-              "https://api.github.com/repos/${REPO}/actions/workflows/blank.yml/dispatches" \
-              -d '{"ref":"main"}'
-            echo "New workflow run created"
-          }
-
-          cancel_old_workflow_runs() {
-            current_run_id=$GITHUB_RUN_ID
-            page=1
-            while : ; do
-              workflow_runs=$(curl -s -H "Authorization: token $FINE_GRAINED_PAT" \
-                "https://api.github.com/repos/${REPO}/actions/runs?branch=main&status=in_progress&per_page=100&page=$page")
-              run_ids=$(echo "$workflow_runs" | jq -r ".workflow_runs[] | select(.id != $current_run_id) | .id")
-              [ -z "$run_ids" ] && break
-              for run_id in $run_ids; do
-                echo "Cancelling workflow run $run_id"
-                curl -s -X POST -H "Authorization: token $FINE_GRAINED_PAT" \
-                  "https://api.github.com/repos/${REPO}/actions/runs/$run_id/cancel"
-              done
-              page=$((page+1))
-            done
-          }
-
-          # -------- Background safety timer (5h55m) --------
-          (
-            sleep 21300  # 5h55m
-            echo "Timer hit 5h55m → restarting workflow"
-            kill -TERM $SPIGOT_PID || true
-            kill -TERM $PLAYIT_PID || true
-            sleep 15
-            create_new_workflow_run
-            echo "Exiting current workflow gracefully"
-            exit 0
-          ) &
-
-          # -------- Main Loop with heartbeat --------
-          COUNTER=0
-          while true; do
-            if ! commit_and_push; then
-              echo "Commit skipped"
-            fi
-
-            cancel_old_workflow_runs
-
-            if ! kill -0 $SPIGOT_PID 2>/dev/null; then
-              echo "Spigot stopped. Restarting..."
-              start_spigot
-            fi
-
-            if ! kill -0 $PLAYIT_PID 2>/dev/null; then
-              echo "PlayIt Tunnel died. Triggering restart..."
-              create_new_workflow_run
-              exit 0
-            fi
-
-            sleep 5
-            COUNTER=$((COUNTER+1))
-            if [ $((COUNTER % 60)) -eq 0 ]; then
-              echo "Heartbeat: workflow still alive at $(date)"
-            fi
-          done
+          echo "✅ Workflow finished after Spigot shutdown."
