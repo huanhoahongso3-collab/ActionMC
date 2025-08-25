@@ -1551,4 +1551,6 @@ Server threadEx[25Aug2025 01:22:20.511] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:22:37.764] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -13] player chunk:[12, -13]
 Server threadEx[25Aug2025 01:22:37.765] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -13] viewdist:16
 Server threadEx[25Aug2025 01:22:41.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FewerSteak1914 has made the advancement [Spooky Scary Skeleton]
+Server threadEx[25Aug2025 01:22:46.765] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -15] player chunk:[11, -13]
+Server threadEx[25Aug2025 01:22:46.766] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -13] viewdist:16
 Server threadEx
