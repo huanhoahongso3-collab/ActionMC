@@ -143,6 +143,12 @@
     "dest": {},
     "lastdeath": [
       {
+        "x": 810,
+        "y": 62,
+        "z": -827,
+        "dimension": "world/heaven/sky"
+      },
+      {
         "x": -26,
         "y": 58,
         "z": 3,
@@ -158,12 +164,6 @@
         "x": 5003,
         "y": 85,
         "z": 5142,
-        "dimension": "world"
-      },
-      {
-        "x": 5000,
-        "y": 68,
-        "z": 5000,
         "dimension": "world"
       }
     ],

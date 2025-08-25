@@ -1,12 +1,12 @@
 FewerSteak1914:
   lastdeathlocation:
     ==: org.bukkit.Location
-    world: world/DIM1
-    x: -25.660738940276786
-    y: 58.0
-    z: 3.4741233311148276
-    pitch: 39.449997
-    yaw: 38.550064
+    world: world/heaven/sky
+    x: 810.2749463214517
+    y: 62.0
+    z: -826.4267366523234
+    pitch: 56.249886
+    yaw: 61.490173
 banngaoda:
   lastdeathlocation:
     ==: org.bukkit.Location
