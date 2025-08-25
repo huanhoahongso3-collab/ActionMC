@@ -201,4 +201,65 @@ mainEx[25Aug2025 01:09:57.274] [main/INFO] [FabricLoader/]: Loading 169 mods:
 	   \-- org_reflections_reflections 0.10.2
 	- yungsextras 1.21.1-Fabric-5.1.1
 	   \-- org_reflections_reflections 0.10.2
+mainEx[25Aug2025 01:09:57.559] [main/INFO] [FabricLoader/Mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/home/runner/work/ActionMC/ActionMC/libraries/net/fabricmc/sponge-mixin/0.16.3+mixin.0.8.7/sponge-mixin-0.16.3+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+mainEx[25Aug2025 01:09:57.626] [main/INFO] [FabricLoader/Mixin/]: Compatibility level set to JAVA_21
+mainEx[25Aug2025 01:09:58.059] [main/INFO] [Arclight/]: Using locale en_us and fallback locale en_us
+mainEx[25Aug2025 01:09:58.064] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    Version 诸王 (Feudal Kings) / arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a
+    Build Date 2025-08-16 12:18:38
+
+mainEx[25Aug2025 01:09:58.159] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.base.mixin
+mainEx[25Aug2025 01:09:58.253] [main/INFO] [C2ME Config System/]: Global Executor Parallelism: 1 configured, 1 evaluated, 1 default evaluated
+mainEx[25Aug2025 01:09:58.255] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+mainEx[25Aug2025 01:09:58.257] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+mainEx[25Aug2025 01:09:58.258] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+mainEx[25Aug2025 01:09:58.260] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+mainEx[25Aug2025 01:09:58.261] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.notickvd.mixin
+mainEx[25Aug2025 01:09:58.279] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.allocs.mixin
+mainEx[25Aug2025 01:09:58.280] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+mainEx[25Aug2025 01:09:58.281] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.chunkio.mixin
+mainEx[25Aug2025 01:09:58.282] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.dfc.mixin
+mainEx[25Aug2025 01:09:58.283] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.opts.dfc.mixin
+mainEx[25Aug2025 01:09:58.283] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.math.mixin
+mainEx[25Aug2025 01:09:58.284] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.natives_math.mixin
+mainEx[25Aug2025 01:09:58.285] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.opts.natives_math.mixin
+mainEx[25Aug2025 01:09:58.286] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.scheduling.mixin
+mainEx[25Aug2025 01:09:58.288] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+mainEx[25Aug2025 01:09:58.290] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+mainEx[25Aug2025 01:09:58.290] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+mainEx[25Aug2025 01:09:58.291] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+mainEx[25Aug2025 01:09:58.292] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunksystem.mixin
+mainEx[25Aug2025 01:09:58.293] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+mainEx[25Aug2025 01:09:58.294] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.server.utils.mixin
+mainEx[25Aug2025 01:09:58.295] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.lighting.mixin
+mainEx[25Aug2025 01:09:58.365] [main/INFO] [LithiumConfig/]: Option 'mixin.entity.collisions.fluid' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.entity.collisions.fluid=false'.
+mainEx[25Aug2025 01:09:58.365] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_support' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_support=false'.
+mainEx[25Aug2025 01:09:58.365] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.fluid_pushing' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.fluid_pushing=false'.
+mainEx[25Aug2025 01:09:58.365] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.block_touching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.block_touching=false'.
+mainEx[25Aug2025 01:09:58.365] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching.suffocation' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching.suffocation=false'.
+mainEx[25Aug2025 01:09:58.365] [main/INFO] [LithiumConfig/]: Option 'mixin.experimental.entity.block_caching' requires 'mixin.util.block_tracking=true' but found 'false'. Setting 'mixin.experimental.entity.block_caching=false'.
+mainEx[25Aug2025 01:09:58.367] [main/INFO] [Lithium/]: Loaded configuration file for Lithium: 149 options available, 1 override(s) found
+mainEx[25Aug2025 01:09:58.438] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.24.3+mc1.21.1: 64 options available, 4 override(s) found
+mainEx[25Aug2025 01:09:58.439] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.paper_chunk_patches' overriden (by mods [c2me]) to 'false'
+mainEx[25Aug2025 01:09:58.439] [main/WARN] [ModernFix/]: Option 'mixin.perf.cache_strongholds' overriden (by mods [c2me]) to 'false'
+mainEx[25Aug2025 01:09:58.439] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.chunk_deadlock' overriden (by mods [c2me]) to 'false'
+mainEx[25Aug2025 01:09:58.439] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [threadtweak]) to 'false'
+mainEx[25Aug2025 01:09:58.439] [main/INFO] [ModernFix/]: Applying Nashorn fix
+mainEx[25Aug2025 01:09:58.540] [main/WARN] [FabricLoader/Mixin/]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+mainEx[25Aug2025 01:09:58.540] [main/WARN] [FabricLoader/Mixin/]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+mainEx[25Aug2025 01:09:59.578] [main/INFO] [faster-random/]: Loading Faster Random.
+mainEx[25Aug2025 01:09:59.720] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
+mainEx[25Aug2025 01:10:00.102] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
+mainEx[25Aug2025 01:10:00.474] [main/INFO] [ThreadTweak/]: ThreadTweak config initialized
+mainEx[25Aug2025 01:10:02.324] [main/WARN] [FabricLoader/Mixin/]: Method overwrite conflict for method_5736 in lithium.mixins.json:alloc.deep_passengers.EntityMixin from mod lithium, previously written by io.izzel.arclight.common.mixin.optimization.general.EntityMixin_Optimize. Skipping method.
+mainEx[25Aug2025 01:10:03.773] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+mainEx[25Aug2025 01:10:03.773] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
 mainEx
