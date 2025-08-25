@@ -10248,4 +10248,9 @@ Server threadEx[25Aug2025 01:21:43.337] [BlueMap-RegionFileWatchService-DelayTim
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:43.339] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:45.113] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -11] player chunk:[10, -12]
 Server threadEx[25Aug2025 01:21:45.113] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [10, -12] viewdist:16
-Server threadEx
+Server threadEx[25Aug2025 01:21:50.634] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.728] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -1) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.729] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.729] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.732] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx
