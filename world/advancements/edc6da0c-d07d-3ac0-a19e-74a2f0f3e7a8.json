@@ -839,6 +839,7 @@
       "minecraft:magma_cube": "2025-08-22 05:36:59 +0000",
       "minecraft:spider": "2025-08-18 08:44:45 +0000",
       "minecraft:piglin_brute": "2025-08-22 05:49:47 +0000",
+      "minecraft:vex": "2025-08-25 01:23:33 +0000",
       "minecraft:zombie": "2025-08-17 09:41:18 +0000",
       "minecraft:creeper": "2025-08-18 01:21:27 +0000",
       "minecraft:drowned": "2025-08-18 01:34:56 +0000",
@@ -4357,76 +4358,94 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-08-25 01:22:29 +0000",
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "requirement": "2025-08-25 01:27:42 +0000",
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": true
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-08-25 01:22:17 +0000"
+      "log_spam_fixer": "2025-08-25 01:27:17 +0000"
     },
     "done": false
+  },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-08-25 01:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-25 01:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-08-25 01:26:55 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/bamboo_planks": {
     "criteria": {
@@ -4434,9 +4453,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-25 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-25 01:26:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-08-25 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-08-25 01:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-08-25 01:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-25 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-08-25 01:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-25 01:26:55 +0000"
     },
     "done": true
   },
@@ -4449,6 +4510,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-08-25 01:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-25 01:23:33 +0000"
     },
     "done": true
   },

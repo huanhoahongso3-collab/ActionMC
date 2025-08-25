@@ -1718,4 +1718,12 @@ Server threadEx[25Aug2025 01:27:30.881] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:27:42.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FewerSteak1914 has made the advancement [Toxic Personality]
 Server threadEx[25Aug2025 01:27:42.264] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -12] player chunk:[10, -12]
 Server threadEx[25Aug2025 01:27:42.264] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [10, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:01.759] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1634['Restless Spirit'/9995, l='ServerLevel[world/DIM-1]', x=267.25, y=-20.00, z=-169.47] died: Restless Spirit was killed
+Server threadEx[25Aug2025 01:28:04.213] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode creative
+Server threadEx[25Aug2025 01:28:04.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Creative Mode]
+Server threadEx[25Aug2025 01:28:10.776] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode survival
+Server threadEx[25Aug2025 01:28:10.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Survival Mode]
+Server threadEx[25Aug2025 01:28:11.065] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -12] player chunk:[11, -12]
+Server threadEx[25Aug2025 01:28:11.065] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:14.756] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/10170, l='ServerLevel[world/DIM-1]', x=150.67, y=-20.00, z=-183.26] died: Toxic Slime was killed
 Server threadEx
