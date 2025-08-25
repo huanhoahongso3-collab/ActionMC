@@ -279,4 +279,9 @@ mainEx[25Aug2025 01:05:06.350] [main/INFO] [faster-random/]: Loading Faster Rand
 mainEx[25Aug2025 01:05:06.507] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: structureessentials.json
 mainEx[25Aug2025 01:05:06.951] [main/INFO] [FabricLoader/MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0).
 mainEx[25Aug2025 01:05:07.253] [main/INFO] [ThreadTweak/]: ThreadTweak config initialized
+mainEx[25Aug2025 01:05:08.764] [main/WARN] [FabricLoader/Mixin/]: Method overwrite conflict for method_5736 in lithium.mixins.json:alloc.deep_passengers.EntityMixin from mod lithium, previously written by io.izzel.arclight.common.mixin.optimization.general.EntityMixin_Optimize. Skipping method.
+mainEx[25Aug2025 01:05:10.688] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+mainEx[25Aug2025 01:05:10.688] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+mainEx[25Aug2025 01:05:11.505] [main/WARN] [FabricLoader/Mixin/]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+mainEx[25Aug2025 01:05:11.507] [main/WARN] [FabricLoader/Mixin/]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by net.caffeinemc.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
 mainEx
