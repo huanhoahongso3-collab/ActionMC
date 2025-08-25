@@ -1266,4 +1266,14 @@ Server threadEx[25Aug2025 01:13:58.226] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:13:58.228] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -36] viewdist:16
 Server threadEx[25Aug2025 01:14:01.525] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-10, -39] player chunk:[-12, -37]
 Server threadEx[25Aug2025 01:14:01.527] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -37] viewdist:16
+Server threadEx[25Aug2025 01:14:08.303] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-11, -39] player chunk:[-13, -37]
+Server threadEx[25Aug2025 01:14:08.305] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-13, -37] viewdist:16
+Server threadEx[25Aug2025 01:14:13.669] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-15, -39] player chunk:[-13, -36]
+Server threadEx[25Aug2025 01:14:13.671] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-13, -36] viewdist:16
+Server threadEx[25Aug2025 01:14:15.183] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-16, -37] player chunk:[-14, -36]
+Server threadEx[25Aug2025 01:14:15.185] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-14, -36] viewdist:16
+Server threadEx[25Aug2025 01:14:27.021] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode spectator
+Server threadEx[25Aug2025 01:14:27.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Spectator Mode]
+Server threadEx[25Aug2025 01:14:30.662] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode survival
+Server threadEx[25Aug2025 01:14:30.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Survival Mode]
 Server threadEx
