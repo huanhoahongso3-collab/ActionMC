@@ -8061,4 +8061,6 @@ Netty Epoll Server IO #1Ex[25Aug2025 01:10:38.413] [Netty Epoll Server IO #1/DEB
 Netty Epoll Server IO #1Ex[25Aug2025 01:10:38.413] [Netty Epoll Server IO #1/DEBUG] [FabricLoader/Mixin/]: krypton.mixins.json:shared.network.microopt.StringEncodingMixin from mod krypton: Class version 65 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
 Netty Epoll Server IO #1Ex[25Aug2025 01:10:38.484] [Netty Epoll Server IO #1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/class_3246$1
 Netty Epoll Server IO #1Ex[25Aug2025 01:10:38.487] [Netty Epoll Server IO #1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/netty/buffer/PoolThreadCache$1
-Netty Epoll Server IO #1Ex
+Netty Epoll Server IO #1Ex[25Aug2025 01:11:19.345] [Server thread/DEBUG] [FabricLoader/Mixin/]: Mixing block_pattern_matching.BlockPatternMixin from lithium.mixins.json into net.minecraft.class_2700
+Server threadEx[25Aug2025 01:11:19.348] [Server thread/DEBUG] [FabricLoader/Mixin/]: lithium.mixins.json:block_pattern_matching.BlockPatternMixin from mod lithium->@Inject::countRequiredBlocksBeforeExpensiveSearch(Lnet/minecraft/class_4538;Lnet/minecraft/class_2338;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;)V does use it's CallbackInfoReturnable
+Server threadEx
