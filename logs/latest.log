@@ -35,12 +35,9 @@ com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map d
 [01:06:05.682 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [01:06:08.682 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [01:06:11.683 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
-  |-- c2me-fixes-worldgen-vanilla-bugs 0.3.0+alpha.0.320+1.21.1
-	   |-- c2me-notickvd 0.3.0+alpha.0.320+1.21.1
-	   |-- c2me-opts-allocs 0.3.0+alpha.0.320+1.21.1
-	   |-- c2me-opts-chunk-access 0.3.0+alpha.0.320+1.21.1
-	   |-- c2me-opts-chunkio 0.3.0+alpha.0.320+1.21.1
-	   |-- c2me-opts-dfc 0.3.0+alpha.0.320+1.21.1
+[01:06:14.682 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+[01:06:17.682 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+  |-- c2me-opts-dfc 0.3.0+alpha.0.320+1.21.1
 	   |-- c2me-opts-math 0.3.0+alpha.0.320+1.21.1
 	   |-- c2me-opts-natives-math 0.3.0+alpha.0.320+1.21.1
 	   |-- c2me-opts-scheduling 0.3.0+alpha.0.320+1.21.1
