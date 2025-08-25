@@ -1195,4 +1195,20 @@ BlueMap-Plugin-LoadingEx[25Aug2025 01:11:45.676] [BlueMap-Plugin-Loading/INFO] [
 BlueMap-Plugin-LoadingEx[25Aug2025 01:11:45.760] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: WebServer bound to all network interfaces on port 25589
 BlueMap-Plugin-LoadingEx[25Aug2025 01:11:45.761] [Thread-36/INFO] [BlueMap/]: WebServer started.
 Thread-36Ex[25Aug2025 01:11:45.781] [BlueMap-Plugin-Loading/INFO] [BlueMap/]: BlueMap loaded!
-BlueMap-Plugin-LoadingEx
+BlueMap-Plugin-LoadingEx[25Aug2025 01:11:49.835] [Server thread/INFO] [net.minecraft.class_3324/]: FewerSteak1914[/127.24.16.250:56285] logged in with entity id 89 at (-179.91851693582237, 72.0, -577.4042724725149)
+Server threadEx[25Aug2025 01:11:50.145] [Server thread/INFO] [FreezeHibernate/]: A player joined. Server is now unfrozen.
+Server threadEx[25Aug2025 01:11:52.451] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: Lithium Cached BlockState Flags are disabled!
+Server threadEx[25Aug2025 01:11:52.762] [Craft Scheduler Thread - 0/INFO] [AuthMe/]: FewerSteak1914 logged in 127.24.16.250
+Craft Scheduler Thread - 0Ex[25Aug2025 01:11:52.914] [Server thread/INFO] [Console/]: FewerSteak1914 has joined!
+Server threadEx[25Aug2025 01:11:53.188] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -37] viewdist:4
+Server threadEx[25Aug2025 01:11:54.237] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-9, -37] player chunk:[-12, -37]
+Server threadEx[25Aug2025 01:11:54.243] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -37] viewdist:16
+Server threadEx[25Aug2025 01:12:03.143] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-9, -36] player chunk:[-12, -36]
+Server threadEx[25Aug2025 01:12:03.148] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -36] viewdist:16
+Server threadEx[25Aug2025 01:12:08.066] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-9, -36] player chunk:[-12, -37]
+Server threadEx[25Aug2025 01:12:08.068] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -37] viewdist:16
+Server threadEx[25Aug2025 01:12:09.381] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-13, -34] player chunk:[-12, -36]
+Server threadEx[25Aug2025 01:12:09.382] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -36] viewdist:16
+Server threadEx[25Aug2025 01:12:10.230] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [-14, -34] player chunk:[-12, -37]
+Server threadEx[25Aug2025 01:12:10.231] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [-12, -37] viewdist:16
+Server threadEx

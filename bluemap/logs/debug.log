@@ -717,3 +717,21 @@
 [2025-08-25 01:11:47][FINE] No renderer found for entity type: minecraft:armor_stand
 [2025-08-25 01:11:47][FINE] No renderer found for entity type: minecraft:squid
 [2025-08-25 01:11:48][FINE] No renderer found for entity type: minecraft:bee
+[2025-08-25 01:11:50][FINE] Failed to load skin from mojang for player: 'edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8' - java.io.IOException: java.lang.IllegalStateException: Not a JSON Object: null
+[2025-08-25 01:11:50][FINE] No player-skin provided for UUID: edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8
+[2025-08-25 01:11:51][FINE] No renderer found for entity type: minecraft:boat
+[2025-08-25 01:11:53][FINE] No renderer found for entity type: minecraft:arrow
+[2025-08-25 01:11:53][FINE] No renderer found for entity type: minecraft:cat
+[2025-08-25 01:11:53][FINE] No renderer found for entity type: minecraft:cow
+[2025-08-25 01:11:54][FINE] No renderer found for entity type: minecraft:horse
+[2025-08-25 01:11:55][FINE] No renderer found for entity type: minecraft:axolotl
+[2025-08-25 01:11:56][FINE] No renderer found for entity type: minecraft:item_frame
+[2025-08-25 01:11:56][FINE] No renderer found for entity type: minecraft:salmon
+[2025-08-25 01:11:56][FINE] No renderer found for entity type: minecraft:cod
+[2025-08-25 01:11:56][FINE] No renderer found for entity type: minecraft:tropical_fish
+[2025-08-25 01:12:05][FINE] No renderer found for entity type: minecraft:item
+[2025-08-25 01:12:05][FINE] No renderer found for entity type: minecraft:pig
+[2025-08-25 01:12:05][FINE] No renderer found for entity type: minecraft:sheep
+[2025-08-25 01:12:05][FINE] No renderer found for entity type: minecraft:parrot
+[2025-08-25 01:12:06][FINE] No renderer found for entity type: minecraft:chicken
+[2025-08-25 01:12:07][FINE] No renderer found for entity type: minecraft:wolf
