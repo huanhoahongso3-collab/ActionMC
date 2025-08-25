@@ -10229,4 +10229,23 @@ Server threadEx[25Aug2025 01:21:10.167] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:21:16.780] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world_the_nether)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:17.387] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [8, -16] player chunk:[7, -14]
 Server threadEx[25Aug2025 01:21:17.388] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [7, -14] viewdist:16
+Server threadEx[25Aug2025 01:21:21.134] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [10, -16] player chunk:[8, -14]
+Server threadEx[25Aug2025 01:21:21.135] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [8, -14] viewdist:16
+Server threadEx[25Aug2025 01:21:25.463] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [11, -15] player chunk:[9, -14]
+Server threadEx[25Aug2025 01:21:25.464] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [9, -14] viewdist:16
+Server threadEx[25Aug2025 01:21:26.276] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -1) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:26.512] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:slime
+RenderManager-0-0Ex[25Aug2025 01:21:26.611] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:magma_cube
+RenderManager-0-0Ex[25Aug2025 01:21:27.979] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:piglin_brute
+RenderManager-0-0Ex[25Aug2025 01:21:28.876] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:hoglin
+RenderManager-0-0Ex[25Aug2025 01:21:29.906] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:vex
+RenderManager-0-0Ex[25Aug2025 01:21:32.124] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:36.418] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [12, -14] player chunk:[10, -14]
+Server threadEx[25Aug2025 01:21:36.418] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [10, -14] viewdist:16
+Server threadEx[25Aug2025 01:21:36.717] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -13] player chunk:[10, -13]
+Server threadEx[25Aug2025 01:21:36.717] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [10, -13] viewdist:16
+Server threadEx[25Aug2025 01:21:43.337] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:43.339] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:45.113] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -11] player chunk:[10, -12]
+Server threadEx[25Aug2025 01:21:45.113] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [10, -12] viewdist:16
 Server threadEx
