@@ -8,3 +8,8 @@ playit.log
 tunnel-config.yml
 credentials.json
 logs/
+playit.toml
+playit.log
+tunnel-config.yml
+credentials.json
+logs/
