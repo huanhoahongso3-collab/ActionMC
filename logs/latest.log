@@ -1085,4 +1085,5 @@ Server threadEx org.spongepowered.asm.mixin.injection.throwables.InvalidInjectio
 	at java.base/java.lang.Thread.run(Thread.java:1575) [?:?]
 [25Aug2025 01:10:29.620] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
 Server threadEx[25Aug2025 01:10:29.905] [Server thread/INFO] [TheSpeedyObjectFactory/]: Using TheSpeedyObjectFactory with Unsafe
-Server threadEx
+Server threadEx[25Aug2025 01:10:37.312] [Netty Epoll Server IO #1/WARN] [ProtocolLib/]: Loaded class javax.annotation.Nonnull from AuthMe v5.7.0-FORK-b53 which is not a depend or softdepend of this plugin.
+Netty Epoll Server IO #1Ex
