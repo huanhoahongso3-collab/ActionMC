@@ -10560,4 +10560,12 @@ Server threadEx[25Aug2025 01:28:45.412] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:28:45.412] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -12] viewdist:16
 Server threadEx[25Aug2025 01:28:46.459] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -8] player chunk:[13, -11]
 Server threadEx[25Aug2025 01:28:46.460] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -11] viewdist:16
-Server threadEx
+Server threadEx[25Aug2025 01:28:51.263] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -10] player chunk:[13, -12]
+Server threadEx[25Aug2025 01:28:51.263] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -12] viewdist:16
+Server threadEx[25Aug2025 01:28:53.074] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -1) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:53.077] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:53.077] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:28:56.209] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [15, -10] player chunk:[13, -11]
+Server threadEx[25Aug2025 01:28:56.209] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [13, -11] viewdist:16
+Server threadEx[25Aug2025 01:28:57.881] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx
