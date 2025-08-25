@@ -1087,4 +1087,42 @@ Server threadEx org.spongepowered.asm.mixin.injection.throwables.InvalidInjectio
 Server threadEx[25Aug2025 01:10:29.905] [Server thread/INFO] [TheSpeedyObjectFactory/]: Using TheSpeedyObjectFactory with Unsafe
 Server threadEx[25Aug2025 01:10:37.312] [Netty Epoll Server IO #1/WARN] [ProtocolLib/]: Loaded class javax.annotation.Nonnull from AuthMe v5.7.0-FORK-b53 which is not a depend or softdepend of this plugin.
 Netty Epoll Server IO #1Ex[25Aug2025 01:11:24.174] [Server thread/INFO] [ImageFrame/]: Enabling ImageFrame v1.8.5.0
+Server threadEx[25Aug2025 01:11:28.537] [Server thread/INFO] [Console/]: [ImageFrame] ImageFrame has been Enabled!
+Server threadEx[25Aug2025 01:11:28.538] [Server thread/INFO] [ElytraSpeed/]: Enabling ElytraSpeed v1.3.0
+Server threadEx[25Aug2025 01:11:28.560] [Server thread/INFO] [ElytraSpeed/]: Could not find the spark plugin, using the default TPS provider.
+Server threadEx[25Aug2025 01:11:28.567] [Server thread/INFO] [ElytraSpeed/]: Server version: arclight-1.21.1-1.0.2-SNAPSHOT-bdf278a (MC: 1.21.1)
+Server threadEx[25Aug2025 01:11:28.573] [Server thread/INFO] [ElytraSpeed/]: Using RiptideListener for 1.13+!
+Server threadEx[25Aug2025 01:11:28.582] [Server thread/INFO] [JustTPA/]: Enabling JustTPA v20250220c
+Server threadEx[25Aug2025 01:11:28.587] [Server thread/INFO] [JustTPA/]: JustTPA initialized
+Server threadEx[25Aug2025 01:11:28.591] [Server thread/INFO] [JustTPA/]: bStats enabled
+Server threadEx[25Aug2025 01:11:28.591] [Server thread/INFO] [JustTPA/]: Checking for updates...
+Server threadEx[25Aug2025 01:11:28.592] [Server thread/INFO] [BetterTridents/]: Enabling BetterTridents v1.0-SNAPSHOT
+Server threadEx[25Aug2025 01:11:28.594] [Server thread/INFO] [FreezeHibernate/]: Enabling FreezeHibernate v1.0
+Server threadEx[25Aug2025 01:11:28.596] [Server thread/INFO] [OpenInv/]: Enabling OpenInv v5.1.2
+Server threadEx[25Aug2025 01:11:28.624] [Server thread/WARN] [OpenInv/]: Loaded class com.google.errorprone.annotations.Keep from AxGraves v1.22.4 which is not a depend or softdepend of this plugin.
+Server threadEx[25Aug2025 01:11:28.635] [Server thread/INFO] [DirectionHUD/]: Enabling DirectionHUD v1.8.2.0+1.20-1.21.8
+Server threadEx[25Aug2025 01:11:28.711] [Server thread/INFO] [DirectionHUD/]: Started server!
+Server threadEx[25Aug2025 01:11:28.722] [Server thread/INFO] [Not-Too-Expensive/]: Enabling Not-Too-Expensive v1.1
+Server threadEx[25Aug2025 01:11:28.723] [Server thread/INFO] [DeathBack/]: Enabling DeathBack v1.0
+Server threadEx[25Aug2025 01:11:28.726] [Server thread/INFO] [DeathBack/]: Plugin loaded!
+Server threadEx[25Aug2025 01:11:28.726] [Server thread/INFO] [DeathBack/]: 
+Server threadEx[25Aug2025 01:11:28.726] [Server thread/INFO] [DeathBack/]: DeathBack
+Server threadEx[25Aug2025 01:11:28.726] [Server thread/INFO] [DeathBack/]: Made by p1xEL_mc
+Server threadEx[25Aug2025 01:11:28.726] [Server thread/INFO] [DeathBack/]: Thanks for using!
+Server threadEx[25Aug2025 01:11:28.726] [Server thread/INFO] [DeathBack/]: 
+Server threadEx[25Aug2025 01:11:28.729] [Server thread/INFO] [AxGraves/]: Enabling AxGraves v1.22.4
+Server threadEx[25Aug2025 01:11:29.355] [Server thread/INFO] [KeepChunks/]: Enabling KeepChunks v1.7.3
+Server threadEx[25Aug2025 01:11:29.438] [Server thread/INFO] [net.minecraft.class_2983/]: [STDOUT]: [ScalableLux] Lighting scaling is enabled in externally managed mode
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: 
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]:  _     _                   _______ _                 _          
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: (_)   | |                 (_______) |               | |  v1.7.3
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]:  _____| |_____ _____ ____  _      | |__  _   _ ____ | |  _  ___ 
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: |  _   _) ___ | ___ |  _ \| |     |  _ \| | | |  _ \| |_/ )/___)
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: | |  \ \| ____| ____| |_| | |_____| | | | |_| | | | |  _ (|___ |
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: |_|   \_)_____)_____)  __/ \______)_| |_|____/|_| |_|_| \_|___/ 
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]:                     |_|                                         
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: 
+Server threadEx[25Aug2025 01:11:33.381] [Server thread/INFO] [Console/]: [KeepChunks] KeepChunks v1.7.3 has been enabled
+Server threadEx[25Aug2025 01:11:33.382] [Server thread/INFO] [Rainbow/]: Enabling Rainbow v1.1
+Server threadEx[25Aug2025 01:11:33.419] [Server thread/INFO] [LimitedCreative/]: Enabling LimitedCreative v2.0.1
 Server threadEx
