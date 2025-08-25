@@ -10253,4 +10253,13 @@ BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.728] [BlueMap-Reg
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.729] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.729] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -2) (Map: world_the_nether)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:21:51.732] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
-BlueMap-RegionFileWatchService-DelayTimerEx
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:22:04.464] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -9] player chunk:[11, -12]
+Server threadEx[25Aug2025 01:22:04.465] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -12] viewdist:16
+Server threadEx[25Aug2025 01:22:12.265] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -9] player chunk:[11, -11]
+Server threadEx[25Aug2025 01:22:12.266] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -11] viewdist:16
+Server threadEx[25Aug2025 01:22:12.863] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [13, -9] player chunk:[11, -12]
+Server threadEx[25Aug2025 01:22:12.864] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [11, -12] viewdist:16
+Server threadEx[25Aug2025 01:22:19.472] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, 0) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:22:20.510] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [14, -10] player chunk:[12, -12]
+Server threadEx[25Aug2025 01:22:20.511] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [12, -12] viewdist:16
+Server threadEx
