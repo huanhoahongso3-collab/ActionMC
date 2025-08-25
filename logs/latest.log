@@ -1902,4 +1902,22 @@ Server threadEx[25Aug2025 01:32:31.462] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:32:31.463] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -13] viewdist:16
 Server threadEx[25Aug2025 01:32:34.309] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -15] player chunk:[21, -12]
 Server threadEx[25Aug2025 01:32:34.309] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -12] viewdist:16
+Server threadEx[25Aug2025 01:32:36.559] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -15] player chunk:[22, -12]
+Server threadEx[25Aug2025 01:32:36.559] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [22, -12] viewdist:16
+Server threadEx[25Aug2025 01:32:37.311] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [22, -15] player chunk:[21, -13]
+Server threadEx[25Aug2025 01:32:37.312] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -13] viewdist:16
+Server threadEx[25Aug2025 01:32:40.464] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode survival
+Server threadEx[25Aug2025 01:32:40.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Survival Mode]
+Server threadEx[25Aug2025 01:32:41.101] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [23, -16] player chunk:[22, -13]
+Server threadEx[25Aug2025 01:32:41.101] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [22, -13] viewdist:16
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17794, l='ServerLevel[world/DIM-1]', x=530.53, y=58.00, z=-444.53]
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17795, l='ServerLevel[world/DIM-1]', x=533.47, y=58.00, z=-445.47]
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17796, l='ServerLevel[world/DIM-1]', x=532.66, y=58.00, z=-447.57]
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17797, l='ServerLevel[world/DIM-1]', x=534.47, y=59.00, z=-447.47]
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17798, l='ServerLevel[world/DIM-1]', x=532.57, y=73.00, z=-435.34]
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17799, l='ServerLevel[world/DIM-1]', x=536.47, y=67.00, z=-447.53]
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17800, l='ServerLevel[world/DIM-1]', x=535.34, y=67.00, z=-444.43]
+Server threadEx[25Aug2025 01:32:41.482] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17801, l='ServerLevel[world/DIM-1]', x=535.57, y=85.00, z=-447.34]
+Server threadEx[25Aug2025 01:32:41.483] [Server thread/WARN] [net.minecraft.class_5579/]: UUID of added entity already exists: class_4836['Piglin'/17802, l='ServerLevel[world/DIM-1]', x=541.47, y=85.00, z=-436.53]
+Server threadEx[25Aug2025 01:32:44.760] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/13807, l='ServerLevel[world/DIM-1]', x=349.78, y=-20.00, z=-254.88] died: Toxic Slime was killed
 Server threadEx
