@@ -1883,4 +1883,13 @@ Server threadEx[25Aug2025 01:31:34.019] [Server thread/INFO] [com.betterchunkloa
 Server threadEx[25Aug2025 01:31:34.019] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -11] viewdist:16
 Server threadEx[25Aug2025 01:31:51.274] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [20, -8] player chunk:[20, -11]
 Server threadEx[25Aug2025 01:31:51.274] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -11] viewdist:16
+Server threadEx[25Aug2025 01:32:02.375] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1634['Restless Spirit'/15048, l='ServerLevel[world/DIM-1]', x=328.27, y=72.80, z=-167.27] died: Restless Spirit was killed while trying to hurt FewerSteak1914
+Server threadEx[25Aug2025 01:32:21.790] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode spectator
+Server threadEx[25Aug2025 01:32:21.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Spectator Mode]
+Server threadEx[25Aug2025 01:32:23.055] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -9] player chunk:[20, -10]
+Server threadEx[25Aug2025 01:32:23.056] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -10] viewdist:16
+Server threadEx[25Aug2025 01:32:25.309] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -9] player chunk:[20, -11]
+Server threadEx[25Aug2025 01:32:25.309] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -11] viewdist:16
+Server threadEx[25Aug2025 01:32:25.765] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [17, -9] player chunk:[20, -10]
+Server threadEx[25Aug2025 01:32:25.766] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [20, -10] viewdist:16
 Server threadEx
