@@ -26,13 +26,9 @@ com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map d
 [01:05:38.685 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [01:05:41.685 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [01:05:44.684 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
-- betterchunkloading 1.21-5.5
-	- betterdeserttemples 1.21.1-Fabric-4.1.5
-	   \-- org_reflections_reflections 0.10.2
-	- betterdungeons 1.21.1-Fabric-5.1.4
-	   \-- org_reflections_reflections 0.10.2
-	- betterendisland 1.21.1-Fabric-3.1.2
-	   \-- org_reflections_reflections 0.10.2
+[01:05:47.685 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+[01:05:50.684 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+s 0.10.2
 	- betterfortresses 1.21.1-Fabric-3.1.5
 	   \-- org_reflections_reflections 0.10.2
 	- betterjungletemples 1.21.1-Fabric-3.1.2
