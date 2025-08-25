@@ -10821,4 +10821,7 @@ BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:33:30.573] [Server thre
 Server threadEx[25Aug2025 01:33:30.573] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -12] viewdist:16
 Server threadEx[25Aug2025 01:33:31.619] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set predictive loading position with area:7 to chunk: [20, -9] player chunk:[21, -11]
 Server threadEx[25Aug2025 01:33:31.620] [Server thread/INFO] [com.betterchunkloading.BetterChunkLoading/]: Set player chunkloading chunk position to: [21, -11] viewdist:16
+Server threadEx[25Aug2025 01:33:38.229] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:33:38.229] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (1, -2) (Map: world_the_nether)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:33:43.768] [Server thread/INFO] [net.minecraft.class_1309/]: Named entity class_1621['Toxic Slime'/15405, l='ServerLevel[world/DIM-1]', x=327.07, y=-20.00, z=-223.93] died: Toxic Slime was killed
 Server threadEx
