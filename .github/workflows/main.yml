@@ -9,7 +9,7 @@ on:
 
 jobs:
   server:
-    runs-on: macos-13
+    runs-on: windows-latest
     steps:
       # --- 1. Checkout + Java ---
       - name: Checkout repository
@@ -26,6 +26,7 @@ jobs:
 
       # --- 2. Start Playit + Spigot ---
       - name: Run Spigot + Playit
+        shell: bash
         env:
           FINE_GRAINED_PAT: ${{ secrets.FINE_GRAINED_PAT }}
           PLAYIT_SECRET: ${{ secrets.PLAYIT_SECRET }}
@@ -34,11 +35,10 @@ jobs:
           cd $GITHUB_WORKSPACE
 
           # setup playit
-          chmod +x playit-macos-arm64 || chmod +x playit-macos-amd64 || true
           echo "$PLAYIT_SECRET" > playit.toml
 
           echo "Starting Playit..."
-          ./playit-macos-* >/dev/null 2>&1 &
+          ./playit-windows-x86_64-signed.exe >/dev/null 2>&1 &
           PLAYIT_PID=$!
           echo "Playit started with PID $PLAYIT_PID"
 
