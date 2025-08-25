@@ -9859,4 +9859,8 @@ BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:14:27.609] [BlueMap-Reg
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:14:27.777] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-1, -1) (Map: world)
 BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:14:30.662] [Server thread/INFO] [net.minecraft.class_3244/]: FewerSteak1914 issued server command: /gamemode survival
 Server threadEx[25Aug2025 01:14:30.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FewerSteak1914: Set own game mode to Survival Mode]
-Server threadEx
+Server threadEx[25Aug2025 01:14:45.259] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:experience_orb
+RenderManager-0-0Ex[25Aug2025 01:14:45.625] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.FabricEventHandler@6ac8c556 for service interface com.blamejared.clumps.platform.IEventHelper
+Server threadEx[25Aug2025 01:14:45.625] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.FabricPlatformHelper@68cca869 for service interface com.blamejared.clumps.platform.IPlatformHelper
+Server threadEx[25Aug2025 01:14:46.038] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:stray
+RenderManager-0-0Ex
