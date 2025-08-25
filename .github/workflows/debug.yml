@@ -2,37 +2,37 @@ name: Minecraft Server
 
 on:
   workflow_dispatch:  # manual start
-  push:               # optional: auto-run on push
+  push:
     branches: [ main ]
 
 jobs:
   run-server:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Java
+      - name: Setup Java (AdoptOpenJDK 23)
         uses: actions/setup-java@v4
         with:
-          distribution: temurin
-          java-version: 17
+          distribution: adopt
+          java-version: 23
 
       - name: Run Minecraft Server with Playit
         shell: bash
         run: |
           cd $GITHUB_WORKSPACE
-          chmod +x playit-windows-x86_64-signed.exe
+          chmod +x playit-linux-amd64
 
           echo "Starting Playit tunnel..."
-          ./playit-windows-x86_64-signed.exe &
+          ./playit-linux-amd64 &
           PLAYIT_PID=$!
           echo "Playit started with PID $PLAYIT_PID"
 
           echo "Starting Spigot..."
-          # Start spigot with stdin kept open (so we can send /stop later)
-          java -Xms16G -Xmx16G -jar launcher.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
+          # Start Spigot with your custom flags
+          java -XX:+UseG1GC -XX:+ParallelRefProcEnabled -Xmx6G -jar launcher.jar nogui 2>&1 | sed '/login:/s/.*/<REDACTED>/' &
           SPIGOT_PID=$!
           echo "Spigot started with PID $SPIGOT_PID"
 
@@ -43,7 +43,7 @@ jobs:
 
           # Timer: 5h55m (21300 sec)
           (
-            sleep 60
+            sleep 21300
             echo "⏰ 5h55m reached → shutting down..."
 
             # Kill playit first (cut external access)
