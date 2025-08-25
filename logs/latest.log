@@ -24,13 +24,9 @@ com.fasterxml.jackson.databind.exc.MismatchedInputException: No content to map d
 [01:05:32.685 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [01:05:36.831 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
 [01:05:38.685 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
-- You should install any version of modmenu for the optimal experience.
-mainEx[25Aug2025 01:05:03.332] [main/INFO] [FabricLoader/]: Loading 169 mods:
-	- almanac 1.0.2
-	- alternate-current 1.9.0
-	- arclight 1.0.2-SNAPSHOT+bdf278a
-	   \-- fabric-permissions-api-v0 0.3.1
-	- betterchunkloading 1.21-5.5
+[01:05:41.685 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+[01:05:44.684 Geyser Scheduled Thread-1-1/WARN] Failed to ping the remote Java server! Is it online and configured in Geyser's config?
+- betterchunkloading 1.21-5.5
 	- betterdeserttemples 1.21.1-Fabric-4.1.5
 	   \-- org_reflections_reflections 0.10.2
 	- betterdungeons 1.21.1-Fabric-5.1.4
