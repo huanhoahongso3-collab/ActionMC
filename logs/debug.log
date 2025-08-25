@@ -9784,4 +9784,7 @@ RenderManager-0-0Ex[25Aug2025 01:13:11.655] [Server thread/WARN] [net.minecraft.
 Server threadEx[25Aug2025 01:13:11.887] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:iron_golem
 RenderManager-0-0Ex[25Aug2025 01:13:14.737] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:vindicator
 RenderManager-0-0Ex[25Aug2025 01:13:14.738] [RenderManager-0-0/DEBUG] [BlueMap/]: No renderer found for entity type: minecraft:mule
-RenderManager-0-0Ex
+RenderManager-0-0Ex[25Aug2025 01:13:17.650] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -1) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:17.674] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (-2, -2) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx[25Aug2025 01:13:17.971] [BlueMap-RegionFileWatchService-DelayTimer/DEBUG] [BlueMap/]: Scheduled update for region-file: (0, -3) (Map: world)
+BlueMap-RegionFileWatchService-DelayTimerEx
