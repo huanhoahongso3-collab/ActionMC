@@ -773,3 +773,21 @@
 [2025-09-03 00:21:42][FINE] Started watching map 'world_the_nether' for updates...
 [2025-09-03 00:47:52][FINE] Failed to load skin from mojang for player: 'edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8' - java.io.IOException: java.lang.IllegalStateException: Not a JSON Object: null
 [2025-09-03 00:47:52][FINE] No player-skin provided for UUID: edc6da0c-d07d-3ac0-a19e-74a2f0f3e7a8
+[2025-09-03 00:50:42][FINE] Scheduled update for region-file: (0, -1) (Map: world_the_nether)
+[2025-09-03 00:50:43][FINE] Scheduled update for region-file: (1, -1) (Map: world_the_nether)
+[2025-09-03 00:50:43][FINE] Scheduled update for region-file: (0, 0) (Map: world_the_nether)
+[2025-09-03 00:50:43][FINE] Scheduled update for region-file: (1, 0) (Map: world_the_nether)
+[2025-09-03 00:50:46][FINE] No renderer found for entity type: minecraft:strider
+[2025-09-03 00:50:48][FINE] No renderer found for entity type: minecraft:blaze
+[2025-09-03 00:50:50][FINE] No renderer found for entity type: minecraft:wither_skeleton
+[2025-09-03 00:50:51][FINE] No renderer found for entity type: minecraft:zombified_piglin
+[2025-09-03 00:50:52][FINE] No renderer found for entity type: minecraft:piglin
+[2025-09-03 00:50:54][FINE] No renderer found for entity type: minecraft:slime
+[2025-09-03 00:50:56][FINE] No renderer found for entity type: minecraft:magma_cube
+[2025-09-03 00:50:58][FINE] No renderer found for entity type: minecraft:hoglin
+[2025-09-03 00:50:58][FINE] No renderer found for entity type: minecraft:vex
+[2025-09-03 00:50:58][FINE] No renderer found for entity type: minecraft:phantom
+[2025-09-03 00:51:00][FINE] No renderer found for entity type: minecraft:skeleton
+[2025-09-03 00:51:00][FINE] No renderer found for entity type: minecraft:piglin_brute
+[2025-09-03 00:51:00][FINE] No renderer found for entity type: minecraft:experience_orb
+[2025-09-03 00:51:04][FINE] No renderer found for entity type: minecraft:enderman
