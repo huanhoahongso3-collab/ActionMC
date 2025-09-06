@@ -19,15 +19,15 @@
     "loop-ticks": 1,
     "enabled-modules": {
       "angle": true,
+      "direction": true,
       "light": true,
-      "weather": true,
-      "time": true,
       "destination": true,
-      "tracking": true,
+      "speed": true,
+      "weather": true,
       "coordinates": true,
       "distance": true,
-      "speed": true,
-      "direction": true
+      "tracking": true,
+      "time": true
     }
   },
   "destination": {
