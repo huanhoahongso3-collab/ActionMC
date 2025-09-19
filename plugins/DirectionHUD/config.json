@@ -18,16 +18,16 @@
     "editing": true,
     "loop-ticks": 1,
     "enabled-modules": {
-      "time": true,
-      "speed": true,
-      "distance": true,
       "angle": true,
       "direction": true,
-      "weather": true,
-      "destination": true,
-      "coordinates": true,
       "light": true,
-      "tracking": true
+      "distance": true,
+      "weather": true,
+      "time": true,
+      "tracking": true,
+      "speed": true,
+      "destination": true,
+      "coordinates": true
     }
   },
   "destination": {
